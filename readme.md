@@ -8,4 +8,5 @@ The data was recoded using Pandas and input into Tableau to map historical "hots
 - Check string splits in original data for accuracy
 - Use Google placenames to generate accurate county data
 - Updata/Recode Gender Data
-- Add data since 2002
+- Add data since 2002 : https://deathpenaltyinfo.org/executions/execution-database
+- Update visualization: https://public.tableau.com/profile/bagerson#!/vizhome/ICPSRexecutions/Sheet1
