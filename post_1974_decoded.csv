@@ -1,0 +1,2215 @@
+,Race,Execution Method,State,Sex,Year,Month,Day,Crimes Committed
+0,White,Firing Squad,Utah,Male,1977,01,17,1
+1,White,Electrocution,Florida,Male,1979,05,25,1
+2,White,Gas,Nevada,Male,1979,10,22,1
+3,White,Electrocution,Indiana,Male,1981,03,09,1
+4,White,Electrocution,Virginia,Male,1982,08,10,1
+5,Black,Lethal Injection,Texas,Male,1982,12,07,1
+6,White,Electrocution,Alabama,Male,1983,04,22,1
+7,White,Gas,Mississippi,Male,1983,09,02,1
+8,White,Electrocution,Florida,Male,1983,11,30,1
+9,Black,Electrocution,Louisiana,Male,1983,12,14,1
+10,White,Electrocution,Georgia,Male,1983,12,15,1
+11,White,Electrocution,Florida,Male,1984,01,26,1
+12,Black,Electrocution,Louisiana,Male,1984,02,29,1
+13,White,Lethal Injection,Texas,Male,1984,03,14,1
+14,White,Lethal Injection,North Carolina,Male,1984,03,16,1
+15,White,Lethal Injection,Texas,Male,1984,03,31,1
+16,White,Electrocution,Louisiana,Male,1984,04,05,1
+17,White,Electrocution,Florida,Male,1984,04,05,1
+18,Black,Electrocution,Florida,Male,1984,05,10,1
+19,White,Electrocution,Florida,Male,1984,06,20,1
+20,Black,Electrocution,Georgia,Male,1984,07,12,1
+21,Black,Electrocution,Florida,Male,1984,07,13,1
+22,White,Electrocution,Florida,Male,1984,09,07,1
+23,White,Electrocution,Louisiana,Male,1984,09,10,1
+24,Black,Electrocution,Florida,Male,1984,09,20,1
+25,Black,Electrocution,Virginia,Male,1984,10,12,1
+26,Black,Electrocution,Louisiana,Male,1984,10,30,1
+27,White,Lethal Injection,Texas,Male,1984,10,30,1
+28,White,Lethal Injection,North Carolina,Female,1984,11,02,1
+29,White,Electrocution,Florida,Male,1984,11,08,1
+30,Black,Electrocution,Georgia,Male,1984,12,12,1
+31,White,Electrocution,Louisiana,Male,1984,12,28,1
+32,White,Electrocution,Louisiana,Male,1985,01,04,1
+33,Black,Electrocution,Georgia,Male,1985,01,09,1
+34,White,Electrocution,South Carolina,Male,1985,01,11,1
+35,White,Lethal Injection,Texas,Male,1985,01,16,1
+36,White,Electrocution,Florida,Male,1985,01,30,1
+37,Black,Electrocution,Georgia,Male,1985,02,20,1
+38,White,Electrocution,Florida,Male,1985,03,06,1
+39,White,Lethal Injection,Texas,Male,1985,03,13,1
+40,Black,Electrocution,Georgia,Male,1985,03,20,1
+41,Black,Electrocution,Virginia,Male,1985,04,18,1
+42,Latino,Lethal Injection,Texas,Male,1985,05,15,1
+43,Black,Electrocution,Florida,Male,1985,05,29,1
+44,Black,Lethal Injection,Texas,Male,1985,06,25,1
+45,Black,Electrocution,Virginia,Male,1985,06,25,1
+46,Latino,Lethal Injection,Texas,Male,1985,07,09,1
+47,White,Lethal Injection,Texas,Male,1985,09,11,1
+48,White,Electrocution,Indiana,Male,1985,10,16,1
+49,White,Lethal Injection,Nevada,Male,1985,12,06,1
+50,White,Electrocution,South Carolina,Male,1986,01,10,1
+51,White,Lethal Injection,Texas,Male,1986,03,12,1
+52,Black,Electrocution,Alabama,Male,1986,03,21,1
+53,Black,Electrocution,Florida,Male,1986,04,15,1
+54,White,Lethal Injection,Texas,Male,1986,04,16,1
+55,Black,Electrocution,Florida,Male,1986,04,22,1
+56,White,Lethal Injection,Texas,Male,1986,05,15,1
+57,White,Electrocution,Florida,Male,1986,05,20,1
+58,Latino,Lethal Injection,Texas,Male,1986,06,09,1
+59,White,Lethal Injection,Texas,Male,1986,06,19,1
+60,Black,Electrocution,Georgia,Male,1986,06,24,1
+61,Black,Electrocution,Virginia,Male,1986,07,31,1
+62,White,Lethal Injection,Texas,Male,1986,08,20,1
+63,Black,Lethal Injection,Texas,Male,1986,08,22,1
+64,White,Lethal Injection,Texas,Male,1986,08,26,1
+65,White,Lethal Injection,North Carolina,Male,1986,09,19,1
+66,Black,Lethal Injection,Texas,Male,1986,12,04,1
+67,Latino,Lethal Injection,Texas,Male,1986,12,18,1
+68,Latino,Lethal Injection,Texas,Male,1987,01,30,1
+69,Latino,Lethal Injection,Texas,Male,1987,03,04,1
+70,Black,Electrocution,Georgia,Male,1987,05,15,1
+71,Black,Gas,Mississippi,Male,1987,05,20,1
+72,Black,Electrocution,Georgia,Male,1987,05,22,1
+73,Black,Lethal Injection,Texas,Male,1987,05,28,1
+74,White,Electrocution,Georgia,Male,1987,05,29,1
+75,White,Electrocution,Louisiana,Male,1987,06,07,1
+76,Black,Electrocution,Louisiana,Male,1987,06,09,1
+77,White,Electrocution,Louisiana,Male,1987,06,12,1
+78,White,Electrocution,Louisiana,Male,1987,06,16,1
+79,Black,Lethal Injection,Texas,Male,1987,06,24,1
+80,White,Electrocution,Virginia,Male,1987,07,06,1
+81,White,Lethal Injection,Texas,Male,1987,07,08,1
+82,Black,Gas,Mississippi,Male,1987,07,08,1
+83,Black,Electrocution,Louisiana,Male,1987,07,20,1
+84,Black,Electrocution,Louisiana,Male,1987,07,24,1
+85,White,Electrocution,Louisiana,Male,1987,07,30,1
+86,White,Electrocution,Louisiana,Male,1987,08,24,1
+87,Black,Electrocution,Florida,Male,1987,08,28,1
+88,White,Electrocution,Alabama,Male,1987,08,28,1
+89,Black,Lethal Injection,Utah,Male,1987,08,28,1
+90,Black,Electrocution,Georgia,Male,1987,09,01,1
+91,White,Lethal Injection,Texas,Male,1987,09,10,1
+92,White,Electrocution,Georgia,Male,1987,09,21,1
+93,White,Lethal Injection,Texas,Male,1988,01,07,1
+94,Black,Electrocution,Florida,Male,1988,03,15,1
+95,White,Electrocution,Louisiana,Male,1988,03,15,1
+96,Black,Electrocution,Louisiana,Male,1988,04,13,1
+97,Black,Electrocution,Virginia,Male,1988,04,14,1
+98,White,Lethal Injection,Utah,Male,1988,06,10,1
+99,White,Electrocution,Louisiana,Male,1988,06,14,1
+100,White,Electrocution,Georgia,Male,1988,07,28,1
+101,Black,Lethal Injection,Texas,Male,1988,11,03,1
+102,White,Electrocution,Florida,Male,1988,11,07,1
+103,Black,Lethal Injection,Texas,Male,1988,12,13,1
+104,White,Lethal Injection,Missouri,Male,1989,01,06,1
+105,White,Electrocution,Florida,Male,1989,01,24,1
+106,Black,Lethal Injection,Texas,Male,1989,03,22,1
+107,White,Electrocution,Florida,Male,1989,05,04,1
+108,Black,Electrocution,Georgia,Male,1989,05,18,1
+109,White,Lethal Injection,Texas,Male,1989,05,24,1
+110,Black,Electrocution,Alabama,Male,1989,05,26,1
+111,White,Lethal Injection,Nevada,Male,1989,06,19,1
+112,Black,Gas,Mississippi,Male,1989,06,21,1
+113,White,Lethal Injection,Nevada,Male,1989,06,23,1
+114,Black,Electrocution,Alabama,Male,1989,07,14,1
+115,Black,Electrocution,Alabama,Male,1989,08,18,1
+116,Black,Electrocution,Virginia,Male,1989,08,30,1
+117,White,Lethal Injection,Texas,Male,1989,09,20,1
+118,Black,Electrocution,Alabama,Male,1989,11,17,1
+119,Latino,Lethal Injection,Texas,Male,1989,12,07,1
+120,White,Lethal Injection,Missouri,Male,1990,01,18,1
+121,Black,Lethal Injection,Texas,Male,1990,04,21,1
+122,White,Electrocution,South Carolina,Male,1990,04,27,1
+123,White,Electrocution,Florida,Male,1990,05,04,1
+124,Black,Lethal Injection,Missouri,Male,1990,05,11,1
+125,White,Lethal Injection,Missouri,Male,1990,05,17,1
+126,White,Lethal Injection,Texas,Male,1990,05,17,1
+127,Black,Electrocution,Louisiana,Male,1990,05,18,1
+128,White,Lethal Injection,Nevada,Male,1990,06,03,1
+129,White,Electrocution,Arkansas,Male,1990,06,18,1
+130,White,Lethal Injection,Arkansas,Male,1990,06,25,1
+131,Black,Lethal Injection,Texas,Male,1990,06,26,1
+132,Black,Electrocution,Alabama,Male,1990,07,13,1
+133,White,Lethal Injection,Texas,Male,1990,07,18,1
+134,White,Electrocution,Virginia,Male,1990,07,19,1
+135,Black,Electrocution,Florida,Male,1990,07,27,1
+136,White,Lethal Injection,Missouri,Male,1990,08,31,1
+137,White,Lethal Injection,Oklahoma,Male,1990,09,10,1
+138,White,Lethal Injection,Illinois,Male,1990,09,12,1
+139,White,Electrocution,Florida,Male,1990,09,21,1
+140,Black,Electrocution,Virginia,Male,1990,10,17,1
+141,White,Electrocution,Florida,Male,1990,11,19,1
+142,White,Electrocution,Virginia,Male,1990,12,13,1
+143,Black,Lethal Injection,Texas,Male,1991,02,26,1
+144,White,Electrocution,Florida,Male,1991,04,24,1
+145,Latino,Lethal Injection,Texas,Male,1991,05,23,1
+146,White,Lethal Injection,Texas,Male,1991,06,17,1
+147,Black,Electrocution,Florida,Male,1991,06,25,1
+148,Black,Electrocution,Louisiana,Male,1991,07,22,1
+149,White,Electrocution,Virginia,Male,1991,07,24,1
+150,Black,Electrocution,Virginia,Male,1991,08,22,1
+151,Black,Lethal Injection,Missouri,Male,1991,08,23,1
+152,White,Electrocution,South Carolina,Male,1991,09,06,1
+153,Black,Lethal Injection,Texas,Male,1991,09,19,1
+154,Black,Electrocution,Georgia,Male,1991,09,25,1
+155,White,Lethal Injection,North Carolina,Male,1991,10,18,1
+156,White,Lethal Injection,Texas,Male,1991,11,12,1
+157,White,Lethal Injection,Wyoming,Male,1992,01,22,1
+158,Latino,Lethal Injection,Texas,Male,1992,01,22,1
+159,Black,Lethal Injection,Arkansas,Male,1992,01,24,1
+160,White,Lethal Injection,Texas,Male,1992,02,11,1
+161,White,Lethal Injection,Texas,Male,1992,02,28,1
+162,White,Lethal Injection,Texas,Male,1992,03,03,1
+163,Black,Lethal Injection,Oklahoma,Male,1992,03,10,1
+164,White,Lethal Injection,Oklahoma,Male,1992,03,13,1
+165,White,Lethal Injection,Delaware,Male,1992,03,14,1
+166,White,Electrocution,Alabama,Male,1992,03,20,1
+167,White,Gas,Arizona,Male,1992,04,06,1
+168,White,Gas,California,Male,1992,04,21,1
+169,Black,Lethal Injection,Texas,Male,1992,04,23,1
+170,White,Lethal Injection,Texas,Male,1992,05,07,1
+171,White,Lethal Injection,Arkansas,Male,1992,05,07,1
+172,White,Electrocution,Florida,Male,1992,05,12,1
+173,Latino,Lethal Injection,Texas,Male,1992,05,20,1
+174,White,Electrocution,Virginia,Male,1992,05,20,1
+175,White,Lethal Injection,Texas,Male,1992,05,22,1
+176,Black,Electrocution,Florida,Male,1992,07,21,1
+177,White,Electrocution,Virginia,Male,1992,07,23,1
+178,Black,Lethal Injection,Utah,Male,1992,07,30,1
+179,Black,Lethal Injection,Texas,Male,1992,08,11,1
+180,Black,Electrocution,Virginia,Male,1992,09,15,1
+181,Black,Lethal Injection,Texas,Male,1992,09,22,1
+182,White,Lethal Injection,Missouri,Male,1992,10,21,1
+183,White,Lethal Injection,North Carolina,Male,1992,10,23,1
+184,Black,Lethal Injection,Texas,Male,1992,11,19,1
+185,Black,Electrocution,Alabama,Male,1992,11,20,1
+186,Black,Lethal Injection,Texas,Male,1992,12,10,1
+187,White,Electrocution,Virginia,Male,1992,12,10,1
+188,White,Hanging,Washington,Male,1993,01,05,1
+189,Black,Electrocution,Virginia,Male,1993,01,19,1
+190,Black,Lethal Injection,Missouri,Male,1993,01,27,1
+191,White,Lethal Injection,Arizona,Male,1993,03,03,1
+192,Native American,Lethal Injection,Delaware,Male,1993,03,03,1
+193,White,Lethal Injection,Louisiana,Male,1993,03,05,1
+194,Black,Electrocution,Virginia,Male,1993,03,18,1
+195,Latino,Lethal Injection,Texas,Male,1993,03,23,1
+196,Latino,Lethal Injection,Texas,Male,1993,03,25,1
+197,White,Lethal Injection,Arizona,Male,1993,04,14,1
+198,White,Electrocution,Florida,Male,1993,04,21,1
+199,Black,Lethal Injection,Texas,Male,1993,05,04,1
+200,White,Electrocution,Florida,Male,1993,05,05,1
+201,Latino,Lethal Injection,Texas,Male,1993,05,12,1
+202,White,Lethal Injection,Texas,Male,1993,05,18,1
+203,White,Electrocution,Virginia,Male,1993,06,17,1
+204,White,Electrocution,Georgia,Male,1993,06,28,1
+205,White,Lethal Injection,Texas,Male,1993,06,29,1
+206,Black,Lethal Injection,Texas,Male,1993,07,01,1
+207,Black,Lethal Injection,Missouri,Male,1993,07,21,1
+208,Black,Lethal Injection,Missouri,Male,1993,07,28,1
+209,Black,Lethal Injection,Texas,Male,1993,07,30,1
+210,White,Lethal Injection,Texas,Male,1993,08,05,1
+211,White,Lethal Injection,Texas,Male,1993,08,12,1
+212,Black,Lethal Injection,Texas,Male,1993,08,20,1
+213,Latino,Lethal Injection,Texas,Male,1993,08,24,1
+214,White,Gas,California,Male,1993,08,24,1
+215,White,Electrocution,Florida,Male,1993,08,25,1
+216,Black,Lethal Injection,Texas,Male,1993,08,31,1
+217,Black,Lethal Injection,Delaware,Male,1993,08,31,1
+218,White,Lethal Injection,Texas,Male,1993,09,03,1
+219,Black,Electrocution,Virginia,Male,1993,09,14,1
+220,Black,Lethal Injection,Texas,Male,1993,09,28,1
+221,White,Lethal Injection,Missouri,Male,1993,10,06,1
+222,White,Lethal Injection,Texas,Male,1993,11,10,1
+223,White,Electrocution,Georgia,Male,1993,12,07,1
+224,Black,Lethal Injection,Texas,Male,1993,12,15,1
+225,White,Electrocution,Virginia,Male,1993,12,16,1
+226,White,Lethal Injection,Idaho,Male,1994,01,06,1
+227,White,Lethal Injection,Texas,Male,1994,02,02,1
+228,Black,Electrocution,Virginia,Male,1994,03,03,1
+229,Black,Lethal Injection,Texas,Male,1994,03,31,1
+230,Black,Electrocution,Georgia,Male,1994,03,31,1
+231,White,Lethal Injection,Texas,Male,1994,04,04,1
+232,White,Electrocution,Florida,Male,1994,04,22,1
+233,White,Lethal Injection,Texas,Male,1994,04,26,1
+234,Black,Electrocution,Virginia,Male,1994,04,27,1
+235,Black,Lethal Injection,Texas,Male,1994,05,03,1
+236,White,Lethal Injection,Illinois,Male,1994,05,10,1
+237,Black,Lethal Injection,Arkansas,Male,1994,05,11,1
+238,White,Lethal Injection,Arkansas,Male,1994,05,11,1
+239,White,Lethal Injection,Maryland,Male,1994,05,17,1
+240,White,Lethal Injection,Texas,Male,1994,05,27,1
+241,White,Hanging,Washington,Male,1994,05,27,1
+242,White,Lethal Injection,Texas,Male,1994,06,14,1
+243,White,Gas,North Carolina,Male,1994,06,15,1
+244,Black,Lethal Injection,Delaware,Male,1994,06,23,1
+245,White,Lethal Injection,Texas,Male,1994,08,02,1
+246,White,Lethal Injection,Arkansas,Male,1994,08,03,1
+247,White,Lethal Injection,Arkansas,Male,1994,08,03,1
+248,White,Lethal Injection,Arkansas,Male,1994,08,03,1
+249,Black,Electrocution,Nebraska,Male,1994,09,02,1
+250,Latino,Lethal Injection,Texas,Male,1994,09,16,1
+251,White,Lethal Injection,Texas,Male,1994,09,20,1
+252,Black,Lethal Injection,Texas,Male,1994,10,05,1
+253,White,Lethal Injection,Texas,Male,1994,11,22,1
+254,Black,Lethal Injection,Texas,Male,1994,12,06,1
+255,Black,Electrocution,Indiana,Male,1994,12,08,1
+256,White,Lethal Injection,Texas,Male,1994,12,11,1
+257,White,Lethal Injection,Texas,Male,1995,01,04,1
+258,Latino,Lethal Injection,Texas,Male,1995,01,17,1
+259,White,Lethal Injection,North Carolina,Male,1995,01,24,1
+260,Black,Lethal Injection,Virginia,Male,1995,01,24,1
+261,White,Lethal Injection,Texas,Male,1995,01,31,1
+262,Black,Lethal Injection,Texas,Male,1995,01,31,1
+263,White,Lethal Injection,Texas,Male,1995,02,07,1
+264,White,Lethal Injection,Texas,Male,1995,02,16,1
+265,Black,Lethal Injection,Texas,Male,1995,02,21,1
+266,White,Lethal Injection,Delaware,Male,1995,03,17,1
+267,White,Lethal Injection,Oklahoma,Male,1995,03,20,1
+268,Black,Lethal Injection,Illinois,Male,1995,03,22,1
+269,White,Lethal Injection,Illinois,Male,1995,03,22,1
+270,White,Lethal Injection,Texas,Male,1995,04,06,1
+271,White,Electrocution,Georgia,Male,1995,04,07,1
+272,White,Lethal Injection,Arkansas,Male,1995,04,19,1
+273,Black,Electrocution,Alabama,Male,1995,04,28,1
+274,White,Lethal Injection,Pennsylvania,Male,1995,05,02,1
+275,Black,Lethal Injection,Missouri,Male,1995,05,03,1
+276,White,Lethal Injection,Montana,Male,1995,05,10,1
+277,Black,Electrocution,Alabama,Male,1995,05,12,1
+278,Black,Lethal Injection,Louisiana,Male,1995,05,16,1
+279,Black,Lethal Injection,Illinois,Male,1995,05,17,1
+280,White,Electrocution,Georgia,Male,1995,05,17,1
+281,Black,Lethal Injection,Virginia,Male,1995,05,25,1
+282,White,Lethal Injection,Texas,Male,1995,06,01,1
+283,Black,Lethal Injection,Texas,Male,1995,06,08,1
+284,Black,Lethal Injection,Texas,Male,1995,06,20,1
+285,Black,Lethal Injection,Texas,Male,1995,06,21,1
+286,Black,Lethal Injection,Missouri,Male,1995,06,21,1
+287,White,Lethal Injection,Oklahoma,Male,1995,07,01,1
+288,White,Electrocution,Florida,Male,1995,07,18,1
+289,Black,Lethal Injection,Missouri,Male,1995,07,26,1
+290,White,Lethal Injection,Oklahoma,Male,1995,08,11,1
+291,Black,Lethal Injection,Texas,Male,1995,08,15,1
+292,White,Lethal Injection,Pennsylvania,Male,1995,08,16,1
+293,Black,Lethal Injection,South Carolina,Male,1995,08,18,1
+294,Black,Lethal Injection,Arkansas,Male,1995,08,31,1
+295,White,Lethal Injection,Arizona,Male,1995,09,13,1
+296,Black,Lethal Injection,Texas,Male,1995,09,19,1
+297,White,Lethal Injection,Illinois,Male,1995,09,20,1
+298,White,Lethal Injection,North Carolina,Male,1995,09,22,1
+299,White,Lethal Injection,Virginia,Male,1995,09,27,1
+300,White,Lethal Injection,Texas,Male,1995,10,04,1
+301,White,Lethal Injection,Virginia,Male,1995,10,19,1
+302,Black,Lethal Injection,Virginia,Male,1995,11,13,1
+303,White,Lethal Injection,Missouri,Male,1995,11,15,1
+304,White,Lethal Injection,Illinois,Male,1995,11,22,1
+305,White,Lethal Injection,Missouri,Male,1995,11,29,1
+306,Black,Electrocution,Florida,Male,1995,12,04,1
+307,White,Electrocution,Florida,Male,1995,12,05,1
+308,White,Lethal Injection,Missouri,Male,1995,12,06,1
+309,Black,Lethal Injection,Texas,Male,1995,12,06,1
+310,Asian,Lethal Injection,Texas,Male,1995,12,07,1
+311,Latino,Lethal Injection,Texas,Male,1995,12,11,1
+312,White,Lethal Injection,Texas,Male,1995,12,12,1
+313,White,Lethal Injection,Virginia,Male,1996,01,04,1
+314,Black,Lethal Injection,Virginia,Male,1996,01,23,1
+315,White,Hanging,Delaware,Male,1996,01,25,1
+317,Black,Lethal Injection,Delaware,Male,1996,01,30,1
+318,White,Lethal Injection,Texas,Male,1996,02,09,1
+319,Black,Electrocution,Alabama,Male,1996,02,16,1
+320,White,Lethal Injection,Missouri,Male,1996,02,21,1
+321,White,Lethal Injection,California,Male,1996,02,23,1
+322,Black,Lethal Injection,Texas,Male,1996,02,27,1
+323,Black,Lethal Injection,Louisiana,Male,1996,03,01,1
+324,White,Lethal Injection,Nevada,Male,1996,03,30,1
+325,White,Lethal Injection,Missouri,Male,1996,04,10,1
+327,White,Lethal Injection,Oklahoma,Male,1996,04,26,1
+328,White,Lethal Injection,California,Male,1996,05,03,1
+329,White,Lethal Injection,South Carolina,Male,1996,05,31,1
+330,White,Lethal Injection,Arizona,Male,1996,06,19,1
+331,White,Electrocution,Nebraska,Male,1996,07,17,1
+332,White,Lethal Injection,Virginia,Male,1996,07,17,1
+333,Black,Lethal Injection,Indiana,Male,1996,07,18,1
+334,White,Lethal Injection,South Carolina,Male,1996,07,19,1
+335,Native American,Lethal Injection,Missouri,Male,1996,07,31,1
+336,Black,Lethal Injection,Missouri,Male,1996,08,07,1
+337,White,Lethal Injection,Arkansas,Male,1996,08,08,1
+338,White,Lethal Injection,Oklahoma,Male,1996,08,09,1
+339,White,Lethal Injection,Missouri,Male,1996,08,21,1
+340,Latino,Lethal Injection,Arizona,Male,1996,08,22,1
+341,White,Lethal Injection,South Carolina,Male,1996,09,06,1
+342,White,Lethal Injection,Oregon,Male,1996,09,06,1
+343,Black,Lethal Injection,Illinois,Male,1996,09,18,1
+344,Latino,Lethal Injection,Texas,Male,1996,09,18,1
+345,White,Electrocution,South Carolina,Male,1996,10,04,1
+346,Black,Electrocution,Florida,Male,1996,10,21,1
+347,White,Electrocution,Georgia,Male,1996,11,14,1
+348,White,Lethal Injection,South Carolina,Male,1996,11,15,1
+349,White,Electrocution,Georgia,Male,1996,11,15,1
+350,Black,Lethal Injection,Virginia,Male,1996,11,21,1
+351,Black,Lethal Injection,South Carolina,Male,1996,11,22,1
+352,White,Lethal Injection,Virginia,Male,1996,12,03,1
+353,Black,Electrocution,Florida,Male,1996,12,06,1
+354,Black,Lethal Injection,Virginia,Male,1996,12,10,1
+355,White,Lethal Injection,Missouri,Male,1996,12,11,1
+356,White,Lethal Injection,Virginia,Male,1996,12,12,1
+357,White,Lethal Injection,Virginia,Male,1996,12,16,1
+358,White,Lethal Injection,Arkansas,Male,1997,01,08,1
+359,Latino,Lethal Injection,Arkansas,Male,1997,01,08,1
+360,Black,Lethal Injection,Arkansas,Male,1997,01,08,1
+361,White,Electrocution,Alabama,Male,1997,01,10,1
+362,White,Lethal Injection,Arizona,Male,1997,01,23,1
+363,White,Lethal Injection,Missouri,Male,1997,01,29,1
+364,White,Lethal Injection,Virginia,Male,1997,02,06,1
+365,White,Lethal Injection,Texas,Male,1997,02,10,1
+366,Black,Lethal Injection,Virginia,Male,1997,02,26,1
+367,Black,Lethal Injection,Texas,Male,1997,03,12,1
+368,Latino,Electrocution,Florida,Male,1997,03,25,1
+369,White,Lethal Injection,Texas,Male,1997,04,02,1
+370,White,Lethal Injection,Texas,Male,1997,04,03,1
+371,White,Lethal Injection,Texas,Male,1997,04,14,1
+372,White,Lethal Injection,Texas,Male,1997,04,16,1
+373,White,Lethal Injection,Texas,Male,1997,04,21,1
+374,White,Lethal Injection,Louisiana,Male,1997,04,24,1
+375,White,Lethal Injection,Texas,Male,1997,04,29,1
+376,Black,Electrocution,Alabama,Male,1997,05,02,1
+377,Black,Lethal Injection,Texas,Male,1997,05,06,1
+378,Native American,Lethal Injection,Oklahoma,Male,1997,05,08,1
+379,Black,Lethal Injection,Texas,Male,1997,05,13,1
+380,White,Lethal Injection,Oregon,Male,1997,05,16,1
+381,White,Lethal Injection,Texas,Male,1997,05,16,1
+382,White,Lethal Injection,Texas,Male,1997,05,19,1
+383,White,Lethal Injection,Texas,Male,1997,05,20,1
+384,Black,Lethal Injection,Texas,Male,1997,05,21,1
+385,White,Lethal Injection,Texas,Male,1997,05,22,1
+386,White,Lethal Injection,Texas,Male,1997,05,28,1
+387,Black,Lethal Injection,Texas,Male,1997,06,02,1
+388,Black,Lethal Injection,Texas,Male,1997,06,03,1
+389,Black,Lethal Injection,Texas,Male,1997,06,04,1
+390,Latino,Lethal Injection,Texas,Male,1997,06,04,1
+391,White,Electrocution,Alabama,Male,1997,06,06,1
+392,White,Lethal Injection,Texas,Male,1997,06,11,1
+393,White,Lethal Injection,South Carolina,Male,1997,06,13,1
+394,White,Lethal Injection,Texas,Male,1997,06,16,1
+395,Black,Lethal Injection,Texas,Male,1997,06,17,1
+396,Latino,Lethal Injection,Texas,Male,1997,06,18,1
+397,White,Lethal Injection,Arizona,Male,1997,06,25,1
+398,White,Electrocution,Kentucky,Male,1997,07,01,1
+399,Black,Lethal Injection,Maryland,Male,1997,07,02,1
+400,White,Lethal Injection,Virginia,Male,1997,07,17,1
+401,White,Lethal Injection,Virginia,Male,1997,07,23,1
+402,Native American,Lethal Injection,Texas,Male,1997,07,29,1
+403,White,Lethal Injection,Missouri,Male,1997,08,06,1
+404,White,Lethal Injection,Arkansas,Male,1997,08,06,1
+405,White,Lethal Injection,Missouri,Male,1997,08,13,1
+406,Black,Lethal Injection,Virginia,Male,1997,08,19,1
+407,White,Lethal Injection,Missouri,Male,1997,08,20,1
+408,Black,Lethal Injection,Texas,Male,1997,09,09,1
+409,Latino,Lethal Injection,Virginia,Male,1997,09,17,1
+410,Black,Lethal Injection,Texas,Male,1997,09,22,1
+411,Black,Lethal Injection,Missouri,Male,1997,09,24,1
+412,White,Lethal Injection,Texas,Male,1997,09,25,1
+413,White,Lethal Injection,Texas,Male,1997,09,30,1
+414,Black,Lethal Injection,Texas,Male,1997,10,01,1
+415,White,Lethal Injection,Texas,Male,1997,10,08,1
+416,White,Lethal Injection,Colorado,Male,1997,10,13,1
+417,White,Lethal Injection,Missouri,Male,1997,10,22,1
+418,Black,Lethal Injection,Texas,Male,1997,10,28,1
+419,Asian,Lethal Injection,Texas,Male,1997,11,04,1
+420,White,Lethal Injection,Texas,Male,1997,11,06,1
+421,Black,Lethal Injection,South Carolina,Male,1997,11,07,1
+422,Black,Lethal Injection,Virginia,Male,1997,11,13,1
+423,Black,Lethal Injection,Illinois,Male,1997,11,19,1
+424,Black,Lethal Injection,Illinois,Male,1997,11,19,1
+425,White,Lethal Injection,Texas,Male,1997,11,19,1
+426,Black,Lethal Injection,Indiana,Male,1997,11,20,1
+427,Black,Lethal Injection,Texas,Male,1997,11,21,1
+429,White,Lethal Injection,Texas,Male,1997,12,09,1
+430,Black,Lethal Injection,Virginia,Male,1997,12,09,1
+431,White,Lethal Injection,Virginia,Male,1997,12,11,1
+432,White,Lethal Injection,Illinois,Male,1998,01,21,1
+433,Latino,Lethal Injection,Arizona,Male,1998,01,21,1
+434,White,Lethal Injection,Indiana,Male,1998,01,29,1
+435,White,Gas,North Carolina,Male,1998,01,30,1
+436,White,Lethal Injection,Texas,Female,1998,02,03,1
+437,White,Lethal Injection,Texas,Male,1998,02,09,1
+438,Black,Lethal Injection,Virginia,Male,1998,02,10,1
+439,White,Lethal Injection,Oklahoma,Male,1998,02,20,1
+440,White,Lethal Injection,Montana,Male,1998,02,24,1
+441,Black,Lethal Injection,Missouri,Male,1998,02,25,1
+442,White,Lethal Injection,South Carolina,Male,1998,03,06,1
+443,White,Lethal Injection,Texas,Male,1998,03,11,1
+444,White,Lethal Injection,Virginia,Male,1998,03,18,1
+445,White,Electrocution,Florida,Male,1998,03,23,1
+446,Black,Electrocution,Florida,Male,1998,03,24,1
+447,Black,Lethal Injection,Missouri,Male,1998,03,25,1
+448,Black,Lethal Injection,Virginia,Male,1998,03,25,1
+449,White,Electrocution,Florida,Female,1998,03,30,1
+450,Native American,Electrocution,Florida,Male,1998,03,31,1
+451,Latino,Lethal Injection,Virginia,Male,1998,04,14,1
+452,White,Lethal Injection,Missouri,Male,1998,04,22,1
+453,Latino,Lethal Injection,Arizona,Male,1998,04,22,1
+454,White,Lethal Injection,Texas,Male,1998,04,22,1
+455,White,Lethal Injection,Texas,Male,1998,04,24,1
+456,White,Lethal Injection,Arizona,Male,1998,04,29,1
+457,White,Lethal Injection,Texas,Male,1998,04,29,1
+458,White,Electrocution,Alabama,Male,1998,05,08,1
+459,Black,Lethal Injection,Texas,Male,1998,05,18,1
+460,Latino,Lethal Injection,Texas,Male,1998,05,19,1
+461,White,Lethal Injection,Arizona,Male,1998,06,03,1
+462,White,Electrocution,Georgia,Male,1998,06,09,1
+463,White,Lethal Injection,Texas,Male,1998,06,11,1
+464,White,Lethal Injection,Texas,Male,1998,06,15,1
+465,White,Lethal Injection,Virginia,Male,1998,06,18,1
+466,Latino,Lethal Injection,Texas,Male,1998,06,26,1
+467,White,Lethal Injection,Arkansas,Male,1998,07,08,1
+468,White,Lethal Injection,South Carolina,Male,1998,07,10,1
+469,White,Lethal Injection,California,Male,1998,07,14,1
+470,White,Lethal Injection,Virginia,Male,1998,07,23,1
+471,White,Lethal Injection,Oklahoma,Male,1998,08,05,1
+472,White,Lethal Injection,North Carolina,Male,1998,08,14,1
+473,Black,Lethal Injection,Virginia,Male,1998,08,20,1
+474,Latino,Lethal Injection,Texas,Male,1998,08,26,1
+475,Black,Lethal Injection,Virginia,Male,1998,08,31,1
+476,White,Lethal Injection,Texas,Male,1998,09,09,1
+477,Latino,Lethal Injection,Texas,Male,1998,09,23,1
+478,White,Electrocution,Virginia,Male,1998,09,23,1
+479,White,Lethal Injection,South Carolina,Male,1998,09,25,1
+480,Latino,Lethal Injection,Texas,Male,1998,10,01,1
+481,Latino,Lethal Injection,Nevada,Male,1998,10,05,1
+482,White,Lethal Injection,Texas,Male,1998,10,07,1
+483,White,Lethal Injection,Washington,Male,1998,10,13,1
+484,Black,Lethal Injection,Virginia,Male,1998,10,14,1
+485,Black,Lethal Injection,Virginia,Male,1998,10,21,1
+486,Black,Lethal Injection,Maryland,Male,1998,11,16,1
+487,White,Lethal Injection,Texas,Male,1998,11,17,1
+488,Black,Lethal Injection,Virginia,Male,1998,11,17,1
+489,White,Lethal Injection,North Carolina,Male,1998,11,20,1
+490,Black,Lethal Injection,Virginia,Male,1998,12,03,1
+491,Black,Lethal Injection,South Carolina,Male,1998,12,04,1
+492,Black,Lethal Injection,South Carolina,Male,1998,12,04,1
+493,White,Lethal Injection,Texas,Male,1998,12,07,1
+494,White,Lethal Injection,Texas,Male,1998,12,08,1
+495,Asian,Lethal Injection,Oklahoma,Male,1998,12,10,1
+496,Black,Lethal Injection,South Carolina,Male,1998,12,11,1
+497,Black,Lethal Injection,Texas,Male,1998,12,15,1
+498,White,Lethal Injection,Oklahoma,Male,1998,12,17,1
+499,Black,Lethal Injection,South Carolina,Male,1998,12,18,1
+500,White,Lethal Injection,Texas,Male,1999,01,05,1
+501,Native American,Lethal Injection,Oklahoma,Male,1999,01,07,1
+502,Black,Lethal Injection,South Carolina,Male,1999,01,08,1
+503,Black,Lethal Injection,Louisiana,Male,1999,01,08,1
+504,Black,Lethal Injection,Missouri,Male,1999,01,13,1
+505,White,Lethal Injection,Arizona,Male,1999,01,13,1
+506,White,Lethal Injection,Texas,Male,1999,01,13,1
+507,Black,Lethal Injection,Virginia,Male,1999,01,20,1
+508,White,Lethal Injection,South Carolina,Male,1999,01,22,1
+509,Latino,Lethal Injection,Texas,Male,1999,01,26,1
+510,Native American,Lethal Injection,Arizona,Male,1999,02,03,1
+511,White,Lethal Injection,Oklahoma,Male,1999,02,04,1
+512,White,Lethal Injection,Virginia,Male,1999,02,04,1
+513,Asian,Lethal Injection,California,Male,1999,02,09,1
+514,Latino,Lethal Injection,Texas,Male,1999,02,10,1
+515,White,Lethal Injection,Texas,Male,1999,02,11,1
+516,Latino,Lethal Injection,Texas,Male,1999,02,16,1
+517,White,Lethal Injection,Arkansas,Male,1999,02,16,1
+518,White,Lethal Injection,Ohio,Male,1999,02,19,1
+519,White,Lethal Injection,Missouri,Male,1999,02,24,1
+520,Black,Lethal Injection,Texas,Male,1999,02,24,1
+521,White,Lethal Injection,Arizona,Male,1999,02,24,1
+522,White,Gas,Arizona,Male,1999,03,03,1
+523,White,Lethal Injection,Virginia,Male,1999,03,09,1
+524,White,Lethal Injection,Missouri,Male,1999,03,10,1
+525,White,Lethal Injection,Illinois,Male,1999,03,17,1
+526,White,Lethal Injection,Virginia,Male,1999,03,25,1
+527,Black,Lethal Injection,Texas,Male,1999,03,26,1
+528,White,Lethal Injection,North Carolina,Male,1999,03,26,1
+529,White,Lethal Injection,Texas,Male,1999,03,30,1
+530,Asian,Lethal Injection,Nevada,Male,1999,04,05,1
+531,White,Lethal Injection,Arkansas,Male,1999,04,12,1
+532,Black,Lethal Injection,Virginia,Male,1999,04,13,1
+533,Black,Lethal Injection,Missouri,Male,1999,04,14,1
+534,White,Lethal Injection,Virginia,Male,1999,04,20,1
+535,White,Lethal Injection,Delaware,Male,1999,04,23,1
+536,Black,Lethal Injection,Missouri,Male,1999,04,28,1
+537,White,Lethal Injection,Texas,Male,1999,04,28,1
+538,White,Lethal Injection,Virginia,Male,1999,04,28,1
+539,White,Lethal Injection,Virginia,Male,1999,04,29,1
+540,Black,Lethal Injection,California,Male,1999,05,04,1
+541,Latino,Lethal Injection,Texas,Male,1999,05,04,1
+542,White,Lethal Injection,Arizona,Male,1999,05,05,1
+543,Black,Lethal Injection,Texas,Male,1999,05,05,1
+544,White,Lethal Injection,Kentucky,Male,1999,05,25,1
+545,Black,Lethal Injection,Missouri,Male,1999,05,26,1
+546,White,Lethal Injection,Texas,Male,1999,06,01,1
+547,White,Lethal Injection,Oklahoma,Male,1999,06,03,1
+548,Black,Lethal Injection,Missouri,Male,1999,06,16,1
+549,White,Lethal Injection,Arizona,Male,1999,06,16,1
+550,White,Lethal Injection,Texas,Male,1999,06,17,1
+551,Black,Electrocution,Alabama,Male,1999,06,18,1
+552,White,Lethal Injection,Missouri,Male,1999,06,30,1
+553,White,Lethal Injection,Texas,Male,1999,07,01,1
+554,White,Lethal Injection,Pennsylvania,Male,1999,07,06,1
+555,Black,Lethal Injection,Texas,Male,1999,07,07,1
+556,White,Lethal Injection,Oklahoma,Male,1999,07,08,1
+557,White,Electrocution,Florida,Male,1999,07,08,1
+558,White,Lethal Injection,Virginia,Male,1999,07,21,1
+559,White,Lethal Injection,Texas,Male,1999,08,04,1
+560,Black,Lethal Injection,Texas,Male,1999,08,05,1
+561,Black,Electrocution,Alabama,Male,1999,08,06,1
+562,Black,Lethal Injection,Texas,Male,1999,08,10,1
+563,White,Lethal Injection,Texas,Male,1999,08,11,1
+564,Black,Lethal Injection,Virginia,Male,1999,08,17,1
+565,Latino,Lethal Injection,Texas,Male,1999,08,18,1
+566,White,Lethal Injection,Missouri,Male,1999,09,01,1
+567,Black,Lethal Injection,Texas,Male,1999,09,01,1
+568,White,Lethal Injection,Arkansas,Male,1999,09,08,1
+569,White,Lethal Injection,Arkansas,Male,1999,09,08,1
+570,Black,Lethal Injection,Texas,Male,1999,09,10,1
+571,Black,Lethal Injection,Texas,Male,1999,09,14,1
+572,White,Lethal Injection,Virginia,Male,1999,09,16,1
+573,White,Lethal Injection,Texas,Male,1999,09,21,1
+574,Black,Lethal Injection,Delaware,Male,1999,09,24,1
+575,Black,Lethal Injection,North Carolina,Male,1999,09,24,1
+576,White,Lethal Injection,Texas,Male,1999,10,12,1
+577,White,Lethal Injection,Texas,Male,1999,10,14,1
+578,White,Lethal Injection,Utah,Male,1999,10,15,1
+579,Black,Lethal Injection,Virginia,Male,1999,10,19,1
+580,White,Lethal Injection,North Carolina,Male,1999,10,21,1
+581,Latino,Lethal Injection,Arizona,Male,1999,10,27,1
+582,Native American,Lethal Injection,Texas,Male,1999,10,28,1
+583,Black,Lethal Injection,Virginia,Male,1999,11,09,1
+584,Black,Lethal Injection,South Carolina,Male,1999,11,12,1
+585,Black,Lethal Injection,Texas,Male,1999,11,16,1
+586,White,Lethal Injection,Texas,Male,1999,11,17,1
+587,Latino,Lethal Injection,Texas,Male,1999,11,18,1
+588,Black,Lethal Injection,North Carolina,Male,1999,11,19,1
+589,Black,Lethal Injection,Oklahoma,Male,1999,12,02,1
+590,White,Lethal Injection,South Carolina,Male,1999,12,03,1
+591,White,Lethal Injection,Texas,Male,1999,12,08,1
+592,Black,Lethal Injection,Oklahoma,Male,1999,12,09,1
+593,White,Lethal Injection,Indiana,Male,1999,12,09,1
+594,White,Lethal Injection,Texas,Male,1999,12,09,1
+595,Black,Lethal Injection,Virginia,Male,1999,12,09,1
+596,White,Lethal Injection,Texas,Male,1999,12,14,1
+597,Black,Lethal Injection,Texas,Male,1999,12,15,1
+598,Black,Lethal Injection,Oklahoma,Male,2000,01,06,1
+599,White,Electrocution,Alabama,Male,2000,01,07,1
+600,White,Lethal Injection,Virginia,Male,2000,01,10,1
+601,White,Lethal Injection,Texas,Male,2000,01,12,1
+602,White,Lethal Injection,Oklahoma,Male,2000,01,13,1
+603,White,Lethal Injection,Virginia,Male,2000,01,13,1
+604,White,Lethal Injection,Texas,Male,2000,01,18,1
+605,Black,Lethal Injection,Texas,Male,2000,01,20,1
+606,White,Lethal Injection,Texas,Male,2000,01,21,1
+607,White,Lethal Injection,Texas,Male,2000,01,24,1
+608,Black,Lethal Injection,Texas,Male,2000,01,25,1
+609,White,Lethal Injection,Texas,Male,2000,01,27,1
+610,Black,Lethal Injection,Oklahoma,Male,2000,02,10,1
+611,White,Lethal Injection,Arizona,Male,2000,02,16,1
+612,White,Lethal Injection,Florida,Male,2000,02,23,1
+613,Black,Lethal Injection,Texas,Male,2000,02,23,1
+614,White,Lethal Injection,Florida,Male,2000,02,24,1
+615,White,Lethal Injection,Texas,Female,2000,02,24,1
+616,Black,Lethal Injection,Texas,Male,2000,03,01,1
+617,Black,Electrocution,Alabama,Male,2000,03,03,1
+618,Black,Lethal Injection,Texas,Male,2000,03,14,1
+619,Native American,Lethal Injection,California,Male,2000,03,15,1
+620,White,Lethal Injection,Arizona,Male,2000,03,15,1
+621,White,Lethal Injection,Texas,Male,2000,03,15,1
+622,Black,Lethal Injection,Virginia,Male,2000,03,16,1
+623,White,Lethal Injection,Missouri,Male,2000,03,22,1
+624,Black,Lethal Injection,Oklahoma,Male,2000,03,23,1
+625,Black,Electrocution,Alabama,Male,2000,04,14,1
+626,White,Lethal Injection,Tennessee,Male,2000,04,19,1
+627,Black,Lethal Injection,Oklahoma,Male,2000,04,27,1
+628,White,Lethal Injection,Arkansas,Female,2000,05,02,1
+629,Black,Lethal Injection,Texas,Male,2000,05,04,1
+630,White,Lethal Injection,Texas,Male,2000,05,09,1
+631,White,Lethal Injection,Texas,Male,2000,05,11,1
+632,Black,Lethal Injection,Texas,Male,2000,05,23,1
+633,White,Lethal Injection,Texas,Male,2000,05,24,1
+634,Black,Lethal Injection,Oklahoma,Male,2000,05,25,1
+635,Black,Lethal Injection,Texas,Male,2000,05,25,1
+637,Native American,Lethal Injection,Oklahoma,Male,2000,06,01,1
+638,Black,Electrocution,Alabama,Male,2000,06,02,1
+639,Black,Lethal Injection,Louisiana,Male,2000,06,06,1
+640,Black,Lethal Injection,Florida,Male,2000,06,07,1
+641,White,Lethal Injection,Oklahoma,Male,2000,06,08,1
+642,White,Lethal Injection,Texas,Male,2000,06,12,1
+643,Black,Lethal Injection,Texas,Male,2000,06,14,1
+644,Black,Lethal Injection,Oklahoma,Male,2000,06,15,1
+645,Latino,Lethal Injection,Texas,Male,2000,06,15,1
+646,White,Lethal Injection,Florida,Male,2000,06,21,1
+647,Black,Lethal Injection,Texas,Male,2000,06,22,1
+648,White,Lethal Injection,Missouri,Male,2000,06,28,1
+649,Latino,Lethal Injection,Texas,Male,2000,06,29,1
+650,White,Electrocution,Virginia,Male,2000,07,06,1
+651,White,Lethal Injection,Texas,Male,2000,07,12,1
+652,White,Lethal Injection,Oklahoma,Male,2000,07,20,1
+653,Latino,Lethal Injection,Texas,Male,2000,07,26,1
+654,Black,Lethal Injection,Texas,Male,2000,08,09,1
+655,Latino,Lethal Injection,Texas,Male,2000,08,09,1
+656,White,Lethal Injection,Oklahoma,Male,2000,08,10,1
+657,Black,Lethal Injection,Texas,Male,2000,08,16,1
+658,White,Lethal Injection,Texas,Male,2000,08,22,1
+659,White,Lethal Injection,Texas,Male,2000,08,23,1
+660,White,Lethal Injection,Florida,Male,2000,08,25,1
+661,White,Lethal Injection,Missouri,Male,2000,08,30,1
+662,Black,Lethal Injection,Texas,Male,2000,08,30,1
+663,White,Lethal Injection,Virginia,Male,2000,08,30,1
+664,Black,Lethal Injection,Missouri,Male,2000,09,13,1
+665,White,Lethal Injection,Virginia,Male,2000,09,14,1
+666,White,Lethal Injection,Texas,Male,2000,09,27,1
+667,Black,Lethal Injection,Virginia,Male,2000,10,10,1
+668,White,Lethal Injection,Texas,Male,2000,11,01,1
+669,Black,Lethal Injection,South Carolina,Male,2000,11,03,1
+670,White,Lethal Injection,Arizona,Male,2000,11,08,1
+671,Black,Lethal Injection,North Carolina,Male,2000,11,09,1
+672,Latino,Lethal Injection,Texas,Male,2000,11,09,1
+673,Black,Lethal Injection,Texas,Male,2000,11,14,1
+674,White,Lethal Injection,Missouri,Male,2000,11,15,1
+675,Black,Lethal Injection,Texas,Male,2000,11,15,1
+676,Black,Lethal Injection,Delaware,Male,2000,11,17,1
+677,White,Lethal Injection,Texas,Male,2000,12,05,1
+678,White,Lethal Injection,Texas,Male,2000,12,06,1
+679,Black,Lethal Injection,Virginia,Male,2000,12,06,1
+680,Latino,Lethal Injection,Florida,Male,2000,12,07,1
+681,White,Lethal Injection,Texas,Male,2000,12,07,1
+682,Black,Lethal Injection,Arkansas,Male,2000,12,19,1
+683,White,Lethal Injection,Texas,Male,2001,01,09,1
+684,Black,Lethal Injection,Oklahoma,Male,2001,01,09,1
+685,White,Lethal Injection,Florida,Male,2001,01,11,1
+686,Black,Lethal Injection,Oklahoma,Female,2001,01,11,1
+687,White,Lethal Injection,Oklahoma,Male,2001,01,16,1
+688,White,Lethal Injection,Texas,Male,2001,01,18,1
+689,Native American,Lethal Injection,Oklahoma,Male,2001,01,18,1
+690,White,Lethal Injection,Oklahoma,Male,2001,01,23,1
+691,White,Lethal Injection,Oklahoma,Male,2001,01,25,1
+692,Black,Lethal Injection,Texas,Male,2001,01,29,1
+693,White,Lethal Injection,Oklahoma,Male,2001,01,30,1
+694,White,Lethal Injection,Oklahoma,Male,2001,02,01,1
+695,White,Lethal Injection,Missouri,Male,2001,02,07,1
+696,Latino,Lethal Injection,Texas,Male,2001,02,08,1
+697,White,Lethal Injection,Virginia,Male,2001,03,01,1
+698,White,Lethal Injection,Oklahoma,Male,2001,03,01,1
+699,White,Lethal Injection,Texas,Male,2001,03,07,1
+700,Black,Lethal Injection,North Carolina,Male,2001,03,09,1
+701,White,Lethal Injection,Indiana,Male,2001,03,14,1
+702,White,Lethal Injection,California,Male,2001,03,27,1
+703,White,Lethal Injection,Oklahoma,Male,2001,03,27,1
+704,White,Lethal Injection,Missouri,Male,2001,03,28,1
+705,White,Lethal Injection,Texas,Male,2001,04,03,1
+706,White,Lethal Injection,Nevada,Male,2001,04,21,1
+707,Black,Lethal Injection,Missouri,Male,2001,04,25,1
+708,Black,Lethal Injection,Texas,Male,2001,04,25,1
+709,White,Lethal Injection,Delaware,Male,2001,04,26,1
+710,White,Lethal Injection,Oklahoma,Female,2001,05,01,1
+711,White,Lethal Injection,Arkansas,Male,2001,05,08,1
+712,Native American,Lethal Injection,Oklahoma,Male,2001,05,22,1
+713,Black,Lethal Injection,Missouri,Male,2001,05,23,1
+714,Black,Lethal Injection,Delaware,Male,2001,05,25,1
+715,Black,Lethal Injection,Oklahoma,Male,2001,05,29,1
+716,White,Lethal Injection,Federal,Male,2001,06,11,1
+717,White,Lethal Injection,Texas,Male,2001,06,13,1
+718,Black,Lethal Injection,Ohio,Male,2001,06,14,1
+719,Latino,Lethal Injection,Federal,Male,2001,06,19,1
+720,Black,Lethal Injection,Texas,Male,2001,06,26,1
+721,White,Lethal Injection,Indiana,Male,2001,06,27,1
+722,Black,Lethal Injection,Missouri,Male,2001,07,11,1
+723,White,Lethal Injection,Texas,Male,2001,07,11,1
+724,Native American,Lethal Injection,Oklahoma,Male,2001,07,17,1
+725,White,Lethal Injection,Texas,Male,2001,08,08,1
+726,White,Lethal Injection,Texas,Male,2001,08,16,1
+727,White,Lethal Injection,North Carolina,Male,2001,08,24,1
+728,White,Lethal Injection,Washington,Male,2001,08,28,1
+729,White,Lethal Injection,Oklahoma,Male,2001,08,28,1
+730,White,Lethal Injection,North Carolina,Male,2001,08,31,1
+731,White,Lethal Injection,Texas,Male,2001,09,18,1
+733,Black,Lethal Injection,North Carolina,Male,2001,10,12,1
+734,White,Lethal Injection,Virginia,Male,2001,10,18,1
+735,White,Lethal Injection,Oklahoma,Male,2001,10,18,1
+736,Black,Lethal Injection,Texas,Male,2001,10,22,1
+737,White,Lethal Injection,Missouri,Male,2001,10,24,1
+738,White,Lethal Injection,Georgia,Male,2001,10,25,1
+739,Black,Lethal Injection,Georgia,Male,2001,11,06,1
+740,White,Lethal Injection,New Mexico,Male,2001,11,06,1
+741,White,Lethal Injection,Texas,Male,2001,11,14,1
+742,White,Lethal Injection,Georgia,Male,2001,11,15,1
+743,Black,Lethal Injection,Texas,Male,2001,11,15,1
+744,White,Lethal Injection,North Carolina,Male,2001,11,30,1
+745,White,Lethal Injection,Oklahoma,Female,2001,12,04,1
+746,Other Race,Lethal Injection,Oklahoma,Male,2001,12,06,1
+747,White,Lethal Injection,Georgia,Male,2001,12,11,1
+748,Black,Lethal Injection,Texas,Male,2001,12,12,1
+749,White,Lethal Injection,Missouri,Male,2002,01,09,1
+750,White,Lethal Injection,Texas,Male,2002,01,09,1
+751,Black,Lethal Injection,Texas,Male,2002,01,16,1
+752,White,Lethal Injection,Georgia,Male,2002,01,24,1
+753,White,Lethal Injection,California,Male,2002,01,29,1
+754,White,Lethal Injection,Oklahoma,Male,2002,01,29,1
+755,Black,Lethal Injection,Texas,Male,2002,01,30,1
+756,White,Lethal Injection,Texas,Male,2002,01,31,1
+757,White,Lethal Injection,Oklahoma,Male,2002,01,31,1
+758,Black,Lethal Injection,Missouri,Male,2002,02,06,1
+759,White,Lethal Injection,Ohio,Male,2002,02,19,1
+760,White,Lethal Injection,Texas,Male,2002,02,28,1
+761,White,Lethal Injection,Missouri,Male,2002,03,06,1
+762,Black,Lethal Injection,Texas,Male,2002,03,07,1
+763,White,Lethal Injection,Georgia,Male,2002,03,12,1
+764,White,Lethal Injection,Virginia,Male,2002,03,14,1
+765,White,Lethal Injection,Virginia,Male,2002,04,02,1
+766,White,Lethal Injection,Missouri,Male,2002,04,10,1
+767,Latino,Lethal Injection,Texas,Male,2002,04,10,1
+768,Black,Lethal Injection,Texas,Male,2002,04,11,1
+769,White,Lethal Injection,Texas,Male,2002,04,18,1
+770,Black,Lethal Injection,Ohio,Male,2002,04,26,1
+771,Latino,Lethal Injection,Texas,Male,2002,04,30,1
+772,White,Lethal Injection,South Carolina,Male,2002,05,03,1
+773,Black,Lethal Injection,Texas,Male,2002,05,09,1
+774,White,Electrocution,Alabama,Female,2002,05,10,1
+775,White,Lethal Injection,Louisiana,Male,2002,05,10,1
+776,White,Lethal Injection,Texas,Male,2002,05,16,1
+777,Latino,Lethal Injection,Texas,Male,2002,05,22,1
+778,Black,Lethal Injection,Texas,Male,2002,05,28,1
+779,White,Lethal Injection,Texas,Male,2002,05,30,1
+780,Black,Lethal Injection,Virginia,Male,2002,06,12,1
+781,White,Lethal Injection,Texas,Male,2002,06,13,1
+782,White,Lethal Injection,Texas,Male,2002,06,25,1
+783,Black,Lethal Injection,Texas,Male,2002,06,26,1
+784,White,Lethal Injection,Mississippi,Male,2002,07,17,1
+785,White,Lethal Injection,Oklahoma,Male,2002,07,23,1
+786,White,Lethal Injection,Oklahoma,Male,2002,07,30,1
+787,White,Lethal Injection,Texas,Male,2002,08,07,1
+788,Black,Lethal Injection,Texas,Male,2002,08,08,1
+789,Latino,Lethal Injection,Texas,Male,2002,08,14,1
+790,White,Lethal Injection,Missouri,Male,2002,08,14,1
+791,White,Lethal Injection,Georgia,Male,2002,08,16,1
+792,White,Lethal Injection,Texas,Male,2002,08,20,1
+793,Black,Lethal Injection,South Carolina,Male,2002,08,23,1
+794,Black,Lethal Injection,Texas,Male,2002,08,28,1
+795,Black,Lethal Injection,Texas,Male,2002,09,10,1
+796,White,Lethal Injection,South Carolina,Male,2002,09,13,1
+797,White,Lethal Injection,Texas,Male,2002,09,17,1
+798,White,Lethal Injection,Texas,Male,2002,09,18,1
+799,White,Lethal Injection,Texas,Male,2002,09,24,1
+800,White,Lethal Injection,Ohio,Male,2002,09,25,1
+801,Black,Lethal Injection,Texas,Male,2002,09,25,1
+802,White,Lethal Injection,Texas,Male,2002,10,01,1
+803,Latino,Lethal Injection,Florida,Male,2002,10,02,1
+804,White,Lethal Injection,Florida,Female,2002,10,09,1
+805,White,Lethal Injection,Georgia,Male,2002,11,13,1
+806,Other Race,Lethal Injection,Virginia,Male,2002,11,14,1
+807,White,Lethal Injection,Texas,Male,2002,11,19,1
+808,White,Lethal Injection,Missouri,Male,2002,11,20,1
+809,White,Lethal Injection,Texas,Male,2002,11,20,1
+810,Latino,Lethal Injection,Texas,Male,2002,12,04,1
+811,White,Lethal Injection,North Carolina,Male,2002,12,06,1
+812,Black,Lethal Injection,Florida,Male,2002,12,09,1
+813,Black,Lethal Injection,North Carolina,Male,2002,12,10,1
+814,White,Lethal Injection,Oklahoma,Male,2002,12,10,1
+815,White,Lethal Injection,Texas,Male,2002,12,11,1
+816,White,Lethal Injection,Mississippi,Male,2002,12,11,1
+817,White,Lethal Injection,Alabama,Male,2002,12,12,1
+818,White,Lethal Injection,Oklahoma,Male,2002,12,12,1
+819,Black,Lethal Injection,Oklahoma,Male,2002,12,17,1
+820,White,Lethal Injection,Texas,Male,2003,01,14,1
+821,Latino,Lethal Injection,Texas,Male,2003,01,15,1
+822,White,Lethal Injection,Oklahoma,Male,2003,01,16,1
+823,White,Lethal Injection,Texas,Male,2003,01,22,1
+824,Black,Lethal Injection,Texas,Male,2003,01,28,1
+825,White,Lethal Injection,Texas,Male,2003,01,29,1
+826,White,Lethal Injection,Texas,Male,2003,01,30,1
+827,Latino,Lethal Injection,Texas,Male,2003,02,04,1
+828,White,Lethal Injection,Missouri,Male,2003,02,05,1
+829,Black,Lethal Injection,Texas,Male,2003,02,06,1
+830,White,Lethal Injection,Ohio,Male,2003,02,12,1
+831,Black,Lethal Injection,Oklahoma,Male,2003,02,13,1
+832,Black,Lethal Injection,Texas,Male,2003,02,25,1
+833,Black,Lethal Injection,Florida,Male,2003,02,26,1
+834,White,Lethal Injection,Texas,Male,2003,03,11,1
+835,White,Lethal Injection,Alabama,Male,2003,03,13,1
+836,Black,Lethal Injection,Federal,Male,2003,03,18,1
+837,Black,Lethal Injection,Oklahoma,Male,2003,03,18,1
+838,Black,Lethal Injection,Texas,Male,2003,03,20,1
+839,Black,Lethal Injection,Oklahoma,Male,2003,03,25,1
+840,White,Lethal Injection,Georgia,Male,2003,03,25,1
+841,White,Lethal Injection,Texas,Male,2003,03,26,1
+842,White,Lethal Injection,Oklahoma,Male,2003,04,03,1
+843,White,Lethal Injection,Oklahoma,Male,2003,04,08,1
+844,White,Electrocution,Virginia,Male,2003,04,09,1
+845,Black,Lethal Injection,Oklahoma,Male,2003,04,17,1
+846,Latino,Lethal Injection,Texas,Male,2003,04,22,1
+847,White,Lethal Injection,Alabama,Male,2003,04,24,1
+848,White,Lethal Injection,Ohio,Male,2003,04,29,1
+849,White,Lethal Injection,Indiana,Male,2003,05,02,1
+850,White,Lethal Injection,Texas,Male,2003,05,06,1
+851,White,Lethal Injection,Georgia,Male,2003,05,06,1
+852,White,Lethal Injection,Texas,Male,2003,05,15,1
+853,White,Lethal Injection,Florida,Male,2003,05,16,1
+854,White,Lethal Injection,Oklahoma,Male,2003,05,27,1
+855,Black,Lethal Injection,Oklahoma,Male,2003,06,05,1
+856,Black,Lethal Injection,Texas,Male,2003,06,11,1
+857,White,Lethal Injection,Indiana,Male,2003,06,13,1
+858,Black,Lethal Injection,Ohio,Male,2003,06,18,1
+859,White,Lethal Injection,Oklahoma,Male,2003,07,01,1
+860,White,Lethal Injection,Texas,Male,2003,07,02,1
+861,White,Lethal Injection,Oklahoma,Male,2003,07,08,1
+862,Black,Lethal Injection,Texas,Male,2003,07,09,1
+863,Black,Lethal Injection,Arkansas,Male,2003,07,09,1
+864,Black,Lethal Injection,Oklahoma,Male,2003,07,22,1
+865,White,Lethal Injection,Virginia,Male,2003,07,22,1
+866,Black,Lethal Injection,Texas,Male,2003,07,23,1
+867,White,Lethal Injection,Oklahoma,Male,2003,07,24,1
+868,White,Lethal Injection,Texas,Male,2003,07,24,1
+869,White,Lethal Injection,Oklahoma,Male,2003,07,29,1
+870,White,Lethal Injection,Alabama,Male,2003,08,07,1
+872,White,Lethal Injection,Florida,Male,2003,09,03,1
+873,White,Lethal Injection,Texas,Male,2003,09,10,1
+874,Native American,Lethal Injection,North Carolina,Male,2003,09,12,1
+875,White,Lethal Injection,North Carolina,Male,2003,09,26,1
+876,White,Lethal Injection,North Carolina,Male,2003,10,03,1
+878,White,Lethal Injection,Georgia,Male,2003,11,04,1
+879,White,Lethal Injection,North Carolina,Male,2003,11,07,1
+880,Black,Lethal Injection,North Carolina,Male,2003,11,14,1
+881,White,Lethal Injection,Texas,Male,2003,11,20,1
+882,White,Lethal Injection,Texas,Male,2003,12,03,1
+883,White,Lethal Injection,Texas,Male,2003,12,04,1
+884,Black,Lethal Injection,North Carolina,Male,2003,12,05,1
+885,Black,Lethal Injection,Texas,Male,2004,01,06,1
+886,Black,Lethal Injection,Arkansas,Male,2004,01,06,1
+887,White,Lethal Injection,North Carolina,Male,2004,01,09,1
+888,Black,Lethal Injection,Oklahoma,Male,2004,01,13,1
+889,Black,Lethal Injection,Ohio,Male,2004,01,14,1
+890,Black,Lethal Injection,Texas,Male,2004,01,14,1
+891,White,Lethal Injection,Texas,Male,2004,01,21,1
+892,White,Lethal Injection,Texas,Male,2004,01,28,1
+893,White,Lethal Injection,Ohio,Male,2004,02,03,1
+894,Black,Lethal Injection,Florida,Male,2004,02,04,1
+895,Black,Lethal Injection,Texas,Male,2004,02,11,1
+896,Black,Lethal Injection,Texas,Male,2004,02,12,1
+897,White,Lethal Injection,Oklahoma,Male,2004,02,17,1
+898,White,Lethal Injection,Texas,Male,2004,02,17,1
+899,Black,Lethal Injection,Texas,Male,2004,03,03,1
+901,White,Lethal Injection,Virginia,Male,2004,03,18,1
+902,White,Lethal Injection,South Carolina,Male,2004,03,19,1
+903,Asian,Lethal Injection,Oklahoma,Male,2004,03,23,1
+904,White,Lethal Injection,Nevada,Male,2004,03,26,1
+905,White,Lethal Injection,Ohio,Male,2004,03,30,1
+906,White,Lethal Injection,Virginia,Male,2004,03,31,1
+907,White,Lethal Injection,South Carolina,Male,2004,04,16,1
+908,White,Lethal Injection,South Carolina,Male,2004,04,23,1
+909,Black,Lethal Injection,Texas,Male,2004,05,18,1
+910,White,Lethal Injection,Florida,Male,2004,05,26,1
+911,White,Electrocution,South Carolina,Male,2004,05,28,1
+912,White,Lethal Injection,Ohio,Male,2004,06,08,1
+913,White,Lethal Injection,Oklahoma,Male,2004,06,08,1
+914,White,Lethal Injection,Maryland,Male,2004,06,17,1
+915,White,Lethal Injection,Texas,Male,2004,06,30,1
+916,White,Lethal Injection,Georgia,Male,2004,07,01,1
+917,White,Lethal Injection,Ohio,Male,2004,07,14,1
+918,White,Lethal Injection,Georgia,Male,2004,07,19,1
+919,White,Lethal Injection,Ohio,Male,2004,07,20,1
+920,White,Lethal Injection,Virginia,Male,2004,07,22,1
+921,White,Lethal Injection,Alabama,Male,2004,08,05,1
+922,White,Lethal Injection,Nevada,Male,2004,08,12,1
+923,White,Lethal Injection,Virginia,Male,2004,08,18,1
+924,White,Lethal Injection,Texas,Male,2004,08,25,1
+925,White,Lethal Injection,Oklahoma,Male,2004,08,26,1
+926,Black,Lethal Injection,Texas,Male,2004,08,26,1
+927,Black,Lethal Injection,Virginia,Male,2004,09,09,1
+928,Latino,Lethal Injection,Texas,Male,2004,09,21,1
+929,White,Lethal Injection,Alabama,Male,2004,09,30,1
+930,Black,Lethal Injection,Texas,Male,2004,10,05,1
+931,Latino,Lethal Injection,Texas,Male,2004,10,06,1
+932,Black,Lethal Injection,North Carolina,Male,2004,10,08,1
+933,White,Lethal Injection,Texas,Male,2004,10,12,1
+934,Black,Lethal Injection,Ohio,Male,2004,10,13,1
+935,White,Lethal Injection,Texas,Male,2004,10,20,1
+936,White,Lethal Injection,North Carolina,Male,2004,10,22,1
+937,Black,Lethal Injection,Texas,Male,2004,10,26,1
+938,Black,Lethal Injection,Texas,Male,2004,11,02,1
+939,White,Lethal Injection,Texas,Male,2004,11,04,1
+940,Black,Lethal Injection,Texas,Male,2004,11,09,1
+941,Black,Lethal Injection,Texas,Male,2004,11,10,1
+942,White,Lethal Injection,North Carolina,Male,2004,11,12,1
+943,Latino,Lethal Injection,Texas,Male,2004,11,17,1
+944,White,Lethal Injection,Texas,Male,2005,01,04,1
+945,White,Lethal Injection,California,Male,2005,01,19,1
+946,White,Lethal Injection,Texas,Male,2005,01,25,1
+947,White,Lethal Injection,Georgia,Male,2005,01,25,1
+948,White,Lethal Injection,Texas,Male,2005,02,17,1
+949,White,Lethal Injection,Georgia,Male,2005,03,01,1
+950,Black,Lethal Injection,Ohio,Male,2005,03,08,1
+951,White,Lethal Injection,Texas,Male,2005,03,08,1
+952,White,Lethal Injection,Indiana,Male,2005,03,10,1
+953,White,Lethal Injection,North Carolina,Male,2005,03,11,1
+954,White,Lethal Injection,Oklahoma,Male,2005,03,15,1
+955,Black,Lethal Injection,Missouri,Male,2005,03,16,1
+956,White,Lethal Injection,Florida,Male,2005,04,05,1
+957,White,Lethal Injection,South Carolina,Male,2005,04,15,1
+958,White,Lethal Injection,Texas,Male,2005,04,20,1
+959,White,Lethal Injection,Indiana,Male,2005,04,21,1
+960,Black,Lethal Injection,Missouri,Male,2005,04,27,1
+961,White,Lethal Injection,Alabama,Male,2005,04,28,1
+962,White,Lethal Injection,Texas,Male,2005,05,03,1
+963,Black,Lethal Injection,North Carolina,Male,2005,05,06,1
+964,Black,Lethal Injection,Oklahoma,Male,2005,05,12,1
+965,White,Lethal Injection,Connecticut,Male,2005,05,13,1
+966,Black,Lethal Injection,Missouri,Male,2005,05,18,1
+967,Black,Lethal Injection,Texas,Male,2005,05,18,1
+968,White,Lethal Injection,Texas,Male,2005,05,19,1
+969,White,Lethal Injection,Indiana,Male,2005,05,25,1
+970,White,Lethal Injection,Alabama,Male,2005,06,02,1
+971,Latino,Lethal Injection,Texas,Male,2005,06,07,1
+972,White,Lethal Injection,Georgia,Male,2005,07,12,1
+973,Black,Lethal Injection,Oklahoma,Male,2005,07,19,1
+974,White,Lethal Injection,Indiana,Male,2005,07,27,1
+975,Latino,Lethal Injection,Texas,Male,2005,07,28,1
+976,White,Lethal Injection,Alabama,Male,2005,08,04,1
+977,Black,Lethal Injection,Texas,Male,2005,08,10,1
+978,Black,Lethal Injection,Oklahoma,Male,2005,08,11,1
+979,White,Lethal Injection,Texas,Male,2005,08,23,1
+980,White,Lethal Injection,Missouri,Male,2005,08,31,1
+981,Black,Lethal Injection,Texas,Female,2005,09,14,1
+982,White,Lethal Injection,Alabama,Male,2005,09,22,1
+983,White,Lethal Injection,Ohio,Male,2005,09,27,1
+984,White,Lethal Injection,Indiana,Male,2005,09,28,1
+985,Black,Lethal Injection,Texas,Male,2005,10,06,1
+986,Latino,Lethal Injection,Texas,Male,2005,10,20,1
+987,Black,Lethal Injection,Ohio,Male,2005,10,25,1
+988,Black,Lethal Injection,Missouri,Male,2005,10,26,1
+989,White,Lethal Injection,Texas,Male,2005,11,03,1
+990,White,Lethal Injection,Delaware,Male,2005,11,04,1
+991,Black,Lethal Injection,South Carolina,Male,2005,11,04,1
+992,White,Lethal Injection,Texas,Male,2005,11,09,1
+993,White,Lethal Injection,North Carolina,Male,2005,11,11,1
+994,White,Lethal Injection,Texas,Male,2005,11,15,1
+995,Black,Lethal Injection,Texas,Male,2005,11,16,1
+996,Other Race,Lethal Injection,North Carolina,Male,2005,11,18,1
+997,White,Lethal Injection,Arkansas,Male,2005,11,28,1
+998,Black,Lethal Injection,Ohio,Male,2005,11,29,1
+999,White,Lethal Injection,North Carolina,Male,2005,12,02,1
+1000,White,Lethal Injection,South Carolina,Male,2005,12,02,1
+1001,Black,Lethal Injection,Maryland,Male,2005,12,05,1
+1002,Black,Lethal Injection,California,Male,2005,12,13,1
+1003,White,Lethal Injection,Mississippi,Male,2005,12,14,1
+1004,Native American,Lethal Injection,California,Male,2006,01,17,1
+1005,Black,Lethal Injection,North Carolina,Male,2006,01,20,1
+1006,Black,Lethal Injection,Texas,Male,2006,01,25,1
+1007,White,Lethal Injection,Indiana,Male,2006,01,27,1
+1008,Latino,Lethal Injection,Texas,Male,2006,01,31,1
+1009,White,Lethal Injection,Ohio,Male,2006,02,07,1
+1010,White,Lethal Injection,Texas,Male,2006,02,08,1
+1011,Black,Lethal Injection,Texas,Male,2006,02,15,1
+1012,Black,Lethal Injection,Texas,Male,2006,03,15,1
+1013,White,Lethal Injection,North Carolina,Male,2006,03,17,1
+1014,Latino,Lethal Injection,Texas,Male,2006,03,22,1
+1015,Black,Lethal Injection,Texas,Male,2006,03,29,1
+1016,White,Lethal Injection,Oklahoma,Male,2006,04,18,1
+1017,Black,Lethal Injection,North Carolina,Male,2006,04,21,1
+1018,Black,Lethal Injection,Nevada,Male,2006,04,26,1
+1019,Black,Lethal Injection,Virginia,Male,2006,04,27,1
+1020,Black,Lethal Injection,Ohio,Male,2006,05,02,1
+1021,Latino,Lethal Injection,Texas,Male,2006,05,04,1
+1022,Black,Lethal Injection,Texas,Male,2006,05,17,1
+1023,Latino,Lethal Injection,Texas,Male,2006,05,24,1
+1024,White,Lethal Injection,Oklahoma,Male,2006,06,01,1
+1025,White,Lethal Injection,Texas,Male,2006,06,06,1
+1026,Black,Lethal Injection,Texas,Male,2006,06,20,1
+1027,Latino,Lethal Injection,Texas,Male,2006,06,27,1
+1028,White,Lethal Injection,Tennessee,Male,2006,06,28,1
+1029,Black,Lethal Injection,Texas,Male,2006,07,11,1
+1030,White,Lethal Injection,Ohio,Male,2006,07,12,1
+1031,White,Lethal Injection,South Carolina,Male,2006,07,14,1
+1032,Black,Lethal Injection,Texas,Male,2006,07,19,1
+1033,White,Lethal Injection,Texas,Male,2006,07,20,1
+1034,White,Electrocution,Virginia,Male,2006,07,20,1
+1035,White,Lethal Injection,Virginia,Male,2006,07,27,1
+1036,Black,Lethal Injection,Texas,Male,2006,08,03,1
+1037,White,Lethal Injection,Ohio,Male,2006,08,08,1
+1039,Latino,Lethal Injection,Texas,Male,2006,08,17,1
+1040,White,Lethal Injection,North Carolina,Male,2006,08,18,1
+1041,Black,Lethal Injection,Texas,Male,2006,08,24,1
+1042,Black,Lethal Injection,Oklahoma,Male,2006,08,29,1
+1043,White,Lethal Injection,Oklahoma,Male,2006,08,31,1
+1044,Black,Lethal Injection,Texas,Male,2006,08,31,1
+1045,Black,Lethal Injection,Texas,Male,2006,09,12,1
+1046,Black,Lethal Injection,Florida,Male,2006,09,20,1
+1047,White,Lethal Injection,Florida,Male,2006,10,18,1
+1048,White,Lethal Injection,Mississippi,Male,2006,10,18,1
+1049,White,Lethal Injection,Ohio,Male,2006,10,24,1
+1050,White,Lethal Injection,Florida,Male,2006,10,25,1
+1051,White,Lethal Injection,Texas,Male,2006,10,25,1
+1052,White,Lethal Injection,Alabama,Male,2006,10,26,1
+1053,Black,Lethal Injection,Texas,Male,2006,11,01,1
+1054,Black,Lethal Injection,Texas,Male,2006,11,08,1
+1055,White,Lethal Injection,Virginia,Male,2006,11,09,1
+1056,Latino,Lethal Injection,Florida,Male,2006,12,13,1
+1057,Black,Lethal Injection,Oklahoma,Male,2007,01,09,1
+1058,Latino,Lethal Injection,Texas,Male,2007,01,10,1
+1059,White,Lethal Injection,Texas,Male,2007,01,17,1
+1060,White,Lethal Injection,Texas,Male,2007,01,30,1
+1061,Black,Lethal Injection,Texas,Male,2007,02,07,1
+1062,White,Lethal Injection,Texas,Male,2007,02,22,1
+1064,Latino,Lethal Injection,Texas,Male,2007,03,06,1
+1065,Black,Lethal Injection,Texas,Male,2007,03,07,1
+1066,Black,Lethal Injection,Texas,Male,2007,03,20,1
+1067,Latino,Lethal Injection,Texas,Male,2007,03,28,1
+1068,White,Lethal Injection,Texas,Male,2007,03,29,1
+1070,White,Lethal Injection,Ohio,Male,2007,04,24,1
+1071,White,Lethal Injection,Texas,Male,2007,04,26,1
+1072,Black,Lethal Injection,Alabama,Male,2007,05,03,1
+1073,White,Lethal Injection,Indiana,Male,2007,05,04,1
+1074,White,Lethal Injection,Tennessee,Male,2007,05,09,1
+1075,White,Lethal Injection,Texas,Male,2007,05,16,1
+1076,White,Lethal Injection,Arizona,Male,2007,05,22,1
+1077,White,Lethal Injection,Ohio,Male,2007,05,24,1
+1078,White,Lethal Injection,Texas,Male,2007,06,06,1
+1079,White,Lethal Injection,Indiana,Male,2007,06,15,1
+1080,Latino,Lethal Injection,Texas,Male,2007,06,20,1
+1081,Latino,Lethal Injection,Texas,Male,2007,06,21,1
+1082,Black,Lethal Injection,South Carolina,Male,2007,06,22,1
+1083,White,Lethal Injection,Oklahoma,Male,2007,06,26,1
+1084,White,Lethal Injection,Texas,Male,2007,06,26,1
+1085,Black,Lethal Injection,Georgia,Male,2007,06,26,1
+1086,White,Lethal Injection,South Dakota,Male,2007,07,11,1
+1087,Black,Lethal Injection,Texas,Male,2007,07,24,1
+1088,Black,Lethal Injection,Alabama,Male,2007,07,26,1
+1089,Black,Lethal Injection,Texas,Male,2007,08,15,1
+1090,White,Lethal Injection,Oklahoma,Male,2007,08,21,1
+1091,Black,Lethal Injection,Texas,Male,2007,08,22,1
+1092,Black,Lethal Injection,Alabama,Male,2007,08,23,1
+1093,Black,Lethal Injection,Texas,Male,2007,08,28,1
+1094,Latino,Lethal Injection,Texas,Male,2007,08,29,1
+1095,White,Lethal Injection,Texas,Male,2007,09,05,1
+1096,White,Electrocution,Tennessee,Male,2007,09,12,1
+1097,White,Lethal Injection,Texas,Male,2007,09,20,1
+1098,Black,Lethal Injection,Texas,Male,2007,09,25,1
+1099,White,Lethal Injection,Georgia,Male,2008,05,06,1
+1100,White,Lethal Injection,Mississippi,Male,2008,05,21,1
+1101,Black,Lethal Injection,Virginia,Male,2008,05,27,1
+1102,Black,Lethal Injection,Georgia,Male,2008,06,04,1
+1104,White,Lethal Injection,Texas,Male,2008,06,11,1
+1105,White,Lethal Injection,Oklahoma,Male,2008,06,17,1
+1106,Black,Electrocution,South Carolina,Male,2008,06,20,1
+1107,Black,Lethal Injection,Virginia,Male,2008,06,25,1
+1108,White,Lethal Injection,Florida,Male,2008,07,01,1
+1109,Black,Lethal Injection,Texas,Male,2008,07,10,1
+1110,Black,Lethal Injection,Virginia,Male,2008,07,10,1
+1111,White,Lethal Injection,Mississippi,Male,2008,07,23,1
+1112,Black,Lethal Injection,Texas,Male,2008,07,23,1
+1113,White,Lethal Injection,Virginia,Male,2008,07,24,1
+1114,Black,Lethal Injection,Texas,Male,2008,07,31,1
+1115,Latino,Lethal Injection,Texas,Male,2008,08,05,1
+1116,Latino,Lethal Injection,Texas,Male,2008,08,07,1
+1117,Black,Lethal Injection,Texas,Male,2008,08,12,1
+1118,Latino,Lethal Injection,Texas,Male,2008,08,14,1
+1119,White,Lethal Injection,Georgia,Male,2008,09,16,1
+1120,White,Lethal Injection,Texas,Male,2008,09,17,1
+1121,Black,Lethal Injection,Florida,Male,2008,09,23,1
+1122,White,Lethal Injection,Oklahoma,Male,2008,09,25,1
+1123,White,Lethal Injection,Ohio,Male,2008,10,14,1
+1124,White,Lethal Injection,Texas,Male,2008,10,14,1
+1125,Black,Lethal Injection,Texas,Male,2008,10,16,1
+1126,White,Lethal Injection,Texas,Male,2008,10,21,1
+1127,White,Lethal Injection,Texas,Male,2008,10,28,1
+1128,White,Lethal Injection,Texas,Male,2008,10,30,1
+1129,Black,Lethal Injection,Texas,Male,2008,11,06,1
+1130,Black,Lethal Injection,Texas,Male,2008,11,12,1
+1131,Black,Lethal Injection,Texas,Male,2008,11,13,1
+1132,Black,Lethal Injection,Ohio,Male,2008,11,19,1
+1133,Black,Lethal Injection,Texas,Male,2008,11,20,1
+1134,White,Lethal Injection,Kentucky,Male,2008,11,21,1
+1135,Black,Lethal Injection,South Carolina,Male,2008,12,05,1
+1136,Black,Lethal Injection,Texas,Male,2009,01,14,1
+1137,White,Lethal Injection,Alabama,Male,2009,01,15,1
+1138,Black,Lethal Injection,Texas,Male,2009,01,21,1
+1139,Black,Lethal Injection,Oklahoma,Male,2009,01,22,1
+1140,Black,Lethal Injection,Texas,Male,2009,01,22,1
+1141,Latino,Lethal Injection,Texas,Male,2009,01,28,1
+1142,Latino,Lethal Injection,Texas,Male,2009,01,29,1
+1143,White,Lethal Injection,Tennessee,Male,2009,02,04,1
+1145,Black,Lethal Injection,Texas,Male,2009,02,10,1
+1146,White,Lethal Injection,Florida,Male,2009,02,11,1
+1147,White,Lethal Injection,Alabama,Male,2009,02,12,1
+1148,Black,Lethal Injection,Texas,Male,2009,02,12,1
+1149,Black,Lethal Injection,Virginia,Male,2009,02,19,1
+1150,White,Lethal Injection,South Carolina,Male,2009,02,20,1
+1151,Black,Lethal Injection,Texas,Male,2009,03,03,1
+1152,Black,Lethal Injection,Texas,Male,2009,03,04,1
+1153,Latino,Lethal Injection,Texas,Male,2009,03,10,1
+1154,White,Lethal Injection,Georgia,Male,2009,03,10,1
+1155,Latino,Lethal Injection,Texas,Male,2009,03,11,1
+1156,Latino,Lethal Injection,Texas,Male,2009,04,15,1
+1157,Black,Lethal Injection,Alabama,Male,2009,04,16,1
+1158,White,Lethal Injection,Georgia,Male,2009,04,29,1
+1159,Black,Lethal Injection,Texas,Male,2009,04,30,1
+1160,Black,Lethal Injection,South Carolina,Male,2009,05,08,1
+1161,Black,Lethal Injection,Alabama,Male,2009,05,14,1
+1162,White,Lethal Injection,Oklahoma,Male,2009,05,14,1
+1163,Black,Lethal Injection,Texas,Male,2009,05,19,1
+1164,White,Lethal Injection,Missouri,Male,2009,05,20,1
+1165,White,Lethal Injection,Texas,Male,2009,06,02,1
+1166,White,Lethal Injection,Ohio,Male,2009,06,03,1
+1167,White,Lethal Injection,Alabama,Male,2009,06,11,1
+1168,White,Lethal Injection,Oklahoma,Male,2009,07,09,1
+1169,White,Lethal Injection,Ohio,Male,2009,07,14,1
+1170,Black,Lethal Injection,Ohio,Male,2009,07,21,1
+1171,White,Lethal Injection,Ohio,Male,2009,08,18,1
+1172,White,Lethal Injection,Florida,Male,2009,08,19,1
+1173,White,Lethal Injection,Texas,Male,2009,09,16,1
+1174,Black,Lethal Injection,Texas,Male,2009,09,22,1
+1175,White,Lethal Injection,Alabama,Male,2009,10,08,1
+1176,White,Lethal Injection,Georgia,Male,2009,10,20,1
+1177,Black,Lethal Injection,Texas,Male,2009,10,27,1
+1178,Black,Lethal Injection,Texas,Male,2009,11,05,1
+1179,Latino,Lethal Injection,Texas,Male,2009,11,10,1
+1180,Black,Lethal Injection,Virginia,Male,2009,11,10,1
+1181,White,Electrocution,Virginia,Male,2009,11,17,1
+1182,Black,Lethal Injection,Texas,Male,2009,11,18,1
+1183,Black,Lethal Injection,Texas,Male,2009,11,19,1
+1184,Black,Lethal Injection,Tennessee,Male,2009,12,02,1
+1185,White,Lethal Injection,Texas,Male,2009,12,03,1
+1186,White,Lethal Injection,Ohio,Male,2009,12,08,1
+1187,White,Lethal Injection,Indiana,Male,2009,12,11,1
+1188,Black,Lethal Injection,Ohio,Male,2010,01,07,1
+1189,Black,Lethal Injection,Texas,Male,2010,01,07,1
+1190,White,Lethal Injection,Louisiana,Male,2010,01,07,1
+1191,White,Lethal Injection,Texas,Male,2010,01,12,1
+1192,Black,Lethal Injection,Oklahoma,Male,2010,01,14,1
+1193,Black,Lethal Injection,Ohio,Male,2010,02,04,1
+1194,White,Lethal Injection,Florida,Male,2010,02,16,1
+1195,Latino,Lethal Injection,Texas,Male,2010,03,02,1
+1196,White,Lethal Injection,Texas,Male,2010,03,11,1
+1197,White,Lethal Injection,Ohio,Male,2010,03,16,1
+1198,White,Electrocution,Virginia,Male,2010,03,18,1
+1199,Black,Lethal Injection,Texas,Male,2010,03,30,1
+1200,Black,Lethal Injection,Ohio,Male,2010,04,20,1
+1201,White,Lethal Injection,Texas,Male,2010,04,22,1
+1202,Latino,Lethal Injection,Texas,Male,2010,04,27,1
+1203,White,Lethal Injection,Texas,Male,2010,05,12,1
+1204,White,Lethal Injection,Ohio,Male,2010,05,13,1
+1205,White,Lethal Injection,Texas,Male,2010,05,13,1
+1206,Latino,Lethal Injection,Texas,Male,2010,05,19,1
+1207,White,Lethal Injection,Mississippi,Male,2010,05,19,1
+1208,White,Lethal Injection,Mississippi,Male,2010,05,20,1
+1209,Black,Lethal Injection,Virginia,Male,2010,05,20,1
+1210,Latino,Lethal Injection,Texas,Male,2010,05,25,1
+1211,White,Lethal Injection,Alabama,Male,2010,05,27,1
+1212,Black,Lethal Injection,Texas,Male,2010,06,02,1
+1213,White,Lethal Injection,Georgia,Male,2010,06,09,1
+1214,White,Lethal Injection,Alabama,Male,2010,06,10,1
+1215,White,Lethal Injection,Texas,Male,2010,06,15,1
+1216,White,Firing Squad,Utah,Male,2010,06,18,1
+1217,White,Lethal Injection,Texas,Male,2010,07,01,1
+1218,Black,Lethal Injection,Ohio,Male,2010,07,13,1
+1219,Black,Lethal Injection,Texas,Male,2010,07,20,1
+1220,White,Lethal Injection,Mississippi,Male,2010,07,21,1
+1221,Black,Lethal Injection,Ohio,Male,2010,08,10,1
+1222,White,Lethal Injection,Alabama,Male,2010,08,12,1
+1223,Latino,Lethal Injection,Texas,Male,2010,08,17,1
+1224,Black,Lethal Injection,Alabama,Male,2010,09,09,1
+1225,White,Lethal Injection,Washington,Male,2010,09,10,1
+1226,White,Lethal Injection,Virginia,Female,2010,09,23,1
+1227,White,Lethal Injection,Georgia,Male,2010,09,27,1
+1228,White,Lethal Injection,Ohio,Male,2010,10,06,1
+1229,White,Lethal Injection,Oklahoma,Male,2010,10,14,1
+1230,Black,Lethal Injection,Texas,Male,2010,10,21,1
+1231,Native American,Lethal Injection,Arizona,Male,2010,10,26,1
+1232,White,Lethal Injection,Alabama,Male,2010,11,04,1
+1233,White,Lethal Injection,Oklahoma,Male,2010,12,16,1
+1234,Black,Lethal Injection,Oklahoma,Male,2011,01,06,1
+1235,White,Lethal Injection,Oklahoma,Male,2011,01,11,1
+1236,Black,Lethal Injection,Alabama,Male,2011,01,13,1
+1237,Black,Lethal Injection,Georgia,Male,2011,01,25,1
+1238,White,Lethal Injection,Missouri,Male,2011,02,09,1
+1239,White,Lethal Injection,Texas,Male,2011,02,15,1
+1240,White,Lethal Injection,Ohio,Male,2011,02,17,1
+1241,Black,Lethal Injection,Texas,Male,2011,02,22,1
+1242,Black,Lethal Injection,Ohio,Male,2011,03,10,1
+1243,Black,Lethal Injection,Arizona,Male,2011,03,29,1
+1244,White,Lethal Injection,Alabama,Male,2011,03,31,1
+1245,Black,Lethal Injection,Ohio,Male,2011,04,12,1
+1246,White,Lethal Injection,Texas,Male,2011,05,03,1
+1247,White,Lethal Injection,South Carolina,Male,2011,05,06,1
+1248,White,Lethal Injection,Mississippi,Male,2011,05,10,1
+1249,White,Lethal Injection,Ohio,Male,2011,05,17,1
+1250,Black,Lethal Injection,Mississippi,Male,2011,05,17,1
+1251,White,Lethal Injection,Alabama,Male,2011,05,19,1
+1252,White,Lethal Injection,Arizona,Male,2011,05,25,1
+1253,Black,Lethal Injection,Texas,Male,2011,06,01,1
+1254,White,Lethal Injection,Texas,Male,2011,06,16,1
+1255,Black,Lethal Injection,Alabama,Male,2011,06,16,1
+1256,Black,Lethal Injection,Texas,Male,2011,06,21,1
+1257,White,Lethal Injection,Georgia,Male,2011,06,23,1
+1258,White,Lethal Injection,Arizona,Male,2011,06,30,1
+1259,Latino,Lethal Injection,Texas,Male,2011,07,07,1
+1260,White,Lethal Injection,Arizona,Male,2011,07,19,1
+1261,White,Lethal Injection,Texas,Male,2011,07,20,1
+1262,White,Lethal Injection,Georgia,Male,2011,07,21,1
+1263,White,Lethal Injection,Delaware,Male,2011,07,29,1
+1264,Latino,Lethal Injection,Texas,Male,2011,08,10,1
+1265,Black,Lethal Injection,Virginia,Male,2011,08,18,1
+1266,White,Lethal Injection,Texas,Male,2011,09,13,1
+1267,White,Lethal Injection,Texas,Male,2011,09,21,1
+1268,Black,Lethal Injection,Georgia,Male,2011,09,21,1
+1269,Black,Lethal Injection,Alabama,Male,2011,09,22,1
+1270,Latino,Lethal Injection,Florida,Male,2011,09,28,1
+1271,White,Lethal Injection,Alabama,Male,2011,10,20,1
+1272,Latino,Lethal Injection,Texas,Male,2011,10,27,1
+1273,Black,Lethal Injection,Ohio,Male,2011,11,15,1
+1274,White,Lethal Injection,Florida,Male,2011,11,15,1
+1275,Latino,Lethal Injection,Texas,Male,2011,11,16,1
+1276,White,Lethal Injection,Idaho,Male,2011,11,18,1
+1277,White,Lethal Injection,Oklahoma,Male,2012,01,05,1
+1278,Latino,Lethal Injection,Texas,Male,2012,01,26,1
+1279,White,Lethal Injection,Mississippi,Male,2012,02,08,1
+1280,White,Lethal Injection,Florida,Male,2012,02,15,1
+1281,White,Lethal Injection,Arizona,Male,2012,02,29,1
+1282,Latino,Lethal Injection,Texas,Male,2012,02,29,1
+1283,White,Lethal Injection,Texas,Male,2012,03,07,1
+1284,White,Lethal Injection,Arizona,Male,2012,03,08,1
+1285,White,Lethal Injection,Oklahoma,Male,2012,03,15,1
+1286,White,Lethal Injection,Mississippi,Male,2012,03,20,1
+1287,Black,Lethal Injection,Mississippi,Male,2012,03,22,1
+1288,Latino,Lethal Injection,Texas,Male,2012,03,28,1
+1289,White,Lethal Injection,Florida,Male,2012,04,12,1
+1290,White,Lethal Injection,Ohio,Male,2012,04,18,1
+1291,Black,Lethal Injection,Delaware,Male,2012,04,20,1
+1292,White,Lethal Injection,Arizona,Male,2012,04,25,1
+1293,Black,Lethal Injection,Texas,Male,2012,04,26,1
+1294,White,Lethal Injection,Oklahoma,Male,2012,05,01,1
+1295,Black,Lethal Injection,Mississippi,Male,2012,06,05,1
+1296,White,Lethal Injection,Idaho,Male,2012,06,12,1
+1297,White,Lethal Injection,Mississippi,Male,2012,06,12,1
+1298,White,Lethal Injection,Mississippi,Male,2012,06,20,1
+1299,Latino,Lethal Injection,Arizona,Male,2012,06,27,1
+1300,Black,Lethal Injection,Texas,Male,2012,07,18,1
+1301,Black,Lethal Injection,Texas,Male,2012,08,07,1
+1302,White,Lethal Injection,Arizona,Male,2012,08,08,1
+1303,White,Lethal Injection,Oklahoma,Male,2012,08,14,1
+1304,White,Lethal Injection,Ohio,Male,2012,09,20,1
+1306,White,Lethal Injection,Texas,Male,2012,09,25,1
+1307,Black,Lethal Injection,Texas,Male,2012,10,10,1
+1308,White,Lethal Injection,South Dakota,Male,2012,10,15,1
+1309,White,Lethal Injection,Texas,Male,2012,10,24,1
+1310,White,Lethal Injection,South Dakota,Male,2012,10,30,1
+1311,White,Lethal Injection,Texas,Male,2012,10,31,1
+1312,Black,Lethal Injection,Oklahoma,Male,2012,11,06,1
+1313,Black,Lethal Injection,Texas,Male,2012,11,08,1
+1314,White,Lethal Injection,Ohio,Male,2012,11,13,1
+1316,Black,Lethal Injection,Texas,Male,2012,11,15,1
+1317,Latino,Lethal Injection,Oklahoma,Male,2012,12,04,1
+1318,White,Lethal Injection,Arizona,Male,2012,12,05,1
+1319,Latino,Lethal Injection,Florida,Male,2012,12,11,1
+1320,White,Electrocution,Virginia,Male,2013,01,16,1
+1321,Black,Lethal Injection,Texas,Male,2013,02,21,1
+1322,White,Lethal Injection,Georgia,Male,2013,02,21,1
+1323,White,Lethal Injection,Ohio,Male,2013,03,06,1
+1324,White,Lethal Injection,Oklahoma,Male,2013,03,12,1
+1325,Black,Lethal Injection,Texas,Male,2013,04,09,1
+1326,White,Lethal Injection,Florida,Male,2013,04,10,1
+1327,Black,Lethal Injection,Texas,Male,2013,04,16,1
+1328,White,Lethal Injection,Texas,Male,2013,04,25,1
+1329,White,Lethal Injection,Ohio,Male,2013,05,01,1
+1330,Black,Lethal Injection,Texas,Male,2013,05,07,1
+1332,White,Lethal Injection,Florida,Male,2013,05,29,1
+1333,Black,Lethal Injection,Texas,Male,2013,06,12,1
+1334,White,Lethal Injection,Florida,Male,2013,06,12,1
+1335,White,Lethal Injection,Oklahoma,Male,2013,06,18,1
+1336,Black,Lethal Injection,Oklahoma,Male,2013,06,25,1
+1337,Black,Lethal Injection,Texas,Female,2013,06,26,1
+1338,Latino,Lethal Injection,Texas,Male,2013,07,16,1
+1339,Black,Lethal Injection,Texas,Male,2013,07,18,1
+1340,White,Lethal Injection,Alabama,Male,2013,07,25,1
+1341,White,Lethal Injection,Texas,Male,2013,07,31,1
+1342,Black,Lethal Injection,Florida,Male,2013,08,05,1
+1343,Black,Lethal Injection,Oklahoma,Male,2013,09,10,1
+1344,Latino,Lethal Injection,Texas,Male,2013,09,19,1
+1345,White,Lethal Injection,Ohio,Male,2013,09,25,1
+1346,Latino,Lethal Injection,Texas,Male,2013,09,26,1
+1347,White,Lethal Injection,Florida,Male,2013,10,01,1
+1348,White,Lethal Injection,Arizona,Male,2013,10,09,1
+1349,White,Lethal Injection,Texas,Male,2013,10,09,1
+1350,White,Lethal Injection,Florida,Male,2013,10,15,1
+1351,White,Lethal Injection,Arizona,Male,2013,10,23,1
+1352,Black,Lethal Injection,Florida,Male,2013,11,12,1
+1353,White,Lethal Injection,Texas,Male,2013,11,12,1
+1354,White,Lethal Injection,Missouri,Male,2013,11,20,1
+1355,White,Lethal Injection,Texas,Male,2013,12,03,1
+1356,Black,Lethal Injection,Oklahoma,Male,2013,12,10,1
+1357,White,Lethal Injection,Missouri,Male,2013,12,11,1
+1358,White,Lethal Injection,Oklahoma,Male,2013,12,17,1
+1359,Black,Lethal Injection,Florida,Male,2014,01,07,1
+1360,Black,Lethal Injection,Oklahoma,Male,2014,01,09,1
+1361,White,Lethal Injection,Ohio,Male,2014,01,16,1
+1362,Latino,Lethal Injection,Texas,Male,2014,01,22,1
+1363,White,Lethal Injection,Oklahoma,Male,2014,01,23,1
+1364,Black,Lethal Injection,Missouri,Male,2014,01,29,1
+1365,White,Lethal Injection,Texas,Female,2014,02,05,1
+1367,Black,Lethal Injection,Missouri,Male,2014,02,26,1
+1368,Black,Lethal Injection,Florida,Male,2014,02,26,1
+1369,Black,Lethal Injection,Texas,Male,2014,03,19,1
+1371,White,Lethal Injection,Missouri,Male,2014,03,26,1
+1372,Black,Lethal Injection,Texas,Male,2014,03,27,1
+1373,White,Lethal Injection,Texas,Male,2014,04,03,1
+1374,Latino,Lethal Injection,Texas,Male,2014,04,09,1
+1375,Latino,Lethal Injection,Texas,Male,2014,04,16,1
+1376,White,Lethal Injection,Missouri,Male,2014,04,23,1
+1377,White,Lethal Injection,Florida,Male,2014,04,23,1
+1378,Black,Lethal Injection,Oklahoma,Male,2014,04,29,1
+1379,Black,Lethal Injection,Georgia,Male,2014,06,17,1
+1380,Black,Lethal Injection,Missouri,Male,2014,06,18,1
+1381,Black,Lethal Injection,Florida,Male,2014,06,18,1
+1382,White,Lethal Injection,Florida,Male,2014,07,10,1
+1383,White,Lethal Injection,Missouri,Male,2014,07,16,1
+1384,White,Lethal Injection,Arizona,Male,2014,07,23,1
+1385,White,Lethal Injection,Missouri,Male,2014,08,06,1
+1386,Black,Lethal Injection,Missouri,Male,2014,09,10,1
+1387,Black,Lethal Injection,Texas,Male,2014,09,10,1
+1388,Black,Lethal Injection,Texas,Female,2014,09,17,1
+1389,Latino,Lethal Injection,Texas,Male,2014,10,28,1
+1390,Black,Lethal Injection,Florida,Male,2014,11,13,1
+1391,Black,Lethal Injection,Missouri,Male,2014,11,19,1
+1392,Black,Lethal Injection,Georgia,Male,2014,12,09,1
+1393,White,Lethal Injection,Missouri,Male,2014,12,10,1
+1394,White,Lethal Injection,Georgia,Male,2015,01,13,1
+1395,White,Lethal Injection,Florida,Male,2015,01,15,1
+1396,Black,Lethal Injection,Oklahoma,Male,2015,01,15,1
+1397,Latino,Lethal Injection,Texas,Male,2015,01,21,1
+1398,Black,Lethal Injection,Georgia,Male,2015,01,27,1
+1399,Black,Lethal Injection,Texas,Male,2015,01,29,1
+1400,White,Lethal Injection,Texas,Male,2015,02,04,1
+1401,White,Lethal Injection,Missouri,Male,2015,02,11,1
+1402,Latino,Lethal Injection,Texas,Male,2015,03,11,1
+1403,White,Lethal Injection,Missouri,Male,2015,03,17,1
+1404,White,Lethal Injection,Texas,Male,2015,04,09,1
+1405,Black,Lethal Injection,Missouri,Male,2015,04,14,1
+1406,Latino,Lethal Injection,Texas,Male,2015,04,15,1
+1407,Black,Lethal Injection,Texas,Male,2015,05,12,1
+1408,White,Lethal Injection,Texas,Male,2015,06,03,1
+1409,Black,Lethal Injection,Missouri,Male,2015,06,09,1
+1410,Black,Lethal Injection,Texas,Male,2015,06,18,1
+1411,White,Lethal Injection,Missouri,Male,2015,07,14,1
+1412,Latino,Lethal Injection,Texas,Male,2015,08,12,1
+1413,Black,Lethal Injection,Missouri,Male,2015,09,01,1
+1414,White,Lethal Injection,Georgia,Female,2015,09,30,1
+1415,Latino,Lethal Injection,Virginia,Male,2015,10,01,1
+1416,Latino,Lethal Injection,Texas,Male,2015,10,06,1
+1417,Latino,Lethal Injection,Texas,Male,2015,10,14,1
+1418,White,Lethal Injection,Florida,Male,2015,10,29,1
+1419,Black,Lethal Injection,Texas,Male,2015,11,18,1
+1420,White,Lethal Injection,Georgia,Male,2015,11,19,1
+1421,Black,Lethal Injection,Georgia,Male,2015,12,09,1
+1422,White,Lethal Injection,Florida,Male,2016,01,07,1
+1423,White,Lethal Injection,Texas,Male,2016,01,20,1
+1424,White,Lethal Injection,Alabama,Male,2016,01,21,1
+1425,White,Lethal Injection,Texas,Male,2016,01,27,1
+1426,Black,Lethal Injection,Georgia,Male,2016,02,03,1
+1427,Latino,Lethal Injection,Texas,Male,2016,02,16,1
+1428,White,Lethal Injection,Georgia,Male,2016,02,17,1
+1429,White,Lethal Injection,Texas,Male,2016,03,09,1
+1430,White,Lethal Injection,Texas,Male,2016,03,22,1
+1431,White,Lethal Injection,Georgia,Male,2016,03,31,1
+1432,Latino,Lethal Injection,Texas,Male,2016,04,06,1
+1433,Black,Lethal Injection,Georgia,Male,2016,04,12,1
+1434,White,Lethal Injection,Georgia,Male,2016,04,27,1
+1435,White,Lethal Injection,Missouri,Male,2016,05,11,1
+1436,White,Lethal Injection,Georgia,Male,2016,07,15,1
+1437,White,Lethal Injection,Texas,Male,2016,10,05,1
+1438,White,Lethal Injection,Georgia,Male,2016,10,19,1
+1439,White,Lethal Injection,Georgia,Male,2016,11,16,1
+1440,White,Lethal Injection,Georgia,Male,2016,12,06,1
+1441,White,Lethal Injection,Alabama,Male,2016,12,08,1
+1442,White,Lethal Injection,Texas,Male,2017,01,11,1
+1443,Black,Lethal Injection,Virginia,Male,2017,01,18,1
+1444,Black,Lethal Injection,Texas,Male,2017,01,26,1
+1445,White,Lethal Injection,Missouri,Male,2017,01,31,1
+1446,Latino,Lethal Injection,Texas,Male,2017,03,07,1
+1447,White,Lethal Injection,Texas,Male,2017,03,14,1
+1448,Black,Lethal Injection,Arkansas,Male,2017,04,20,1
+1449,White,Lethal Injection,Arkansas,Male,2017,04,24,1
+1450,Black,Lethal Injection,Arkansas,Male,2017,04,24,1
+1451,Black,Lethal Injection,Arkansas,Male,2017,04,27,1
+1452,White,Lethal Injection,Georgia,Male,2017,05,17,1
+1453,White,Lethal Injection,Alabama,Male,2017,05,26,1
+1454,Black,Lethal Injection,Alabama,Male,2017,06,08,1
+1455,White,Lethal Injection,Virginia,Male,2017,07,06,1
+1456,White,Lethal Injection,Ohio,Male,2017,07,26,1
+1457,Black,Lethal Injection,Texas,Male,2017,07,27,1
+1458,White,Lethal Injection,Florida,Male,2017,08,24,1
+1459,White,Lethal Injection,Ohio,Male,2017,09,13,1
+1460,White,Lethal Injection,Florida,Male,2017,10,05,1
+1461,White,Lethal Injection,Texas,Male,2017,10,12,1
+1462,Black,Lethal Injection,Alabama,Male,2017,10,19,1
+1463,White,Lethal Injection,Florida,Male,2017,11,08,1
+1464,Latino,Lethal Injection,Texas,Male,2017,11,08,1
+1465,White,Lethal Injection,Texas,Male,2018,01,18,1
+1466,Black,Lethal Injection,Texas,Male,2018,01,30,1
+1467,White,Lethal Injection,Texas,Male,2018,02,01,1
+1468,White,Lethal Injection,Florida,Male,2018,02,22,1
+1469,White,Lethal Injection,Alabama,Male,2018,03,15,1
+1470,Black,Lethal Injection,Georgia,Male,2018,03,15,1
+1471,Latino,Lethal Injection,Texas,Male,2018,03,27,1
+1472,White,Lethal Injection,Alabama,Male,2018,04,19,1
+1473,Black,Lethal Injection,Texas,Male,2018,04,25,1
+1474,Black,Lethal Injection,Georgia,Male,2018,05,04,1
+1475,Latino,Lethal Injection,Texas,Male,2018,05,16,1
+1476,White,Lethal Injection,Texas,Male,2018,06,27,1
+1477,Black,Lethal Injection,Texas,Male,2018,07,17,1
+1478,White,Lethal Injection,Ohio,Male,2018,07,18,1
+1479,White,Lethal Injection,Tennessee,Male,2018,08,09,1
+1480,White,Lethal Injection,Nebraska,Male,2018,08,14,1
+1481,White,Lethal Injection,Texas,Male,2018,09,26,1
+1482,White,Lethal Injection,Texas,Male,2018,09,27,1
+1483,White,Lethal Injection,South Dakota,Male,2018,10,29,1
+1484,White,Electrocution,Tennessee,Male,2018,11,01,1
+1485,Latino,Lethal Injection,Texas,Male,2018,11,14,1
+1486,Latino,Lethal Injection,Texas,Male,2018,12,04,1
+1487,White,Electrocution,Tennessee,Male,2018,12,06,1
+1488,Black,Lethal Injection,Texas,Male,2018,12,11,1
+1489,Latino,Lethal Injection,Florida,Male,2018,12,13,1
+1490,Black,Lethal Injection,Texas,Male,2019,01,30,1
+1491,Black,Lethal Injection,Alabama,Male,2019,02,07,1
+1492,White,Lethal Injection,Texas,Male,2019,02,28,1
+1493,White,Lethal Injection,Texas,Male,2019,04,24,1
+1494,Black,Lethal Injection,Georgia,Male,2019,05,02,1
+1495,White,Lethal Injection,Alabama,Male,2019,05,16,1
+1496,White,Lethal Injection,Tennessee,Male,2019,05,16,1
+1497,White,Lethal Injection,Florida,Male,2019,05,23,1
+1498,White,Lethal Injection,Alabama,Male,2019,05,31,1
+1499,Black,Lethal Injection,Georgia,Male,2019,06,20,1
+1500,White,Electrocution,Tennessee,Male,2019,08,15,1
+1501,White,Lethal Injection,Texas,Male,2019,08,21,1
+1502,White,Lethal Injection,Florida,Male,2019,08,22,1
+1503,White,Lethal Injection,Texas,Male,2019,09,04,1
+1504,Latino,Lethal Injection,Texas,Male,2019,09,10,1
+1505,Black,Lethal Injection,Texas,Male,2019,09,25,1
+708,White,Electrocution,Alabama,Male,1983,4,22,10
+710,White,Electrocution,Alabama,Male,1987,8,28,10
+711,Black,Electrocution,Alabama,Male,1989,5,26,1
+712,Black,Electrocution,Alabama,Male,1989,7,14,11
+713,Black,Electrocution,Alabama,Male,1989,8,18,1
+714,Black,Electrocution,Alabama,Male,1989,11,17,11
+715,Black,Electrocution,Alabama,Male,1990,7,13,24
+1309,White,Electrocution,Arkansas,Male,1990,6,18,1
+1310,White,Lethal Injection,Arkansas,Male,1990,6,25,1
+2741,White,Electrocution,Florida,Male,1979,5,25,1
+2742,White,Electrocution,Florida,Male,1983,11,30,10
+2743,White,Electrocution,Florida,Male,1984,1,26,6
+2744,White,Electrocution,Florida,Male,1984,4,5,1
+2745,Black,Electrocution,Florida,Male,1984,5,10,10
+2746,White,Electrocution,Florida,Male,1984,6,20,10
+2747,Black,Electrocution,Florida,Male,1984,7,13,10
+2748,White,Electrocution,Florida,Male,1984,9,7,1
+2749,Black,Electrocution,Florida,Male,1984,9,20,10
+2750,White,Electrocution,Florida,Male,1984,11,8,10
+2751,White,Electrocution,Florida,Male,1985,1,30,1
+2752,White,Electrocution,Florida,Male,1985,3,6,1
+2753,Black,Electrocution,Florida,Male,1985,5,29,1
+2754,Black,Electrocution,Florida,Male,1986,4,15,1
+2755,Black,Electrocution,Florida,Male,1986,4,22,10
+2756,White,Electrocution,Florida,Male,1986,5,20,10
+2757,Black,Electrocution,Florida,Male,1987,8,28,10
+2758,Black,Electrocution,Florida,Male,1988,3,15,1
+2760,White,Electrocution,Florida,Male,1989,1,24,24
+2761,White,Electrocution,Florida,Male,1989,5,4,1
+2762,White,Electrocution,Florida,Male,1990,5,4,1
+2763,Black,Electrocution,Florida,Male,1990,7,27,11
+2764,White,Electrocution,Florida,Male,1990,9,21,10
+2765,White,Electrocution,Florida,Male,1990,11,19,24
+2766,White,Electrocution,Florida,Male,1991,4,24,1
+3718,Black,Electrocution,Georgia,Male,1984,7,12,10
+3719,Black,Electrocution,Georgia,Male,1985,1,9,11
+3720,Black,Electrocution,Georgia,Male,1985,2,20,10
+3721,Black,Electrocution,Georgia,Male,1985,3,20,10
+3722,Black,Electrocution,Georgia,Male,1984,12,12,1
+3723,Black,Electrocution,Georgia,Male,1986,6,23,10
+3724,Black,Electrocution,Georgia,Male,1987,5,15,1
+3725,Black,Electrocution,Georgia,Male,1987,5,22,10
+3726,White,Electrocution,Georgia,Male,1987,5,29,10
+3727,Black,Electrocution,Georgia,Male,1987,9,1,10
+3728,White,Electrocution,Georgia,Male,1987,9,21,11
+3729,White,Electrocution,Georgia,Male,1988,7,28,1
+3730,Black,Electrocution,Georgia,Male,1989,5,18,1
+4286,White,Electrocution,Indiana,Male,1981,3,9,11
+4287,White,Electrocution,Indiana,Male,1985,10,16,1
+5447,Black,Electrocution,Louisiana,Male,1984,2,29,1
+5448,White,Electrocution,Louisiana,Male,1984,4,5,19
+5449,White,Electrocution,Louisiana,Male,1984,9,10,10
+5450,Black,Electrocution,Louisiana,Male,1984,10,30,10
+5451,White,Electrocution,Louisiana,Male,1984,12,28,11
+5452,White,Electrocution,Louisiana,Male,1985,1,4,1
+5453,White,Electrocution,Louisiana,Male,1987,6,7,1
+5454,Black,Electrocution,Louisiana,Male,1987,6,9,11
+5455,White,Electrocution,Louisiana,Male,1987,6,12,10
+5456,White,Electrocution,Louisiana,Male,1987,6,16,10
+5457,Black,Electrocution,Louisiana,Male,1987,7,20,11
+5458,Black,Electrocution,Louisiana,Male,1987,7,24,19
+5459,White,Electrocution,Louisiana,Male,1987,7,30,11
+5460,White,Electrocution,Louisiana,Male,1987,8,24,11
+5461,White,Electrocution,Louisiana,Male,1988,3,15,1
+5462,Black,Electrocution,Louisiana,Male,1988,4,13,1
+5463,White,Electrocution,Louisiana,Male,1988,6,14,1
+5464,Black,Electrocution,Louisiana,Male,1990,5,18,1
+6570,White,Gas,Mississippi,Male,1983,9,2,11
+6571,Black,Gas,Mississippi,Male,1987,5,26,1
+6572,Black,Gas,Mississippi,Male,1987,7,8,10
+6573,Black,Gas,Mississippi,Male,1989,6,21,10
+6859,White,Lethal Injection,Missouri,Male,1989,1,6,11
+6860,White,Lethal Injection,Missouri,Male,1990,1,18,1
+6861,Black,Lethal Injection,Missouri,Male,1990,5,11,1
+6862,White,Lethal Injection,Missouri,Male,1990,5,17,10
+6863,White,Lethal Injection,Missouri,Male,1990,8,31,1
+7030,White,Gas,Nevada,Male,1979,10,23,10
+7031,White,Lethal Injection,Nevada,Male,1985,12,6,11
+7033,White,Lethal Injection,Nevada,Male,1989,6,23,1
+7034,White,Lethal Injection,Nevada,Male,1990,6,3,10
+9407,White,Lethal Injection,North Carolina,Male,1984,3,16,1
+9408,White,Lethal Injection,North Carolina,Female,1984,11,2,1
+9409,White,Lethal Injection,North Carolina,Male,1986,9,19,11
+9988,White,Lethal Injection,Oklahoma,Male,1990,9,10,1
+11844,White,Electrocution,South Carolina,Male,1985,1,11,19
+11845,White,Electrocution,South Carolina,Male,1986,11,10,19
+11846,White,Electrocution,South Carolina,Male,1990,4,27,1
+12952,Black,Lethal Injection,Texas,Male,1982,12,7,1
+12953,White,Lethal Injection,Texas,Male,1984,3,14,10
+12954,White,Lethal Injection,Texas,Male,1984,3,31,1
+12955,White,Lethal Injection,Texas,Male,1984,10,30,1
+12956,White,Lethal Injection,Texas,Male,1985,1,16,1
+12957,White,Lethal Injection,Texas,Male,1985,3,13,11
+12958,Latino,Lethal Injection,Texas,Male,1985,5,15,10
+12959,Black,Lethal Injection,Texas,Male,1985,6,25,10
+12960,Latino,Lethal Injection,Texas,Male,1985,7,9,1
+12961,White,Lethal Injection,Texas,Male,1985,10,11,10
+12962,White,Lethal Injection,Texas,Male,1986,3,11,1
+12963,White,Lethal Injection,Texas,Male,1986,4,16,11
+12964,White,Lethal Injection,Texas,Male,1986,5,15,11
+12965,Latino,Lethal Injection,Texas,Male,1986,6,9,1
+12966,White,Lethal Injection,Texas,Male,1986,6,19,11
+12967,White,Lethal Injection,Texas,Male,1986,8,20,10
+12968,Black,Lethal Injection,Texas,Male,1986,8,22,10
+12969,White,Lethal Injection,Texas,Male,1986,8,26,11
+12970,Black,Lethal Injection,Texas,Male,1986,12,4,10
+12971,Latino,Lethal Injection,Texas,Male,1986,12,18,11
+12972,Latino,Lethal Injection,Texas,Male,1987,1,30,23
+12973,Latino,Lethal Injection,Texas,Male,1987,3,4,1
+12974,Black,Lethal Injection,Texas,Male,1987,5,28,11
+12975,White,Lethal Injection,Texas,Male,1987,6,24,10
+12976,White,Lethal Injection,Texas,Male,1987,7,8,1
+12977,White,Lethal Injection,Texas,Male,1987,9,10,23
+12978,White,Lethal Injection,Texas,Male,1988,1,7,23
+12979,Black,Lethal Injection,Texas,Male,1988,11,3,1
+12980,Black,Lethal Injection,Texas,Male,1988,12,13,1
+12981,Black,Lethal Injection,Texas,Male,1989,3,22,1
+12982,White,Lethal Injection,Texas,Male,1989,5,24,11
+12983,White,Lethal Injection,Texas,Male,1989,9,20,1
+12984,Latino,Lethal Injection,Texas,Male,1989,12,7,10
+12985,Black,Lethal Injection,Texas,Male,1990,4,21,10
+12986,White,Lethal Injection,Texas,Male,1990,5,17,1
+12988,White,Lethal Injection,Texas,Male,1990,7,18,1
+12989,Black,Lethal Injection,Texas,Male,1991,2,26,10
+13033,White,Firing Squad,Utah,Male,1977,1,17,10
+13034,Black,Lethal Injection,Utah,Male,1987,8,28,1
+13035,White,Lethal Injection,Utah,Male,1988,6,10,24
+14339,White,Electrocution,Virginia,Male,1982,8,10,10
+14340,Black,Electrocution,Virginia,Male,1984,10,12,1
+14341,Black,Electrocution,Virginia,Male,1985,4,18,1
+14342,Black,Electrocution,Virginia,Male,1985,6,25,11
+14343,Black,Electrocution,Virginia,Male,1986,7,31,11
+14344,White,Electrocution,Virginia,Male,1987,7,6,11
+14345,Black,Electrocution,Virginia,Male,1988,4,14,10
+14346,Black,Electrocution,Virginia,Male,1989,8,30,11
+14347,White,Electrocution,Virginia,Male,1990,7,19,10
+14348,Black,Electrocution,Virginia,Male,1990,10,17,1
+14349,White,Electrocution,Virginia,Male,1990,12,13,11
+14633,White,Electrocution,Alabama,Male,1992,3,20,6
+14637,Black,Electrocution,Alabama,Male,1996,2,16,24
+14638,White,Electrocution,Alabama,Male,1997,1,10,26
+14640,White,Electrocution,Alabama,Male,1997,6,6,24
+14641,White,Electrocution,Alabama,Male,1998,5,8,11
+14642,Black,Electrocution,Alabama,Male,1999,6,18,10
+14643,Black,Electrocution,Alabama,Male,1999,8,6,11
+14644,White,Electrocution,Alabama,Male,2000,1,7,25
+14645,Black,Electrocution,Alabama,Male,2000,3,3,10
+14646,Black,Electrocution,Alabama,Male,2000,4,14,10
+14647,Black,Electrocution,Alabama,Male,2000,6,2,23
+14648,White,Electrocution,Alabama,Female,2002,5,10,1
+14649,White,Lethal Injection,Alabama,Male,2002,12,12,10
+14650,White,Gas,Arizona,Male,1992,4,6,10
+14651,White,Lethal Injection,Arizona,Male,1993,3,3,1
+14652,White,Lethal Injection,Arizona,Male,1993,4,14,10
+14653,White,Lethal Injection,Arizona,Male,1995,9,13,1
+14654,White,Lethal Injection,Arizona,Male,1996,6,19,24
+14655,Latino,Lethal Injection,Arizona,Male,1996,8,22,11
+14656,White,Lethal Injection,Arizona,Male,1997,1,23,1
+14657,White,Lethal Injection,Arizona,Male,1997,6,25,26
+14658,Latino,Lethal Injection,Arizona,Male,1998,1,21,10
+14659,Latino,Lethal Injection,Arizona,Male,1998,4,22,1
+14660,White,Lethal Injection,Arizona,Male,1998,4,29,10
+14661,White,Lethal Injection,Arizona,Male,1998,6,3,10
+14662,White,Lethal Injection,Arizona,Male,1999,1,13,19
+14663,Native American,Lethal Injection,Arizona,Male,1999,2,3,10
+14664,White,Lethal Injection,Arizona,Male,1999,2,24,10
+14665,White,Gas,Arizona,Male,1999,3,3,10
+14666,White,Lethal Injection,Arizona,Male,1999,5,5,26
+14667,White,Lethal Injection,Arizona,Male,1999,6,16,25
+14668,Latino,Lethal Injection,Arizona,Male,1999,10,27,26
+14669,White,Lethal Injection,Arizona,Male,2000,2,16,1
+14670,White,Lethal Injection,Arizona,Male,2000,3,15,25
+14671,White,Lethal Injection,Arizona,Male,2000,11,8,6
+14672,Black,Lethal Injection,Arkansas,Male,1992,1,24,1
+14673,White,Lethal Injection,Arkansas,Male,1992,5,7,1
+14674,Black,Lethal Injection,Arkansas,Male,1994,5,11,10
+14675,White,Lethal Injection,Arkansas,Male,1994,5,11,10
+14676,White,Lethal Injection,Arkansas,Male,1994,8,3,10
+14677,White,Lethal Injection,Arkansas,Male,1994,8,3,10
+14678,White,Lethal Injection,Arkansas,Male,1994,8,3,10
+14679,Black,Lethal Injection,Arkansas,Male,1995,4,19,10
+14680,Black,Lethal Injection,Arkansas,Male,1995,8,31,11
+14681,Black,Lethal Injection,Arkansas,Male,1996,8,8,24
+14682,White,Lethal Injection,Arkansas,Male,1997,1,8,1
+14683,Latino,Lethal Injection,Arkansas,Male,1997,1,8,1
+14684,Black,Lethal Injection,Arkansas,Male,1997,1,8,10
+14685,White,Lethal Injection,Arkansas,Male,1997,8,6,10
+14686,White,Lethal Injection,Arkansas,Male,1998,7,8,1
+14687,White,Lethal Injection,Arkansas,Male,1999,2,16,26
+14688,White,Lethal Injection,Arkansas,Male,1999,4,12,10
+14689,White,Lethal Injection,Arkansas,Male,1999,9,8,19
+14690,White,Lethal Injection,Arkansas,Male,1999,9,8,1
+14691,White,Lethal Injection,Arkansas,Female,2000,5,2,1
+14692,Black,Lethal Injection,Arkansas,Male,2000,12,19,10
+14693,White,Lethal Injection,Arkansas,Male,2001,5,8,1
+14694,White,Gas,California,Male,1992,4,21,25
+14695,White,Gas,California,Male,1993,8,24,19
+14696,White,Lethal Injection,California,Male,1996,2,23,19
+14697,White,Lethal Injection,California,Male,1996,5,3,24
+14699,Asian,Lethal Injection,California,Male,1999,2,9,10
+14700,Black,Lethal Injection,California,Male,1999,5,4,10
+14701,Native American,Lethal Injection,California,Male,2000,3,15,11
+14702,White,Lethal Injection,California,Male,2001,3,27,10
+14703,White,Lethal Injection,California,Male,2002,1,29,23
+14704,White,Lethal Injection,Colorado,Male,1997,10,13,24
+14705,White,Lethal Injection,Delaware,Male,1992,3,14,11
+14709,White,Lethal Injection,Delaware,Male,1995,3,17,10
+14710,White,Hanging,Delaware,Male,1996,1,25,1
+14711,Black,Lethal Injection,Delaware,Male,1996,1,30,1
+14713,White,Lethal Injection,Delaware,Male,1999,4,23,26
+14714,Black,Lethal Injection,Delaware,Male,1999,9,24,10
+14715,Black,Lethal Injection,Delaware,Male,2000,11,17,1
+14717,Black,Lethal Injection,Delaware,Male,2001,5,25,1
+14718,White,Electrocution,Florida,Male,1992,5,12,10
+14719,Black,Electrocution,Florida,Male,1992,7,21,1
+14720,White,Electrocution,Florida,Male,1993,4,21,1
+14721,White,Electrocution,Florida,Male,1993,5,5,10
+14722,White,Electrocution,Florida,Male,1993,8,25,1
+14723,White,Electrocution,Florida,Male,1994,4,22,11
+14724,Black,Electrocution,Florida,Male,1995,7,18,26
+14725,White,Electrocution,Florida,Male,1995,12,4,10
+14726,White,Electrocution,Florida,Male,1995,12,5,11
+14727,Black,Electrocution,Florida,Male,1996,10,21,24
+14728,Black,Electrocution,Florida,Male,1996,12,6,23
+14729,Latino,Electrocution,Florida,Male,1997,3,25,10
+14730,White,Electrocution,Florida,Male,1998,3,23,24
+14731,Black,Electrocution,Florida,Male,1998,3,24,1
+14732,White,Electrocution,Florida,Female,1998,3,30,1
+14733,Native American,Electrocution,Florida,Male,1998,3,31,10
+14734,White,Electrocution,Florida,Male,1999,7,8,1
+14735,White,Lethal Injection,Florida,Male,2000,2,23,10
+14736,White,Lethal Injection,Florida,Male,2000,2,24,24
+14737,Black,Lethal Injection,Florida,Male,2000,6,7,1
+14738,White,Lethal Injection,Florida,Male,2000,6,22,1
+14739,White,Lethal Injection,Florida,Male,2000,8,25,1
+14740,Latino,Lethal Injection,Florida,Male,2000,12,7,1
+14741,White,Lethal Injection,Florida,Male,2001,1,11,24
+14742,Latino,Lethal Injection,Florida,Male,2002,10,2,11
+14743,White,Lethal Injection,Florida,Female,2002,10,9,10
+14744,Black,Lethal Injection,Florida,Male,2002,12,9,25
+14745,White,Electrocution,Georgia,Male,1993,6,28,19
+14746,White,Electrocution,Georgia,Male,1993,12,7,23
+14747,Black,Electrocution,Georgia,Male,1994,3,31,1
+14748,White,Electrocution,Georgia,Male,1995,4,7,10
+14749,White,Electrocution,Georgia,Male,1995,5,17,11
+14750,White,Electrocution,Georgia,Male,1996,11,14,1
+14751,White,Electrocution,Georgia,Male,1996,11,15,19
+14752,White,Electrocution,Georgia,Male,1998,6,10,10
+14753,White,Lethal Injection,Georgia,Male,2002,1,24,25
+14754,White,Lethal Injection,Georgia,Male,2002,3,12,10
+14755,White,Lethal Injection,Georgia,Male,2002,8,16,1
+14756,White,Lethal Injection,Georgia,Male,2002,11,13,10
+14757,White,Lethal Injection,Idaho,Male,1994,1,6,1
+14758,White,Lethal Injection,Illinois,Male,1994,5,10,11
+14759,Black,Lethal Injection,Illinois,Male,1995,3,22,24
+14761,Black,Lethal Injection,Illinois,Male,1995,5,17,10
+14762,White,Lethal Injection,Illinois,Male,1995,9,20,1
+14763,White,Lethal Injection,Illinois,Male,1995,11,22,11
+14764,Black,Lethal Injection,Illinois,Male,1996,9,18,1
+14765,Black,Lethal Injection,Illinois,Male,1997,11,19,10
+14766,Black,Lethal Injection,Illinois,Male,1997,11,19,11
+14767,White,Lethal Injection,Illinois,Male,1998,1,21,10
+14768,White,Lethal Injection,Illinois,Male,1999,3,17,1
+14769,Black,Electrocution,Indiana,Male,1994,12,8,1
+14770,Black,Lethal Injection,Indiana,Male,1996,7,18,1
+14771,Black,Lethal Injection,Indiana,Male,1997,11,20,10
+14772,White,Lethal Injection,Indiana,Male,1998,1,29,1
+14773,White,Lethal Injection,Indiana,Male,1999,12,9,23
+14774,White,Lethal Injection,Indiana,Male,2001,3,14,10
+14775,White,Lethal Injection,Indiana,Male,2001,6,27,23
+14776,White,Electrocution,Kentucky,Male,1997,7,1,10
+14777,White,Lethal Injection,Kentucky,Male,1999,5,25,1
+14778,White,Lethal Injection,Louisiana,Male,1993,3,5,26
+14779,Black,Lethal Injection,Louisiana,Male,1995,5,16,1
+14780,Black,Lethal Injection,Louisiana,Male,1996,3,1,10
+14781,White,Lethal Injection,Louisiana,Male,1997,4,24,10
+14782,Black,Lethal Injection,Louisiana,Male,1999,1,8,1
+14783,Black,Lethal Injection,Louisiana,Male,2000,6,6,10
+14784,White,Lethal Injection,Louisiana,Male,2002,5,10,11
+14785,White,Lethal Injection,Maryland,Male,1994,5,17,1
+14786,Black,Lethal Injection,Maryland,Male,1997,7,2,1
+14788,White,Lethal Injection,Mississippi,Male,2002,7,17,1
+14789,White,Lethal Injection,Mississippi,Male,2002,12,11,24
+14790,White,Lethal Injection,Missouri,Male,1992,10,21,26
+14791,Black,Lethal Injection,Missouri,Male,1993,1,27,1
+14792,Black,Lethal Injection,Missouri,Male,1993,7,21,6
+14793,Black,Lethal Injection,Missouri,Male,1993,7,28,1
+14794,White,Lethal Injection,Missouri,Male,1993,10,6,1
+14795,Black,Lethal Injection,Missouri,Male,1995,5,3,10
+14796,Black,Lethal Injection,Missouri,Male,1995,6,21,1
+14797,White,Lethal Injection,Missouri,Male,1995,7,26,10
+14798,White,Lethal Injection,Missouri,Male,1995,11,15,1
+14799,Black,Lethal Injection,Missouri,Male,1995,11,29,11
+14800,Black,Lethal Injection,Missouri,Male,1995,12,6,1
+14801,White,Lethal Injection,Missouri,Male,1996,2,21,1
+14802,White,Lethal Injection,Missouri,Male,1996,4,10,23
+14803,Native American,Lethal Injection,Missouri,Male,1996,7,31,1
+14804,Black,Lethal Injection,Missouri,Male,1996,8,7,23
+14805,White,Lethal Injection,Missouri,Male,1996,8,21,24
+14806,White,Lethal Injection,Missouri,Male,1996,12,11,1
+14807,White,Lethal Injection,Missouri,Male,1997,1,29,10
+14808,White,Lethal Injection,Missouri,Male,1997,8,6,1
+14809,White,Lethal Injection,Missouri,Male,1997,8,13,1
+14810,White,Lethal Injection,Missouri,Male,1997,8,20,24
+14811,Black,Lethal Injection,Missouri,Male,1997,9,24,10
+14812,White,Lethal Injection,Missouri,Male,1997,10,22,6
+14813,Black,Lethal Injection,Missouri,Male,1998,2,25,10
+14814,Black,Lethal Injection,Missouri,Male,1998,3,25,10
+14815,White,Lethal Injection,Missouri,Male,1998,4,22,1
+14816,Black,Lethal Injection,Missouri,Male,1999,1,13,24
+14817,White,Lethal Injection,Missouri,Male,1999,2,24,1
+14818,White,Lethal Injection,Missouri,Male,1999,3,10,1
+14819,Black,Lethal Injection,Missouri,Male,1999,4,14,1
+14820,Black,Lethal Injection,Missouri,Male,1999,4,28,1
+14821,Black,Lethal Injection,Missouri,Male,1999,5,26,10
+14822,Black,Lethal Injection,Missouri,Male,1999,6,16,24
+14823,White,Lethal Injection,Missouri,Male,1999,6,30,1
+14824,White,Lethal Injection,Missouri,Male,1999,9,1,26
+14825,White,Lethal Injection,Missouri,Male,2000,3,22,24
+14826,White,Lethal Injection,Missouri,Male,2000,6,28,10
+14827,White,Lethal Injection,Missouri,Male,2000,8,30,10
+14828,Black,Lethal Injection,Missouri,Male,2000,9,13,10
+14829,White,Lethal Injection,Missouri,Male,2000,11,15,1
+14830,White,Lethal Injection,Missouri,Male,2001,2,7,1
+14831,White,Lethal Injection,Missouri,Male,2001,3,28,10
+14832,Black,Lethal Injection,Missouri,Male,2001,4,25,10
+14834,White,Lethal Injection,Missouri,Male,2002,1,9,1
+14835,Black,Lethal Injection,Missouri,Male,2002,2,6,24
+14836,White,Lethal Injection,Missouri,Male,2002,3,6,23
+14837,White,Lethal Injection,Missouri,Male,2002,4,10,25
+14838,White,Lethal Injection,Missouri,Male,2002,8,14,1
+14839,White,Lethal Injection,Missouri,Male,2002,11,20,10
+14840,White,Lethal Injection,Montana,Male,1995,5,10,24
+14841,White,Lethal Injection,Montana,Male,1998,2,24,24
+14843,White,Lethal Injection,Nevada,Male,1996,3,30,1
+14846,Latino,Lethal Injection,Nevada,Male,1998,10,5,10
+14847,Asian,Lethal Injection,Nevada,Male,1999,4,5,10
+14848,White,Lethal Injection,Nevada,Male,2001,4,21,24
+14850,White,Gas,North Carolina,Male,1994,6,15,10
+14851,White,Lethal Injection,North Carolina,Male,1995,1,24,11
+14852,White,Lethal Injection,North Carolina,Male,1995,9,22,1
+14853,White,Gas,North Carolina,Male,1998,1,30,11
+14854,White,Lethal Injection,North Carolina,Male,1998,8,14,1
+14855,White,Lethal Injection,North Carolina,Male,1998,11,20,1
+14856,White,Lethal Injection,North Carolina,Male,1999,3,26,1
+14857,Black,Lethal Injection,North Carolina,Male,1999,9,24,1
+14858,White,Lethal Injection,North Carolina,Male,1999,10,21,1
+14859,Black,Lethal Injection,North Carolina,Male,1999,11,19,10
+14860,Black,Lethal Injection,North Carolina,Male,2000,11,9,11
+14861,Black,Lethal Injection,North Carolina,Male,2001,3,9,23
+14862,White,Lethal Injection,North Carolina,Male,2002,12,6,6
+14863,Black,Lethal Injection,North Carolina,Male,2002,12,10,10
+14864,White,Lethal Injection,Ohio,Male,1999,2,19,10
+14865,Black,Lethal Injection,Ohio,Male,2001,6,14,10
+14866,White,Lethal Injection,Ohio,Male,2002,2,19,10
+14867,Black,Lethal Injection,Ohio,Male,2002,4,26,25
+14868,White,Lethal Injection,Ohio,Male,2002,9,25,11
+14869,Black,Lethal Injection,Oklahoma,Male,1992,3,10,10
+14871,White,Lethal Injection,Oklahoma,Male,1995,3,20,23
+14872,White,Lethal Injection,Oklahoma,Male,1995,7,1,10
+14873,Black,Lethal Injection,Oklahoma,Male,1995,8,11,1
+14874,White,Lethal Injection,Oklahoma,Male,1996,4,26,10
+14875,White,Lethal Injection,Oklahoma,Male,1996,8,9,10
+14876,Native American,Lethal Injection,Oklahoma,Male,1997,5,8,10
+14877,White,Lethal Injection,Oklahoma,Male,1998,2,20,1
+14879,Asian,Lethal Injection,Oklahoma,Male,1998,12,10,1
+14880,White,Lethal Injection,Oklahoma,Male,1998,12,17,1
+14881,Latino,Lethal Injection,Oklahoma,Male,1999,1,7,1
+14882,White,Lethal Injection,Oklahoma,Male,1999,2,4,1
+14883,White,Lethal Injection,Oklahoma,Male,1999,6,3,1
+14884,White,Lethal Injection,Oklahoma,Male,1999,7,8,10
+14885,Black,Lethal Injection,Oklahoma,Male,1999,12,2,19
+14886,Black,Lethal Injection,Oklahoma,Male,1999,12,9,10
+14887,Black,Lethal Injection,Oklahoma,Male,2000,1,6,11
+14888,White,Lethal Injection,Oklahoma,Male,2000,1,13,25
+14889,Black,Lethal Injection,Oklahoma,Male,2000,2,10,11
+14890,Black,Lethal Injection,Oklahoma,Male,2000,3,23,19
+14891,Black,Lethal Injection,Oklahoma,Male,2000,4,27,10
+14892,Black,Lethal Injection,Oklahoma,Male,2000,5,25,10
+14893,Native American,Lethal Injection,Oklahoma,Male,2000,6,1,1
+14894,White,Lethal Injection,Oklahoma,Male,2000,6,8,25
+14895,Black,Lethal Injection,Oklahoma,Male,2000,6,15,6
+14896,White,Lethal Injection,Oklahoma,Male,2000,7,20,10
+14897,White,Lethal Injection,Oklahoma,Male,2000,8,10,24
+14898,Black,Lethal Injection,Oklahoma,Male,2001,1,9,19
+14899,Black,Lethal Injection,Oklahoma,Female,2001,1,11,1
+14900,White,Lethal Injection,Oklahoma,Male,2001,1,16,1
+14901,Latino,Lethal Injection,Oklahoma,Male,2001,1,18,26
+14902,White,Lethal Injection,Oklahoma,Male,2001,1,23,10
+14903,White,Lethal Injection,Oklahoma,Male,2001,1,25,10
+14904,White,Lethal Injection,Oklahoma,Male,2001,1,30,26
+14905,White,Lethal Injection,Oklahoma,Male,2001,2,1,1
+14906,White,Lethal Injection,Oklahoma,Male,2001,3,1,1
+14907,White,Lethal Injection,Oklahoma,Male,2001,3,27,1
+14908,White,Lethal Injection,Oklahoma,Female,2001,5,1,6
+14909,White,Lethal Injection,Oklahoma,Male,2001,5,22,1
+14910,Black,Lethal Injection,Oklahoma,Male,2001,5,29,6
+14911,White,Lethal Injection,Oklahoma,Male,2001,6,11,1
+14912,White,Lethal Injection,Oklahoma,Male,2002,1,29,10
+14913,White,Lethal Injection,Oklahoma,Male,2002,1,31,10
+14914,White,Lethal Injection,Oklahoma,Male,2002,7,23,25
+14915,White,Lethal Injection,Oklahoma,Male,2002,7,30,1
+14916,White,Lethal Injection,Oklahoma,Male,2002,12,10,10
+14917,White,Lethal Injection,Oklahoma,Male,2002,12,12,10
+14918,Black,Lethal Injection,Oklahoma,Male,2002,12,17,10
+14919,White,Lethal Injection,Oregon,Male,1996,9,6,24
+14920,White,Lethal Injection,Oregon,Male,1997,5,16,24
+14921,White,Lethal Injection,Pennsylvania,Male,1995,5,2,1
+14922,White,Lethal Injection,Pennsylvania,Male,1995,8,16,1
+14923,White,Lethal Injection,Pennsylvania,Male,1999,7,6,11
+14924,Black,Lethal Injection,South Carolina,Male,1995,8,18,25
+14925,White,Lethal Injection,South Carolina,Male,1996,5,31,1
+14926,White,Lethal Injection,South Carolina,Male,1996,7,19,1
+14927,White,Lethal Injection,South Carolina,Male,1996,9,6,11
+14928,White,Electrocution,South Carolina,Male,1996,10,4,24
+14929,White,Lethal Injection,South Carolina,Male,1996,11,15,10
+14930,Black,Lethal Injection,South Carolina,Male,1996,11,22,11
+14931,White,Lethal Injection,South Carolina,Male,1997,6,13,10
+14932,Black,Lethal Injection,South Carolina,Male,1997,11,7,10
+14933,White,Lethal Injection,South Carolina,Male,1998,3,6,11
+14936,Black,Lethal Injection,South Carolina,Male,1998,12,4,10
+14937,Black,Lethal Injection,South Carolina,Male,1998,12,4,10
+14940,Black,Lethal Injection,South Carolina,Male,1999,1,8,23
+14941,White,Lethal Injection,South Carolina,Male,1999,1,22,1
+14942,Black,Lethal Injection,South Carolina,Male,1999,11,12,25
+14943,White,Lethal Injection,South Carolina,Male,1999,12,3,10
+14944,Black,Lethal Injection,South Carolina,Male,2000,11,3,10
+14945,White,Lethal Injection,South Carolina,Male,2002,5,3,1
+14946,Black,Lethal Injection,South Carolina,Male,2002,8,23,10
+14947,White,Lethal Injection,South Carolina,Male,2002,9,13,26
+14948,Latino,Lethal Injection,Texas,Male,1992,1,22,10
+14949,White,Lethal Injection,Texas,Male,1992,2,11,11
+14950,White,Lethal Injection,Texas,Male,1992,2,28,1
+14951,White,Lethal Injection,Texas,Male,1992,3,3,23
+14953,White,Lethal Injection,Texas,Male,1992,5,7,10
+14954,Latino,Lethal Injection,Texas,Male,1992,5,20,11
+14955,White,Lethal Injection,Texas,Male,1992,5,22,6
+14956,Black,Lethal Injection,Texas,Male,1992,8,11,23
+14957,Black,Lethal Injection,Texas,Male,1992,9,22,10
+14959,Black,Lethal Injection,Texas,Male,1992,12,10,24
+14960,Latino,Lethal Injection,Texas,Male,1993,3,23,10
+14961,Latino,Lethal Injection,Texas,Male,1993,3,25,1
+14962,Black,Lethal Injection,Texas,Male,1993,5,4,23
+14963,Latino,Lethal Injection,Texas,Male,1993,5,12,1
+14964,White,Lethal Injection,Texas,Male,1993,5,18,10
+14965,White,Lethal Injection,Texas,Male,1993,6,29,1
+14966,Black,Lethal Injection,Texas,Male,1993,7,1,10
+14967,Black,Lethal Injection,Texas,Male,1993,7,30,10
+14968,White,Lethal Injection,Texas,Male,1993,8,5,10
+14969,White,Lethal Injection,Texas,Male,1993,8,12,10
+14970,Black,Lethal Injection,Texas,Male,1993,8,20,25
+14971,Latino,Lethal Injection,Texas,Male,1993,8,24,10
+14972,Black,Lethal Injection,Texas,Male,1993,8,31,10
+14973,White,Lethal Injection,Texas,Male,1993,9,3,24
+14974,Black,Lethal Injection,Texas,Male,1993,9,28,24
+14975,White,Lethal Injection,Texas,Male,1993,11,10,25
+14976,Black,Lethal Injection,Texas,Male,1993,12,15,10
+14977,White,Lethal Injection,Texas,Male,1994,2,2,10
+14978,Black,Lethal Injection,Texas,Male,1994,3,31,25
+14979,White,Lethal Injection,Texas,Male,1994,4,4,25
+14980,White,Lethal Injection,Texas,Male,1994,4,26,25
+14981,Black,Lethal Injection,Texas,Male,1994,5,3,1
+14982,White,Lethal Injection,Texas,Male,1994,5,27,1
+14983,White,Lethal Injection,Texas,Male,1994,6,14,25
+14984,White,Lethal Injection,Texas,Male,1994,8,2,10
+14985,Latino,Lethal Injection,Texas,Male,1994,9,16,10
+14986,White,Lethal Injection,Texas,Male,1994,9,20,1
+14988,White,Lethal Injection,Texas,Male,1994,11,22,10
+14989,Black,Lethal Injection,Texas,Male,1994,12,6,23
+14990,White,Lethal Injection,Texas,Male,1994,12,11,10
+14991,White,Lethal Injection,Texas,Male,1995,1,4,24
+14992,Latino,Lethal Injection,Texas,Male,1995,1,17,1
+14993,White,Lethal Injection,Texas,Male,1995,1,31,10
+14994,Black,Lethal Injection,Texas,Male,1995,1,31,10
+14995,White,Lethal Injection,Texas,Male,1995,2,7,25
+14996,White,Lethal Injection,Texas,Male,1995,2,16,10
+14997,Black,Lethal Injection,Texas,Male,1995,2,21,11
+14998,White,Lethal Injection,Texas,Male,1995,4,6,10
+14999,White,Lethal Injection,Texas,Male,1995,6,1,19
+15000,Black,Lethal Injection,Texas,Male,1995,6,8,10
+15001,Black,Lethal Injection,Texas,Male,1995,6,20,23
+15002,Black,Lethal Injection,Texas,Male,1995,6,21,11
+15003,Black,Lethal Injection,Texas,Male,1995,8,15,1
+15004,Black,Lethal Injection,Texas,Male,1995,9,19,10
+15005,White,Lethal Injection,Texas,Male,1995,10,4,10
+15006,Black,Lethal Injection,Texas,Male,1995,12,6,1
+15007,Asian,Lethal Injection,Texas,Male,1995,12,7,1
+15008,Latino,Lethal Injection,Texas,Male,1995,12,11,11
+15009,White,Lethal Injection,Texas,Male,1995,12,12,23
+15010,White,Lethal Injection,Texas,Male,1996,2,9,10
+15011,Black,Lethal Injection,Texas,Male,1996,2,27,11
+15012,Latino,Lethal Injection,Texas,Male,1996,9,18,23
+15013,White,Lethal Injection,Texas,Male,1997,2,10,24
+15014,Black,Lethal Injection,Texas,Male,1997,3,12,19
+15015,White,Lethal Injection,Texas,Male,1997,4,2,10
+15016,White,Lethal Injection,Texas,Male,1997,4,3,1
+15017,White,Lethal Injection,Texas,Male,1997,4,14,19
+15018,White,Lethal Injection,Texas,Male,1997,4,16,1
+15019,White,Lethal Injection,Texas,Male,1997,4,21,11
+15020,White,Lethal Injection,Texas,Male,1997,4,29,23
+15021,Black,Lethal Injection,Texas,Male,1997,5,6,10
+15022,Black,Lethal Injection,Texas,Male,1997,5,13,10
+15024,White,Lethal Injection,Texas,Male,1997,5,19,23
+15025,White,Lethal Injection,Texas,Male,1997,5,20,25
+15026,Black,Lethal Injection,Texas,Male,1997,5,21,10
+15027,White,Lethal Injection,Texas,Male,1997,5,22,10
+15028,White,Lethal Injection,Texas,Male,1997,5,28,1
+15029,Black,Lethal Injection,Texas,Male,1997,6,2,10
+15030,Black,Lethal Injection,Texas,Male,1997,6,3,11
+15031,Black,Lethal Injection,Texas,Male,1997,6,4,10
+15032,Latino,Lethal Injection,Texas,Male,1997,6,4,11
+15033,White,Lethal Injection,Texas,Male,1997,6,11,10
+15034,White,Lethal Injection,Texas,Male,1997,6,16,10
+15035,Black,Lethal Injection,Texas,Male,1997,6,17,24
+15036,Latino,Lethal Injection,Texas,Male,1997,6,18,10
+15038,Black,Lethal Injection,Texas,Male,1997,9,9,23
+15039,Black,Lethal Injection,Texas,Male,1997,9,22,10
+15040,White,Lethal Injection,Texas,Male,1997,9,25,11
+15041,White,Lethal Injection,Texas,Male,1997,9,30,10
+15042,Black,Lethal Injection,Texas,Male,1997,10,1,10
+15043,White,Lethal Injection,Texas,Male,1997,10,8,11
+15044,Black,Lethal Injection,Texas,Male,1997,10,28,1
+15045,Asian,Lethal Injection,Texas,Male,1997,11,4,24
+15046,White,Lethal Injection,Texas,Male,1997,11,6,25
+15047,White,Lethal Injection,Texas,Male,1997,11,19,24
+15048,Black,Lethal Injection,Texas,Male,1997,11,21,10
+15049,White,Lethal Injection,Texas,Male,1997,12,9,1
+15050,White,Lethal Injection,Texas,Female,1998,2,3,10
+15051,White,Lethal Injection,Texas,Male,1998,2,9,1
+15052,White,Lethal Injection,Texas,Male,1998,3,11,26
+15053,White,Lethal Injection,Texas,Male,1998,4,24,1
+15054,White,Lethal Injection,Texas,Male,1998,4,24,1
+15055,White,Lethal Injection,Texas,Male,1998,4,29,1
+15056,Black,Lethal Injection,Texas,Male,1998,5,18,10
+15057,Latino,Lethal Injection,Texas,Male,1998,5,19,11
+15058,White,Lethal Injection,Texas,Male,1998,6,11,10
+15059,White,Lethal Injection,Texas,Male,1998,6,15,1
+15061,Latino,Lethal Injection,Texas,Male,1998,8,26,1
+15062,White,Lethal Injection,Texas,Male,1998,9,9,10
+15063,Latino,Lethal Injection,Texas,Male,1998,9,23,10
+15064,Latino,Lethal Injection,Texas,Male,1998,10,1,1
+15065,White,Lethal Injection,Texas,Male,1998,10,7,1
+15066,White,Lethal Injection,Texas,Male,1998,11,17,24
+15069,Black,Lethal Injection,Texas,Male,1998,12,15,1
+15070,White,Lethal Injection,Texas,Male,1999,1,5,11
+15071,White,Lethal Injection,Texas,Male,1999,1,13,1
+15072,Latino,Lethal Injection,Texas,Male,1999,1,26,1
+15073,Latino,Lethal Injection,Texas,Male,1999,2,10,1
+15074,White,Lethal Injection,Texas,Male,1999,2,11,10
+15075,Latino,Lethal Injection,Texas,Male,1999,2,16,6
+15076,Black,Lethal Injection,Texas,Male,1999,2,24,10
+15077,Black,Lethal Injection,Texas,Male,1999,3,26,25
+15078,White,Lethal Injection,Texas,Male,1999,3,30,10
+15079,White,Lethal Injection,Texas,Male,1999,4,28,1
+15080,Latino,Lethal Injection,Texas,Male,1999,5,4,10
+15081,Black,Lethal Injection,Texas,Male,1999,5,5,23
+15082,White,Lethal Injection,Texas,Male,1999,6,1,1
+15083,White,Lethal Injection,Texas,Male,1999,6,17,1
+15084,White,Lethal Injection,Texas,Male,1999,7,1,10
+15085,Black,Lethal Injection,Texas,Male,1999,7,7,11
+15086,White,Lethal Injection,Texas,Male,1999,8,4,10
+15087,Black,Lethal Injection,Texas,Male,1999,8,5,19
+15088,Black,Lethal Injection,Texas,Male,1999,8,10,10
+15089,White,Lethal Injection,Texas,Male,1999,8,11,24
+15090,Latino,Lethal Injection,Texas,Male,1999,8,18,23
+15091,White,Lethal Injection,Texas,Male,1999,9,1,10
+15093,Black,Lethal Injection,Texas,Male,1999,9,14,10
+15094,White,Lethal Injection,Texas,Male,1999,9,21,10
+15095,White,Lethal Injection,Texas,Male,1999,10,12,1
+15096,White,Lethal Injection,Texas,Male,1999,10,14,11
+15097,Native American,Lethal Injection,Texas,Male,1999,10,28,11
+15098,Black,Lethal Injection,Texas,Male,1999,11,16,1
+15099,White,Lethal Injection,Texas,Male,1999,11,17,10
+15100,Latino,Lethal Injection,Texas,Male,1999,11,18,10
+15101,White,Lethal Injection,Texas,Male,1999,12,8,1
+15102,White,Lethal Injection,Texas,Male,1999,12,9,1
+15103,White,Lethal Injection,Texas,Male,1999,12,14,10
+15104,Black,Lethal Injection,Texas,Male,1999,12,15,10
+15105,White,Lethal Injection,Texas,Male,2000,1,12,25
+15106,White,Lethal Injection,Texas,Male,2000,1,18,25
+15107,Black,Lethal Injection,Texas,Male,2000,1,20,11
+15108,White,Lethal Injection,Texas,Male,2000,1,21,1
+15109,White,Lethal Injection,Texas,Male,2000,1,24,1
+15110,Black,Lethal Injection,Texas,Male,2000,1,25,10
+15111,Black,Lethal Injection,Texas,Male,2000,2,23,23
+15112,White,Lethal Injection,Texas,Female,2000,2,24,1
+15113,Black,Lethal Injection,Texas,Male,2000,3,1,19
+15114,Black,Lethal Injection,Texas,Male,2000,3,14,10
+15115,White,Lethal Injection,Texas,Male,2000,3,15,11
+15116,White,Lethal Injection,Texas,Male,2000,5,4,25
+15117,White,Lethal Injection,Texas,Male,2000,5,9,25
+15118,White,Lethal Injection,Texas,Male,2000,5,11,1
+15119,Black,Lethal Injection,Texas,Male,2000,5,23,10
+15120,White,Lethal Injection,Texas,Male,2000,5,24,10
+15121,Black,Lethal Injection,Texas,Male,2000,5,25,24
+15123,White,Lethal Injection,Texas,Male,2000,6,12,1
+15124,Black,Lethal Injection,Texas,Male,2000,6,14,10
+15125,Latino,Lethal Injection,Texas,Male,2000,6,15,23
+15126,Black,Lethal Injection,Texas,Male,2000,6,22,10
+15127,Latino,Lethal Injection,Texas,Male,2000,6,29,10
+15128,White,Lethal Injection,Texas,Male,2000,7,12,11
+15129,Latino,Lethal Injection,Texas,Male,2000,7,26,10
+15130,Black,Lethal Injection,Texas,Male,2000,8,9,23
+15131,Latino,Lethal Injection,Texas,Male,2000,8,9,11
+15132,Black,Lethal Injection,Texas,Male,2000,8,16,10
+15133,White,Lethal Injection,Texas,Male,2000,8,22,25
+15134,White,Lethal Injection,Texas,Male,2000,8,23,23
+15135,Black,Lethal Injection,Texas,Male,2000,8,30,1
+15136,White,Lethal Injection,Texas,Male,2000,9,27,11
+15137,White,Lethal Injection,Texas,Male,2000,11,1,6
+15138,Latino,Lethal Injection,Texas,Male,2000,11,9,24
+15140,Black,Lethal Injection,Texas,Male,2000,11,15,24
+15141,White,Lethal Injection,Texas,Male,2000,12,5,24
+15142,White,Lethal Injection,Texas,Male,2000,12,6,1
+15143,White,Lethal Injection,Texas,Male,2000,12,7,10
+15144,White,Lethal Injection,Texas,Male,2000,21,27,1
+15145,White,Lethal Injection,Texas,Male,2001,1,9,11
+15146,White,Lethal Injection,Texas,Male,2001,1,18,24
+15147,Black,Lethal Injection,Texas,Male,2001,1,29,11
+15148,Latino,Lethal Injection,Texas,Male,2001,2,8,10
+15149,White,Lethal Injection,Texas,Male,2001,3,7,1
+15150,White,Lethal Injection,Texas,Male,2001,4,3,1
+15151,Black,Lethal Injection,Texas,Male,2001,4,25,24
+15152,White,Lethal Injection,Texas,Male,2001,6,13,1
+15154,Black,Lethal Injection,Texas,Male,2002,1,16,10
+15155,Black,Lethal Injection,Texas,Male,2002,1,30,1
+15156,White,Lethal Injection,Texas,Male,2002,1,31,1
+15157,White,Lethal Injection,Texas,Male,2002,2,28,10
+15158,Black,Lethal Injection,Texas,Male,2002,3,7,1
+15159,Latino,Lethal Injection,Texas,Male,2002,4,10,1
+15161,White,Lethal Injection,Texas,Male,2002,4,18,10
+15162,Latino,Lethal Injection,Texas,Male,2002,4,30,10
+15163,Black,Lethal Injection,Texas,Male,2002,5,9,11
+15164,White,Lethal Injection,Texas,Male,2002,5,16,1
+15165,Latino,Lethal Injection,Texas,Male,2002,5,22,10
+15166,Black,Lethal Injection,Texas,Male,2002,5,28,10
+15167,White,Lethal Injection,Texas,Male,2002,5,30,10
+15168,White,Lethal Injection,Texas,Male,2002,6,13,10
+15169,White,Lethal Injection,Texas,Male,2002,6,25,1
+15170,Black,Lethal Injection,Texas,Male,2002,6,26,11
+15171,White,Lethal Injection,Texas,Male,2002,8,7,10
+15172,Black,Lethal Injection,Texas,Male,2002,8,8,10
+15173,Latino,Lethal Injection,Texas,Male,2002,8,14,10
+15174,White,Lethal Injection,Texas,Male,2002,8,20,11
+15175,Black,Lethal Injection,Texas,Male,2002,8,28,10
+15176,Black,Lethal Injection,Texas,Male,2002,9,10,10
+15177,White,Lethal Injection,Texas,Male,2002,9,17,10
+15178,White,Lethal Injection,Texas,Male,2002,9,18,23
+15179,White,Lethal Injection,Texas,Male,2002,9,24,1
+15180,Black,Lethal Injection,Texas,Male,2002,9,25,10
+15181,White,Lethal Injection,Texas,Male,2002,10,1,24
+15182,White,Lethal Injection,Texas,Male,2002,11,19,1
+15183,White,Lethal Injection,Texas,Male,2002,11,20,1
+15184,Latino,Lethal Injection,Texas,Male,2002,12,4,1
+15185,White,Lethal Injection,Texas,Male,2002,12,11,1
+15187,White,Firing Squad,Utah,Male,1996,1,26,11
+15188,White,Lethal Injection,Utah,Male,1999,10,15,10
+15189,White,Electrocution,Virginia,Male,1992,5,20,11
+15190,White,Electrocution,Virginia,Male,1992,7,23,11
+15193,Black,Electrocution,Virginia,Male,1993,1,19,10
+15195,White,Electrocution,Virginia,Male,1993,6,17,11
+15197,White,Electrocution,Virginia,Male,1993,12,16,11
+15198,Black,Electrocution,Virginia,Male,1994,3,3,10
+15199,Black,Electrocution,Virginia,Male,1994,4,27,11
+15200,Black,Lethal Injection,Virginia,Male,1995,1,24,10
+15201,Black,Lethal Injection,Virginia,Male,1995,6,25,10
+15202,White,Lethal Injection,Virginia,Male,1995,9,27,6
+15203,Black,Lethal Injection,Virginia,Male,1995,10,19,1
+15204,White,Lethal Injection,Virginia,Male,1995,11,13,10
+15205,White,Lethal Injection,Virginia,Male,1996,1,4,10
+15206,Black,Lethal Injection,Virginia,Male,1996,1,23,10
+15207,White,Lethal Injection,Virginia,Male,1996,7,17,10
+15208,Black,Lethal Injection,Virginia,Male,1996,11,21,23
+15209,White,Lethal Injection,Virginia,Male,1996,12,3,1
+15210,Black,Lethal Injection,Virginia,Male,1996,12,10,10
+15211,White,Lethal Injection,Virginia,Male,1996,12,12,11
+15212,White,Lethal Injection,Virginia,Male,1996,12,16,19
+15213,White,Lethal Injection,Virginia,Male,1997,2,6,25
+15214,Black,Lethal Injection,Virginia,Male,1997,2,26,25
+15215,White,Lethal Injection,Virginia,Male,1997,7,17,1
+15216,White,Lethal Injection,Virginia,Male,1997,7,23,11
+15217,Black,Lethal Injection,Virginia,Male,1997,8,19,10
+15218,Latino,Lethal Injection,Virginia,Male,1997,9,17,6
+15219,Black,Lethal Injection,Virginia,Male,1997,11,13,10
+15220,Black,Lethal Injection,Virginia,Male,1997,12,9,19
+15221,White,Lethal Injection,Virginia,Male,1997,12,11,19
+15222,Black,Lethal Injection,Virginia,Male,1998,2,10,10
+15223,White,Lethal Injection,Virginia,Male,1998,3,18,1
+15224,Black,Lethal Injection,Virginia,Male,1998,3,25,10
+15225,Latino,Lethal Injection,Virginia,Male,1998,4,14,11
+15227,White,Lethal Injection,Virginia,Male,1998,7,23,10
+15229,Black,Lethal Injection,Virginia,Male,1998,8,31,1
+15230,White,Electrocution,Virginia,Male,1998,9,23,1
+15233,Black,Lethal Injection,Virginia,Male,1998,11,17,1
+15235,Black,Lethal Injection,Virginia,Male,1999,1,20,10
+15236,White,Lethal Injection,Virginia,Male,1999,2,4,10
+15237,White,Lethal Injection,Virginia,Male,1999,3,9,10
+15238,White,Lethal Injection,Virginia,Male,1999,3,25,6
+15239,Black,Lethal Injection,Virginia,Male,1999,4,13,10
+15240,White,Lethal Injection,Virginia,Male,1999,4,20,10
+15241,White,Lethal Injection,Virginia,Male,1999,4,28,1
+15242,White,Lethal Injection,Virginia,Male,1999,4,29,10
+15243,White,Lethal Injection,Virginia,Male,1999,7,21,25
+15244,Black,Lethal Injection,Virginia,Male,1999,8,17,6
+15245,White,Lethal Injection,Virginia,Male,1999,9,16,24
+15246,Black,Lethal Injection,Virginia,Male,1999,10,19,10
+15247,Black,Lethal Injection,Virginia,Male,1999,11,9,1
+15248,Black,Lethal Injection,Virginia,Male,1999,12,9,10
+15249,White,Lethal Injection,Virginia,Male,2000,1,10,1
+15250,White,Lethal Injection,Virginia,Male,2000,1,13,10
+15251,Black,Lethal Injection,Virginia,Male,2000,3,16,1
+15252,White,Electrocution,Virginia,Male,2000,7,6,10
+15253,White,Lethal Injection,Virginia,Male,2000,8,30,11
+15254,White,Lethal Injection,Virginia,Male,2000,9,14,11
+15255,Black,Lethal Injection,Virginia,Male,2000,10,10,10
+15256,Black,Lethal Injection,Virginia,Male,2000,12,6,1
+15257,White,Lethal Injection,Virginia,Male,2001,3,1,10
+15258,White,Lethal Injection,Virginia,Male,2002,3,14,19
+15259,White,Lethal Injection,Virginia,Male,2002,4,2,24
+15260,Black,Lethal Injection,Virginia,Male,2002,6,12,25
+15261,Other Race,Lethal Injection,Virginia,Male,2002,11,14,1
+15262,White,Hanging,Washington,Male,1993,1,5,11
+15264,White,Lethal Injection,Washington,Male,1998,10,13,11
+15265,White,Lethal Injection,Washington,Male,2001,8,28,11
+15266,White,Lethal Injection,West Virginia,Male,2000,4,19,11
+15267,White,Lethal Injection,Wyoming,Male,1992,1,22,26
