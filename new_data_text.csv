@@ -1,0 +1,1507 @@
+,Year,Race,Sex,Execution Method
+0,1977,White,Male,Firing Squad
+1,1979,White,Male,Electrocution
+2,1979,White,Male,Gas
+3,1981,White,Male,Electrocution
+4,1982,White,Male,Electrocution
+5,1982,Black,Male,Lethal Injection
+6,1983,White,Male,Electrocution
+7,1983,White,Male,Gas
+8,1983,White,Male,Electrocution
+9,1983,Black,Male,Electrocution
+10,1983,White,Male,Electrocution
+11,1984,White,Male,Electrocution
+12,1984,Black,Male,Electrocution
+13,1984,White,Male,Lethal Injection
+14,1984,White,Male,Lethal Injection
+15,1984,White,Male,Lethal Injection
+16,1984,White,Male,Electrocution
+17,1984,White,Male,Electrocution
+18,1984,Black,Male,Electrocution
+19,1984,White,Male,Electrocution
+20,1984,Black,Male,Electrocution
+21,1984,Black,Male,Electrocution
+22,1984,White,Male,Electrocution
+23,1984,White,Male,Electrocution
+24,1984,Black,Male,Electrocution
+25,1984,Black,Male,Electrocution
+26,1984,Black,Male,Electrocution
+27,1984,White,Male,Lethal Injection
+28,1984,White,Female,Lethal Injection
+29,1984,White,Male,Electrocution
+30,1984,Black,Male,Electrocution
+31,1984,White,Male,Electrocution
+32,1985,White,Male,Electrocution
+33,1985,Black,Male,Electrocution
+34,1985,White,Male,Electrocution
+35,1985,White,Male,Lethal Injection
+36,1985,White,Male,Electrocution
+37,1985,Black,Male,Electrocution
+38,1985,White,Male,Electrocution
+39,1985,White,Male,Lethal Injection
+40,1985,Black,Male,Electrocution
+41,1985,Black,Male,Electrocution
+42,1985,Latino,Male,Lethal Injection
+43,1985,Black,Male,Electrocution
+44,1985,Black,Male,Lethal Injection
+45,1985,Black,Male,Electrocution
+46,1985,Latino,Male,Lethal Injection
+47,1985,White,Male,Lethal Injection
+48,1985,White,Male,Electrocution
+49,1985,White,Male,Lethal Injection
+50,1986,White,Male,Electrocution
+51,1986,White,Male,Lethal Injection
+52,1986,Black,Male,Electrocution
+53,1986,Black,Male,Electrocution
+54,1986,White,Male,Lethal Injection
+55,1986,Black,Male,Electrocution
+56,1986,White,Male,Lethal Injection
+57,1986,White,Male,Electrocution
+58,1986,Latino,Male,Lethal Injection
+59,1986,White,Male,Lethal Injection
+60,1986,Black,Male,Electrocution
+61,1986,Black,Male,Electrocution
+62,1986,White,Male,Lethal Injection
+63,1986,Black,Male,Lethal Injection
+64,1986,White,Male,Lethal Injection
+65,1986,White,Male,Lethal Injection
+66,1986,Black,Male,Lethal Injection
+67,1986,Latino,Male,Lethal Injection
+68,1987,Latino,Male,Lethal Injection
+69,1987,Latino,Male,Lethal Injection
+70,1987,Black,Male,Electrocution
+71,1987,Black,Male,Gas
+72,1987,Black,Male,Electrocution
+73,1987,Black,Male,Lethal Injection
+74,1987,White,Male,Electrocution
+75,1987,White,Male,Electrocution
+76,1987,Black,Male,Electrocution
+77,1987,White,Male,Electrocution
+78,1987,White,Male,Electrocution
+79,1987,Black,Male,Lethal Injection
+80,1987,White,Male,Electrocution
+81,1987,White,Male,Lethal Injection
+82,1987,Black,Male,Gas
+83,1987,Black,Male,Electrocution
+84,1987,Black,Male,Electrocution
+85,1987,White,Male,Electrocution
+86,1987,White,Male,Electrocution
+87,1987,Black,Male,Electrocution
+88,1987,White,Male,Electrocution
+89,1987,Black,Male,Lethal Injection
+90,1987,Black,Male,Electrocution
+91,1987,White,Male,Lethal Injection
+92,1987,White,Male,Electrocution
+93,1988,White,Male,Lethal Injection
+94,1988,Black,Male,Electrocution
+95,1988,White,Male,Electrocution
+96,1988,Black,Male,Electrocution
+97,1988,Black,Male,Electrocution
+98,1988,White,Male,Lethal Injection
+99,1988,White,Male,Electrocution
+100,1988,White,Male,Electrocution
+101,1988,Black,Male,Lethal Injection
+102,1988,White,Male,Electrocution
+103,1988,Black,Male,Lethal Injection
+104,1989,White,Male,Lethal Injection
+105,1989,White,Male,Electrocution
+106,1989,Black,Male,Lethal Injection
+107,1989,White,Male,Electrocution
+108,1989,Black,Male,Electrocution
+109,1989,White,Male,Lethal Injection
+110,1989,Black,Male,Electrocution
+111,1989,White,Male,Lethal Injection
+112,1989,Black,Male,Gas
+113,1989,White,Male,Lethal Injection
+114,1989,Black,Male,Electrocution
+115,1989,Black,Male,Electrocution
+116,1989,Black,Male,Electrocution
+117,1989,White,Male,Lethal Injection
+118,1989,Black,Male,Electrocution
+119,1989,Latino,Male,Lethal Injection
+120,1990,White,Male,Lethal Injection
+121,1990,Black,Male,Lethal Injection
+122,1990,White,Male,Electrocution
+123,1990,White,Male,Electrocution
+124,1990,Black,Male,Lethal Injection
+125,1990,White,Male,Lethal Injection
+126,1990,White,Male,Lethal Injection
+127,1990,Black,Male,Electrocution
+128,1990,White,Male,Lethal Injection
+129,1990,White,Male,Electrocution
+130,1990,White,Male,Lethal Injection
+131,1990,Black,Male,Lethal Injection
+132,1990,Black,Male,Electrocution
+133,1990,White,Male,Lethal Injection
+134,1990,White,Male,Electrocution
+135,1990,Black,Male,Electrocution
+136,1990,White,Male,Lethal Injection
+137,1990,White,Male,Lethal Injection
+138,1990,White,Male,Lethal Injection
+139,1990,White,Male,Electrocution
+140,1990,Black,Male,Electrocution
+141,1990,White,Male,Electrocution
+142,1990,White,Male,Electrocution
+143,1991,Black,Male,Lethal Injection
+144,1991,White,Male,Electrocution
+145,1991,Latino,Male,Lethal Injection
+146,1991,White,Male,Lethal Injection
+147,1991,Black,Male,Electrocution
+148,1991,Black,Male,Electrocution
+149,1991,White,Male,Electrocution
+150,1991,Black,Male,Electrocution
+151,1991,Black,Male,Lethal Injection
+152,1991,White,Male,Electrocution
+153,1991,Black,Male,Lethal Injection
+154,1991,Black,Male,Electrocution
+155,1991,White,Male,Lethal Injection
+156,1991,White,Male,Lethal Injection
+157,1992,White,Male,Lethal Injection
+158,1992,Latino,Male,Lethal Injection
+159,1992,Black,Male,Lethal Injection
+160,1992,White,Male,Lethal Injection
+161,1992,White,Male,Lethal Injection
+162,1992,White,Male,Lethal Injection
+163,1992,Black,Male,Lethal Injection
+164,1992,White,Male,Lethal Injection
+165,1992,White,Male,Lethal Injection
+166,1992,White,Male,Electrocution
+167,1992,White,Male,Gas
+168,1992,White,Male,Gas
+169,1992,Black,Male,Lethal Injection
+170,1992,White,Male,Lethal Injection
+171,1992,White,Male,Lethal Injection
+172,1992,White,Male,Electrocution
+173,1992,Latino,Male,Lethal Injection
+174,1992,White,Male,Electrocution
+175,1992,White,Male,Lethal Injection
+176,1992,Black,Male,Electrocution
+177,1992,White,Male,Electrocution
+178,1992,Black,Male,Lethal Injection
+179,1992,Black,Male,Lethal Injection
+180,1992,Black,Male,Electrocution
+181,1992,Black,Male,Lethal Injection
+182,1992,White,Male,Lethal Injection
+183,1992,White,Male,Lethal Injection
+184,1992,Black,Male,Lethal Injection
+185,1992,Black,Male,Electrocution
+186,1992,Black,Male,Lethal Injection
+187,1992,White,Male,Electrocution
+188,1993,White,Male,Hanging
+189,1993,Black,Male,Electrocution
+190,1993,Black,Male,Lethal Injection
+191,1993,White,Male,Lethal Injection
+192,1993,Native American,Male,Lethal Injection
+193,1993,White,Male,Lethal Injection
+194,1993,Black,Male,Electrocution
+195,1993,Latino,Male,Lethal Injection
+196,1993,Latino,Male,Lethal Injection
+197,1993,White,Male,Lethal Injection
+198,1993,White,Male,Electrocution
+199,1993,Black,Male,Lethal Injection
+200,1993,White,Male,Electrocution
+201,1993,Latino,Male,Lethal Injection
+202,1993,White,Male,Lethal Injection
+203,1993,White,Male,Electrocution
+204,1993,White,Male,Electrocution
+205,1993,White,Male,Lethal Injection
+206,1993,Black,Male,Lethal Injection
+207,1993,Black,Male,Lethal Injection
+208,1993,Black,Male,Lethal Injection
+209,1993,Black,Male,Lethal Injection
+210,1993,White,Male,Lethal Injection
+211,1993,White,Male,Lethal Injection
+212,1993,Black,Male,Lethal Injection
+213,1993,Latino,Male,Lethal Injection
+214,1993,White,Male,Gas
+215,1993,White,Male,Electrocution
+216,1993,Black,Male,Lethal Injection
+217,1993,Black,Male,Lethal Injection
+218,1993,White,Male,Lethal Injection
+219,1993,Black,Male,Electrocution
+220,1993,Black,Male,Lethal Injection
+221,1993,White,Male,Lethal Injection
+222,1993,White,Male,Lethal Injection
+223,1993,White,Male,Electrocution
+224,1993,Black,Male,Lethal Injection
+225,1993,White,Male,Electrocution
+226,1994,White,Male,Lethal Injection
+227,1994,White,Male,Lethal Injection
+228,1994,Black,Male,Electrocution
+229,1994,Black,Male,Lethal Injection
+230,1994,Black,Male,Electrocution
+231,1994,White,Male,Lethal Injection
+232,1994,White,Male,Electrocution
+233,1994,White,Male,Lethal Injection
+234,1994,Black,Male,Electrocution
+235,1994,Black,Male,Lethal Injection
+236,1994,White,Male,Lethal Injection
+237,1994,Black,Male,Lethal Injection
+238,1994,White,Male,Lethal Injection
+239,1994,White,Male,Lethal Injection
+240,1994,White,Male,Lethal Injection
+241,1994,White,Male,Hanging
+242,1994,White,Male,Lethal Injection
+243,1994,White,Male,Gas
+244,1994,Black,Male,Lethal Injection
+245,1994,White,Male,Lethal Injection
+246,1994,White,Male,Lethal Injection
+247,1994,White,Male,Lethal Injection
+248,1994,White,Male,Lethal Injection
+249,1994,Black,Male,Electrocution
+250,1994,Latino,Male,Lethal Injection
+251,1994,White,Male,Lethal Injection
+252,1994,Black,Male,Lethal Injection
+253,1994,White,Male,Lethal Injection
+254,1994,Black,Male,Lethal Injection
+255,1994,Black,Male,Electrocution
+256,1994,White,Male,Lethal Injection
+257,1995,White,Male,Lethal Injection
+258,1995,Latino,Male,Lethal Injection
+259,1995,White,Male,Lethal Injection
+260,1995,Black,Male,Lethal Injection
+261,1995,White,Male,Lethal Injection
+262,1995,Black,Male,Lethal Injection
+263,1995,White,Male,Lethal Injection
+264,1995,White,Male,Lethal Injection
+265,1995,Black,Male,Lethal Injection
+266,1995,White,Male,Lethal Injection
+267,1995,White,Male,Lethal Injection
+268,1995,Black,Male,Lethal Injection
+269,1995,White,Male,Lethal Injection
+270,1995,White,Male,Lethal Injection
+271,1995,White,Male,Electrocution
+272,1995,White,Male,Lethal Injection
+273,1995,Black,Male,Electrocution
+274,1995,White,Male,Lethal Injection
+275,1995,Black,Male,Lethal Injection
+276,1995,White,Male,Lethal Injection
+277,1995,Black,Male,Electrocution
+278,1995,Black,Male,Lethal Injection
+279,1995,Black,Male,Lethal Injection
+280,1995,White,Male,Electrocution
+281,1995,Black,Male,Lethal Injection
+282,1995,White,Male,Lethal Injection
+283,1995,Black,Male,Lethal Injection
+284,1995,Black,Male,Lethal Injection
+285,1995,Black,Male,Lethal Injection
+286,1995,Black,Male,Lethal Injection
+287,1995,White,Male,Lethal Injection
+288,1995,White,Male,Electrocution
+289,1995,Black,Male,Lethal Injection
+290,1995,White,Male,Lethal Injection
+291,1995,Black,Male,Lethal Injection
+292,1995,White,Male,Lethal Injection
+293,1995,Black,Male,Lethal Injection
+294,1995,Black,Male,Lethal Injection
+295,1995,White,Male,Lethal Injection
+296,1995,Black,Male,Lethal Injection
+297,1995,White,Male,Lethal Injection
+298,1995,White,Male,Lethal Injection
+299,1995,White,Male,Lethal Injection
+300,1995,White,Male,Lethal Injection
+301,1995,White,Male,Lethal Injection
+302,1995,Black,Male,Lethal Injection
+303,1995,White,Male,Lethal Injection
+304,1995,White,Male,Lethal Injection
+305,1995,White,Male,Lethal Injection
+306,1995,Black,Male,Electrocution
+307,1995,White,Male,Electrocution
+308,1995,White,Male,Lethal Injection
+309,1995,Black,Male,Lethal Injection
+310,1995,Asian,Male,Lethal Injection
+311,1995,Latino,Male,Lethal Injection
+312,1995,White,Male,Lethal Injection
+313,1996,White,Male,Lethal Injection
+314,1996,Black,Male,Lethal Injection
+315,1996,White,Male,Hanging
+316,1996,White,Male,Firing Squad
+317,1996,Black,Male,Lethal Injection
+318,1996,White,Male,Lethal Injection
+319,1996,Black,Male,Electrocution
+320,1996,White,Male,Lethal Injection
+321,1996,White,Male,Lethal Injection
+322,1996,Black,Male,Lethal Injection
+323,1996,Black,Male,Lethal Injection
+324,1996,White,Male,Lethal Injection
+325,1996,White,Male,Lethal Injection
+326,1996,White,Male,Lethal Injection
+327,1996,White,Male,Lethal Injection
+328,1996,White,Male,Lethal Injection
+329,1996,White,Male,Lethal Injection
+330,1996,White,Male,Lethal Injection
+331,1996,White,Male,Electrocution
+332,1996,White,Male,Lethal Injection
+333,1996,Black,Male,Lethal Injection
+334,1996,White,Male,Lethal Injection
+335,1996,Native American,Male,Lethal Injection
+336,1996,Black,Male,Lethal Injection
+337,1996,White,Male,Lethal Injection
+338,1996,White,Male,Lethal Injection
+339,1996,White,Male,Lethal Injection
+340,1996,Latino,Male,Lethal Injection
+341,1996,White,Male,Lethal Injection
+342,1996,White,Male,Lethal Injection
+343,1996,Black,Male,Lethal Injection
+344,1996,Latino,Male,Lethal Injection
+345,1996,White,Male,Electrocution
+346,1996,Black,Male,Electrocution
+347,1996,White,Male,Electrocution
+348,1996,White,Male,Lethal Injection
+349,1996,White,Male,Electrocution
+350,1996,Black,Male,Lethal Injection
+351,1996,Black,Male,Lethal Injection
+352,1996,White,Male,Lethal Injection
+353,1996,Black,Male,Electrocution
+354,1996,Black,Male,Lethal Injection
+355,1996,White,Male,Lethal Injection
+356,1996,White,Male,Lethal Injection
+357,1996,White,Male,Lethal Injection
+358,1997,White,Male,Lethal Injection
+359,1997,Latino,Male,Lethal Injection
+360,1997,Black,Male,Lethal Injection
+361,1997,White,Male,Electrocution
+362,1997,White,Male,Lethal Injection
+363,1997,White,Male,Lethal Injection
+364,1997,White,Male,Lethal Injection
+365,1997,White,Male,Lethal Injection
+366,1997,Black,Male,Lethal Injection
+367,1997,Black,Male,Lethal Injection
+368,1997,Latino,Male,Electrocution
+369,1997,White,Male,Lethal Injection
+370,1997,White,Male,Lethal Injection
+371,1997,White,Male,Lethal Injection
+372,1997,White,Male,Lethal Injection
+373,1997,White,Male,Lethal Injection
+374,1997,White,Male,Lethal Injection
+375,1997,White,Male,Lethal Injection
+376,1997,Black,Male,Electrocution
+377,1997,Black,Male,Lethal Injection
+378,1997,Native American,Male,Lethal Injection
+379,1997,Black,Male,Lethal Injection
+380,1997,White,Male,Lethal Injection
+381,1997,White,Male,Lethal Injection
+382,1997,White,Male,Lethal Injection
+383,1997,White,Male,Lethal Injection
+384,1997,Black,Male,Lethal Injection
+385,1997,White,Male,Lethal Injection
+386,1997,White,Male,Lethal Injection
+387,1997,Black,Male,Lethal Injection
+388,1997,Black,Male,Lethal Injection
+389,1997,Black,Male,Lethal Injection
+390,1997,Latino,Male,Lethal Injection
+391,1997,White,Male,Electrocution
+392,1997,White,Male,Lethal Injection
+393,1997,White,Male,Lethal Injection
+394,1997,White,Male,Lethal Injection
+395,1997,Black,Male,Lethal Injection
+396,1997,Latino,Male,Lethal Injection
+397,1997,White,Male,Lethal Injection
+398,1997,White,Male,Electrocution
+399,1997,Black,Male,Lethal Injection
+400,1997,White,Male,Lethal Injection
+401,1997,White,Male,Lethal Injection
+402,1997,Native American,Male,Lethal Injection
+403,1997,White,Male,Lethal Injection
+404,1997,White,Male,Lethal Injection
+405,1997,White,Male,Lethal Injection
+406,1997,Black,Male,Lethal Injection
+407,1997,White,Male,Lethal Injection
+408,1997,Black,Male,Lethal Injection
+409,1997,Latino,Male,Lethal Injection
+410,1997,Black,Male,Lethal Injection
+411,1997,Black,Male,Lethal Injection
+412,1997,White,Male,Lethal Injection
+413,1997,White,Male,Lethal Injection
+414,1997,Black,Male,Lethal Injection
+415,1997,White,Male,Lethal Injection
+416,1997,White,Male,Lethal Injection
+417,1997,White,Male,Lethal Injection
+418,1997,Black,Male,Lethal Injection
+419,1997,Asian,Male,Lethal Injection
+420,1997,White,Male,Lethal Injection
+421,1997,Black,Male,Lethal Injection
+422,1997,Black,Male,Lethal Injection
+423,1997,Black,Male,Lethal Injection
+424,1997,Black,Male,Lethal Injection
+425,1997,White,Male,Lethal Injection
+426,1997,Black,Male,Lethal Injection
+427,1997,Black,Male,Lethal Injection
+428,1997,Black,Male,Electrocution
+429,1997,White,Male,Lethal Injection
+430,1997,Black,Male,Lethal Injection
+431,1997,White,Male,Lethal Injection
+432,1998,White,Male,Lethal Injection
+433,1998,Latino,Male,Lethal Injection
+434,1998,White,Male,Lethal Injection
+435,1998,White,Male,Gas
+436,1998,White,Female,Lethal Injection
+437,1998,White,Male,Lethal Injection
+438,1998,Black,Male,Lethal Injection
+439,1998,White,Male,Lethal Injection
+440,1998,White,Male,Lethal Injection
+441,1998,Black,Male,Lethal Injection
+442,1998,White,Male,Lethal Injection
+443,1998,White,Male,Lethal Injection
+444,1998,White,Male,Lethal Injection
+445,1998,White,Male,Electrocution
+446,1998,Black,Male,Electrocution
+447,1998,Black,Male,Lethal Injection
+448,1998,Black,Male,Lethal Injection
+449,1998,White,Female,Electrocution
+450,1998,Native American,Male,Electrocution
+451,1998,Latino,Male,Lethal Injection
+452,1998,White,Male,Lethal Injection
+453,1998,Latino,Male,Lethal Injection
+454,1998,White,Male,Lethal Injection
+455,1998,White,Male,Lethal Injection
+456,1998,White,Male,Lethal Injection
+457,1998,White,Male,Lethal Injection
+458,1998,White,Male,Electrocution
+459,1998,Black,Male,Lethal Injection
+460,1998,Latino,Male,Lethal Injection
+461,1998,White,Male,Lethal Injection
+462,1998,White,Male,Electrocution
+463,1998,White,Male,Lethal Injection
+464,1998,White,Male,Lethal Injection
+465,1998,White,Male,Lethal Injection
+466,1998,Latino,Male,Lethal Injection
+467,1998,White,Male,Lethal Injection
+468,1998,White,Male,Lethal Injection
+469,1998,White,Male,Lethal Injection
+470,1998,White,Male,Lethal Injection
+471,1998,White,Male,Lethal Injection
+472,1998,White,Male,Lethal Injection
+473,1998,Black,Male,Lethal Injection
+474,1998,Latino,Male,Lethal Injection
+475,1998,Black,Male,Lethal Injection
+476,1998,White,Male,Lethal Injection
+477,1998,Latino,Male,Lethal Injection
+478,1998,White,Male,Electrocution
+479,1998,White,Male,Lethal Injection
+480,1998,Latino,Male,Lethal Injection
+481,1998,Latino,Male,Lethal Injection
+482,1998,White,Male,Lethal Injection
+483,1998,White,Male,Lethal Injection
+484,1998,Black,Male,Lethal Injection
+485,1998,Black,Male,Lethal Injection
+486,1998,Black,Male,Lethal Injection
+487,1998,White,Male,Lethal Injection
+488,1998,Black,Male,Lethal Injection
+489,1998,White,Male,Lethal Injection
+490,1998,Black,Male,Lethal Injection
+491,1998,Black,Male,Lethal Injection
+492,1998,Black,Male,Lethal Injection
+493,1998,White,Male,Lethal Injection
+494,1998,White,Male,Lethal Injection
+495,1998,Asian,Male,Lethal Injection
+496,1998,Black,Male,Lethal Injection
+497,1998,Black,Male,Lethal Injection
+498,1998,White,Male,Lethal Injection
+499,1998,Black,Male,Lethal Injection
+500,1999,White,Male,Lethal Injection
+501,1999,Native American,Male,Lethal Injection
+502,1999,Black,Male,Lethal Injection
+503,1999,Black,Male,Lethal Injection
+504,1999,Black,Male,Lethal Injection
+505,1999,White,Male,Lethal Injection
+506,1999,White,Male,Lethal Injection
+507,1999,Black,Male,Lethal Injection
+508,1999,White,Male,Lethal Injection
+509,1999,Latino,Male,Lethal Injection
+510,1999,Native American,Male,Lethal Injection
+511,1999,White,Male,Lethal Injection
+512,1999,White,Male,Lethal Injection
+513,1999,Asian,Male,Lethal Injection
+514,1999,Latino,Male,Lethal Injection
+515,1999,White,Male,Lethal Injection
+516,1999,Latino,Male,Lethal Injection
+517,1999,White,Male,Lethal Injection
+518,1999,White,Male,Lethal Injection
+519,1999,White,Male,Lethal Injection
+520,1999,Black,Male,Lethal Injection
+521,1999,White,Male,Lethal Injection
+522,1999,White,Male,Gas
+523,1999,White,Male,Lethal Injection
+524,1999,White,Male,Lethal Injection
+525,1999,White,Male,Lethal Injection
+526,1999,White,Male,Lethal Injection
+527,1999,Black,Male,Lethal Injection
+528,1999,White,Male,Lethal Injection
+529,1999,White,Male,Lethal Injection
+530,1999,Asian,Male,Lethal Injection
+531,1999,White,Male,Lethal Injection
+532,1999,Black,Male,Lethal Injection
+533,1999,Black,Male,Lethal Injection
+534,1999,White,Male,Lethal Injection
+535,1999,White,Male,Lethal Injection
+536,1999,Black,Male,Lethal Injection
+537,1999,White,Male,Lethal Injection
+538,1999,White,Male,Lethal Injection
+539,1999,White,Male,Lethal Injection
+540,1999,Black,Male,Lethal Injection
+541,1999,Latino,Male,Lethal Injection
+542,1999,White,Male,Lethal Injection
+543,1999,Black,Male,Lethal Injection
+544,1999,White,Male,Lethal Injection
+545,1999,Black,Male,Lethal Injection
+546,1999,White,Male,Lethal Injection
+547,1999,White,Male,Lethal Injection
+548,1999,Black,Male,Lethal Injection
+549,1999,White,Male,Lethal Injection
+550,1999,White,Male,Lethal Injection
+551,1999,Black,Male,Electrocution
+552,1999,White,Male,Lethal Injection
+553,1999,White,Male,Lethal Injection
+554,1999,White,Male,Lethal Injection
+555,1999,Black,Male,Lethal Injection
+556,1999,White,Male,Lethal Injection
+557,1999,White,Male,Electrocution
+558,1999,White,Male,Lethal Injection
+559,1999,White,Male,Lethal Injection
+560,1999,Black,Male,Lethal Injection
+561,1999,Black,Male,Electrocution
+562,1999,Black,Male,Lethal Injection
+563,1999,White,Male,Lethal Injection
+564,1999,Black,Male,Lethal Injection
+565,1999,Latino,Male,Lethal Injection
+566,1999,White,Male,Lethal Injection
+567,1999,Black,Male,Lethal Injection
+568,1999,White,Male,Lethal Injection
+569,1999,White,Male,Lethal Injection
+570,1999,Black,Male,Lethal Injection
+571,1999,Black,Male,Lethal Injection
+572,1999,White,Male,Lethal Injection
+573,1999,White,Male,Lethal Injection
+574,1999,Black,Male,Lethal Injection
+575,1999,Black,Male,Lethal Injection
+576,1999,White,Male,Lethal Injection
+577,1999,White,Male,Lethal Injection
+578,1999,White,Male,Lethal Injection
+579,1999,Black,Male,Lethal Injection
+580,1999,White,Male,Lethal Injection
+581,1999,Latino,Male,Lethal Injection
+582,1999,Native American,Male,Lethal Injection
+583,1999,Black,Male,Lethal Injection
+584,1999,Black,Male,Lethal Injection
+585,1999,Black,Male,Lethal Injection
+586,1999,White,Male,Lethal Injection
+587,1999,Latino,Male,Lethal Injection
+588,1999,Black,Male,Lethal Injection
+589,1999,Black,Male,Lethal Injection
+590,1999,White,Male,Lethal Injection
+591,1999,White,Male,Lethal Injection
+592,1999,Black,Male,Lethal Injection
+593,1999,White,Male,Lethal Injection
+594,1999,White,Male,Lethal Injection
+595,1999,Black,Male,Lethal Injection
+596,1999,White,Male,Lethal Injection
+597,1999,Black,Male,Lethal Injection
+598,2000,Black,Male,Lethal Injection
+599,2000,White,Male,Electrocution
+600,2000,White,Male,Lethal Injection
+601,2000,White,Male,Lethal Injection
+602,2000,White,Male,Lethal Injection
+603,2000,White,Male,Lethal Injection
+604,2000,White,Male,Lethal Injection
+605,2000,Black,Male,Lethal Injection
+606,2000,White,Male,Lethal Injection
+607,2000,White,Male,Lethal Injection
+608,2000,Black,Male,Lethal Injection
+609,2000,White,Male,Lethal Injection
+610,2000,Black,Male,Lethal Injection
+611,2000,White,Male,Lethal Injection
+612,2000,White,Male,Lethal Injection
+613,2000,Black,Male,Lethal Injection
+614,2000,White,Male,Lethal Injection
+615,2000,White,Female,Lethal Injection
+616,2000,Black,Male,Lethal Injection
+617,2000,Black,Male,Electrocution
+618,2000,Black,Male,Lethal Injection
+619,2000,Native American,Male,Lethal Injection
+620,2000,White,Male,Lethal Injection
+621,2000,White,Male,Lethal Injection
+622,2000,Black,Male,Lethal Injection
+623,2000,White,Male,Lethal Injection
+624,2000,Black,Male,Lethal Injection
+625,2000,Black,Male,Electrocution
+626,2000,White,Male,Lethal Injection
+627,2000,Black,Male,Lethal Injection
+628,2000,White,Female,Lethal Injection
+629,2000,Black,Male,Lethal Injection
+630,2000,White,Male,Lethal Injection
+631,2000,White,Male,Lethal Injection
+632,2000,Black,Male,Lethal Injection
+633,2000,White,Male,Lethal Injection
+634,2000,Black,Male,Lethal Injection
+635,2000,Black,Male,Lethal Injection
+636,2000,Black,Male,Lethal Injection
+637,2000,Native American,Male,Lethal Injection
+638,2000,Black,Male,Electrocution
+639,2000,Black,Male,Lethal Injection
+640,2000,Black,Male,Lethal Injection
+641,2000,White,Male,Lethal Injection
+642,2000,White,Male,Lethal Injection
+643,2000,Black,Male,Lethal Injection
+644,2000,Black,Male,Lethal Injection
+645,2000,Latino,Male,Lethal Injection
+646,2000,White,Male,Lethal Injection
+647,2000,Black,Male,Lethal Injection
+648,2000,White,Male,Lethal Injection
+649,2000,Latino,Male,Lethal Injection
+650,2000,White,Male,Electrocution
+651,2000,White,Male,Lethal Injection
+652,2000,White,Male,Lethal Injection
+653,2000,Latino,Male,Lethal Injection
+654,2000,Black,Male,Lethal Injection
+655,2000,Latino,Male,Lethal Injection
+656,2000,White,Male,Lethal Injection
+657,2000,Black,Male,Lethal Injection
+658,2000,White,Male,Lethal Injection
+659,2000,White,Male,Lethal Injection
+660,2000,White,Male,Lethal Injection
+661,2000,White,Male,Lethal Injection
+662,2000,Black,Male,Lethal Injection
+663,2000,White,Male,Lethal Injection
+664,2000,Black,Male,Lethal Injection
+665,2000,White,Male,Lethal Injection
+666,2000,White,Male,Lethal Injection
+667,2000,Black,Male,Lethal Injection
+668,2000,White,Male,Lethal Injection
+669,2000,Black,Male,Lethal Injection
+670,2000,White,Male,Lethal Injection
+671,2000,Black,Male,Lethal Injection
+672,2000,Latino,Male,Lethal Injection
+673,2000,Black,Male,Lethal Injection
+674,2000,White,Male,Lethal Injection
+675,2000,Black,Male,Lethal Injection
+676,2000,Black,Male,Lethal Injection
+677,2000,White,Male,Lethal Injection
+678,2000,White,Male,Lethal Injection
+679,2000,Black,Male,Lethal Injection
+680,2000,Latino,Male,Lethal Injection
+681,2000,White,Male,Lethal Injection
+682,2000,Black,Male,Lethal Injection
+683,2001,White,Male,Lethal Injection
+684,2001,Black,Male,Lethal Injection
+685,2001,White,Male,Lethal Injection
+686,2001,Black,Female,Lethal Injection
+687,2001,White,Male,Lethal Injection
+688,2001,White,Male,Lethal Injection
+689,2001,Native American,Male,Lethal Injection
+690,2001,White,Male,Lethal Injection
+691,2001,White,Male,Lethal Injection
+692,2001,Black,Male,Lethal Injection
+693,2001,White,Male,Lethal Injection
+694,2001,White,Male,Lethal Injection
+695,2001,White,Male,Lethal Injection
+696,2001,Latino,Male,Lethal Injection
+697,2001,White,Male,Lethal Injection
+698,2001,White,Male,Lethal Injection
+699,2001,White,Male,Lethal Injection
+700,2001,Black,Male,Lethal Injection
+701,2001,White,Male,Lethal Injection
+702,2001,White,Male,Lethal Injection
+703,2001,White,Male,Lethal Injection
+704,2001,White,Male,Lethal Injection
+705,2001,White,Male,Lethal Injection
+706,2001,White,Male,Lethal Injection
+707,2001,Black,Male,Lethal Injection
+708,2001,Black,Male,Lethal Injection
+709,2001,White,Male,Lethal Injection
+710,2001,White,Female,Lethal Injection
+711,2001,White,Male,Lethal Injection
+712,2001,Native American,Male,Lethal Injection
+713,2001,Black,Male,Lethal Injection
+714,2001,Black,Male,Lethal Injection
+715,2001,Black,Male,Lethal Injection
+716,2001,White,Male,Lethal Injection
+717,2001,White,Male,Lethal Injection
+718,2001,Black,Male,Lethal Injection
+719,2001,Latino,Male,Lethal Injection
+720,2001,Black,Male,Lethal Injection
+721,2001,White,Male,Lethal Injection
+722,2001,Black,Male,Lethal Injection
+723,2001,White,Male,Lethal Injection
+724,2001,Native American,Male,Lethal Injection
+725,2001,White,Male,Lethal Injection
+726,2001,White,Male,Lethal Injection
+727,2001,White,Male,Lethal Injection
+728,2001,White,Male,Lethal Injection
+729,2001,White,Male,Lethal Injection
+730,2001,White,Male,Lethal Injection
+731,2001,White,Male,Lethal Injection
+732,2001,White,Male,Lethal Injection
+733,2001,Black,Male,Lethal Injection
+734,2001,White,Male,Lethal Injection
+735,2001,White,Male,Lethal Injection
+736,2001,Black,Male,Lethal Injection
+737,2001,White,Male,Lethal Injection
+738,2001,White,Male,Lethal Injection
+739,2001,Black,Male,Lethal Injection
+740,2001,White,Male,Lethal Injection
+741,2001,White,Male,Lethal Injection
+742,2001,White,Male,Lethal Injection
+743,2001,Black,Male,Lethal Injection
+744,2001,White,Male,Lethal Injection
+745,2001,White,Female,Lethal Injection
+746,2001,Other Race,Male,Lethal Injection
+747,2001,White,Male,Lethal Injection
+748,2001,Black,Male,Lethal Injection
+749,2002,White,Male,Lethal Injection
+750,2002,White,Male,Lethal Injection
+751,2002,Black,Male,Lethal Injection
+752,2002,White,Male,Lethal Injection
+753,2002,White,Male,Lethal Injection
+754,2002,White,Male,Lethal Injection
+755,2002,Black,Male,Lethal Injection
+756,2002,White,Male,Lethal Injection
+757,2002,White,Male,Lethal Injection
+758,2002,Black,Male,Lethal Injection
+759,2002,White,Male,Lethal Injection
+760,2002,White,Male,Lethal Injection
+761,2002,White,Male,Lethal Injection
+762,2002,Black,Male,Lethal Injection
+763,2002,White,Male,Lethal Injection
+764,2002,White,Male,Lethal Injection
+765,2002,White,Male,Lethal Injection
+766,2002,White,Male,Lethal Injection
+767,2002,Latino,Male,Lethal Injection
+768,2002,Black,Male,Lethal Injection
+769,2002,White,Male,Lethal Injection
+770,2002,Black,Male,Lethal Injection
+771,2002,Latino,Male,Lethal Injection
+772,2002,White,Male,Lethal Injection
+773,2002,Black,Male,Lethal Injection
+774,2002,White,Female,Electrocution
+775,2002,White,Male,Lethal Injection
+776,2002,White,Male,Lethal Injection
+777,2002,Latino,Male,Lethal Injection
+778,2002,Black,Male,Lethal Injection
+779,2002,White,Male,Lethal Injection
+780,2002,Black,Male,Lethal Injection
+781,2002,White,Male,Lethal Injection
+782,2002,White,Male,Lethal Injection
+783,2002,Black,Male,Lethal Injection
+784,2002,White,Male,Lethal Injection
+785,2002,White,Male,Lethal Injection
+786,2002,White,Male,Lethal Injection
+787,2002,White,Male,Lethal Injection
+788,2002,Black,Male,Lethal Injection
+789,2002,Latino,Male,Lethal Injection
+790,2002,White,Male,Lethal Injection
+791,2002,White,Male,Lethal Injection
+792,2002,White,Male,Lethal Injection
+793,2002,Black,Male,Lethal Injection
+794,2002,Black,Male,Lethal Injection
+795,2002,Black,Male,Lethal Injection
+796,2002,White,Male,Lethal Injection
+797,2002,White,Male,Lethal Injection
+798,2002,White,Male,Lethal Injection
+799,2002,White,Male,Lethal Injection
+800,2002,White,Male,Lethal Injection
+801,2002,Black,Male,Lethal Injection
+802,2002,White,Male,Lethal Injection
+803,2002,Latino,Male,Lethal Injection
+804,2002,White,Female,Lethal Injection
+805,2002,White,Male,Lethal Injection
+806,2002,Other Race,Male,Lethal Injection
+807,2002,White,Male,Lethal Injection
+808,2002,White,Male,Lethal Injection
+809,2002,White,Male,Lethal Injection
+810,2002,Latino,Male,Lethal Injection
+811,2002,White,Male,Lethal Injection
+812,2002,Black,Male,Lethal Injection
+813,2002,Black,Male,Lethal Injection
+814,2002,White,Male,Lethal Injection
+815,2002,White,Male,Lethal Injection
+816,2002,White,Male,Lethal Injection
+817,2002,White,Male,Lethal Injection
+818,2002,White,Male,Lethal Injection
+819,2002,Black,Male,Lethal Injection
+820,2003,White,Male,Lethal Injection
+821,2003,Latino,Male,Lethal Injection
+822,2003,White,Male,Lethal Injection
+823,2003,White,Male,Lethal Injection
+824,2003,Black,Male,Lethal Injection
+825,2003,White,Male,Lethal Injection
+826,2003,White,Male,Lethal Injection
+827,2003,Latino,Male,Lethal Injection
+828,2003,White,Male,Lethal Injection
+829,2003,Black,Male,Lethal Injection
+830,2003,White,Male,Lethal Injection
+831,2003,Black,Male,Lethal Injection
+832,2003,Black,Male,Lethal Injection
+833,2003,Black,Male,Lethal Injection
+834,2003,White,Male,Lethal Injection
+835,2003,White,Male,Lethal Injection
+836,2003,Black,Male,Lethal Injection
+837,2003,Black,Male,Lethal Injection
+838,2003,Black,Male,Lethal Injection
+839,2003,Black,Male,Lethal Injection
+840,2003,White,Male,Lethal Injection
+841,2003,White,Male,Lethal Injection
+842,2003,White,Male,Lethal Injection
+843,2003,White,Male,Lethal Injection
+844,2003,White,Male,Electrocution
+845,2003,Black,Male,Lethal Injection
+846,2003,Latino,Male,Lethal Injection
+847,2003,White,Male,Lethal Injection
+848,2003,White,Male,Lethal Injection
+849,2003,White,Male,Lethal Injection
+850,2003,White,Male,Lethal Injection
+851,2003,White,Male,Lethal Injection
+852,2003,White,Male,Lethal Injection
+853,2003,White,Male,Lethal Injection
+854,2003,White,Male,Lethal Injection
+855,2003,Black,Male,Lethal Injection
+856,2003,Black,Male,Lethal Injection
+857,2003,White,Male,Lethal Injection
+858,2003,Black,Male,Lethal Injection
+859,2003,White,Male,Lethal Injection
+860,2003,White,Male,Lethal Injection
+861,2003,White,Male,Lethal Injection
+862,2003,Black,Male,Lethal Injection
+863,2003,Black,Male,Lethal Injection
+864,2003,Black,Male,Lethal Injection
+865,2003,White,Male,Lethal Injection
+866,2003,Black,Male,Lethal Injection
+867,2003,White,Male,Lethal Injection
+868,2003,White,Male,Lethal Injection
+869,2003,White,Male,Lethal Injection
+870,2003,White,Male,Lethal Injection
+871,2003,Black,Male,Lethal Injection
+872,2003,White,Male,Lethal Injection
+873,2003,White,Male,Lethal Injection
+874,2003,Native American,Male,Lethal Injection
+875,2003,White,Male,Lethal Injection
+876,2003,White,Male,Lethal Injection
+877,2003,White,Male,Lethal Injection
+878,2003,White,Male,Lethal Injection
+879,2003,White,Male,Lethal Injection
+880,2003,Black,Male,Lethal Injection
+881,2003,White,Male,Lethal Injection
+882,2003,White,Male,Lethal Injection
+883,2003,White,Male,Lethal Injection
+884,2003,Black,Male,Lethal Injection
+885,2004,Black,Male,Lethal Injection
+886,2004,Black,Male,Lethal Injection
+887,2004,White,Male,Lethal Injection
+888,2004,Black,Male,Lethal Injection
+889,2004,Black,Male,Lethal Injection
+890,2004,Black,Male,Lethal Injection
+891,2004,White,Male,Lethal Injection
+892,2004,White,Male,Lethal Injection
+893,2004,White,Male,Lethal Injection
+894,2004,Black,Male,Lethal Injection
+895,2004,Black,Male,Lethal Injection
+896,2004,Black,Male,Lethal Injection
+897,2004,White,Male,Lethal Injection
+898,2004,White,Male,Lethal Injection
+899,2004,Black,Male,Lethal Injection
+900,2004,White,Male,Lethal Injection
+901,2004,White,Male,Lethal Injection
+902,2004,White,Male,Lethal Injection
+903,2004,Asian,Male,Lethal Injection
+904,2004,White,Male,Lethal Injection
+905,2004,White,Male,Lethal Injection
+906,2004,White,Male,Lethal Injection
+907,2004,White,Male,Lethal Injection
+908,2004,White,Male,Lethal Injection
+909,2004,Black,Male,Lethal Injection
+910,2004,White,Male,Lethal Injection
+911,2004,White,Male,Electrocution
+912,2004,White,Male,Lethal Injection
+913,2004,White,Male,Lethal Injection
+914,2004,White,Male,Lethal Injection
+915,2004,White,Male,Lethal Injection
+916,2004,White,Male,Lethal Injection
+917,2004,White,Male,Lethal Injection
+918,2004,White,Male,Lethal Injection
+919,2004,White,Male,Lethal Injection
+920,2004,White,Male,Lethal Injection
+921,2004,White,Male,Lethal Injection
+922,2004,White,Male,Lethal Injection
+923,2004,White,Male,Lethal Injection
+924,2004,White,Male,Lethal Injection
+925,2004,White,Male,Lethal Injection
+926,2004,Black,Male,Lethal Injection
+927,2004,Black,Male,Lethal Injection
+928,2004,Latino,Male,Lethal Injection
+929,2004,White,Male,Lethal Injection
+930,2004,Black,Male,Lethal Injection
+931,2004,Latino,Male,Lethal Injection
+932,2004,Black,Male,Lethal Injection
+933,2004,White,Male,Lethal Injection
+934,2004,Black,Male,Lethal Injection
+935,2004,White,Male,Lethal Injection
+936,2004,White,Male,Lethal Injection
+937,2004,Black,Male,Lethal Injection
+938,2004,Black,Male,Lethal Injection
+939,2004,White,Male,Lethal Injection
+940,2004,Black,Male,Lethal Injection
+941,2004,Black,Male,Lethal Injection
+942,2004,White,Male,Lethal Injection
+943,2004,Latino,Male,Lethal Injection
+944,2005,White,Male,Lethal Injection
+945,2005,White,Male,Lethal Injection
+946,2005,White,Male,Lethal Injection
+947,2005,White,Male,Lethal Injection
+948,2005,White,Male,Lethal Injection
+949,2005,White,Male,Lethal Injection
+950,2005,Black,Male,Lethal Injection
+951,2005,White,Male,Lethal Injection
+952,2005,White,Male,Lethal Injection
+953,2005,White,Male,Lethal Injection
+954,2005,White,Male,Lethal Injection
+955,2005,Black,Male,Lethal Injection
+956,2005,White,Male,Lethal Injection
+957,2005,White,Male,Lethal Injection
+958,2005,White,Male,Lethal Injection
+959,2005,White,Male,Lethal Injection
+960,2005,Black,Male,Lethal Injection
+961,2005,White,Male,Lethal Injection
+962,2005,White,Male,Lethal Injection
+963,2005,Black,Male,Lethal Injection
+964,2005,Black,Male,Lethal Injection
+965,2005,White,Male,Lethal Injection
+966,2005,Black,Male,Lethal Injection
+967,2005,Black,Male,Lethal Injection
+968,2005,White,Male,Lethal Injection
+969,2005,White,Male,Lethal Injection
+970,2005,White,Male,Lethal Injection
+971,2005,Latino,Male,Lethal Injection
+972,2005,White,Male,Lethal Injection
+973,2005,Black,Male,Lethal Injection
+974,2005,White,Male,Lethal Injection
+975,2005,Latino,Male,Lethal Injection
+976,2005,White,Male,Lethal Injection
+977,2005,Black,Male,Lethal Injection
+978,2005,Black,Male,Lethal Injection
+979,2005,White,Male,Lethal Injection
+980,2005,White,Male,Lethal Injection
+981,2005,Black,Female,Lethal Injection
+982,2005,White,Male,Lethal Injection
+983,2005,White,Male,Lethal Injection
+984,2005,White,Male,Lethal Injection
+985,2005,Black,Male,Lethal Injection
+986,2005,Latino,Male,Lethal Injection
+987,2005,Black,Male,Lethal Injection
+988,2005,Black,Male,Lethal Injection
+989,2005,White,Male,Lethal Injection
+990,2005,White,Male,Lethal Injection
+991,2005,Black,Male,Lethal Injection
+992,2005,White,Male,Lethal Injection
+993,2005,White,Male,Lethal Injection
+994,2005,White,Male,Lethal Injection
+995,2005,Black,Male,Lethal Injection
+996,2005,Other Race,Male,Lethal Injection
+997,2005,White,Male,Lethal Injection
+998,2005,Black,Male,Lethal Injection
+999,2005,White,Male,Lethal Injection
+1000,2005,White,Male,Lethal Injection
+1001,2005,Black,Male,Lethal Injection
+1002,2005,Black,Male,Lethal Injection
+1003,2005,White,Male,Lethal Injection
+1004,2006,Native American,Male,Lethal Injection
+1005,2006,Black,Male,Lethal Injection
+1006,2006,Black,Male,Lethal Injection
+1007,2006,White,Male,Lethal Injection
+1008,2006,Latino,Male,Lethal Injection
+1009,2006,White,Male,Lethal Injection
+1010,2006,White,Male,Lethal Injection
+1011,2006,Black,Male,Lethal Injection
+1012,2006,Black,Male,Lethal Injection
+1013,2006,White,Male,Lethal Injection
+1014,2006,Latino,Male,Lethal Injection
+1015,2006,Black,Male,Lethal Injection
+1016,2006,White,Male,Lethal Injection
+1017,2006,Black,Male,Lethal Injection
+1018,2006,Black,Male,Lethal Injection
+1019,2006,Black,Male,Lethal Injection
+1020,2006,Black,Male,Lethal Injection
+1021,2006,Latino,Male,Lethal Injection
+1022,2006,Black,Male,Lethal Injection
+1023,2006,Latino,Male,Lethal Injection
+1024,2006,White,Male,Lethal Injection
+1025,2006,White,Male,Lethal Injection
+1026,2006,Black,Male,Lethal Injection
+1027,2006,Latino,Male,Lethal Injection
+1028,2006,White,Male,Lethal Injection
+1029,2006,Black,Male,Lethal Injection
+1030,2006,White,Male,Lethal Injection
+1031,2006,White,Male,Lethal Injection
+1032,2006,Black,Male,Lethal Injection
+1033,2006,White,Male,Lethal Injection
+1034,2006,White,Male,Electrocution
+1035,2006,White,Male,Lethal Injection
+1036,2006,Black,Male,Lethal Injection
+1037,2006,White,Male,Lethal Injection
+1038,2006,White,Male,Lethal Injection
+1039,2006,Latino,Male,Lethal Injection
+1040,2006,White,Male,Lethal Injection
+1041,2006,Black,Male,Lethal Injection
+1042,2006,Black,Male,Lethal Injection
+1043,2006,White,Male,Lethal Injection
+1044,2006,Black,Male,Lethal Injection
+1045,2006,Black,Male,Lethal Injection
+1046,2006,Black,Male,Lethal Injection
+1047,2006,White,Male,Lethal Injection
+1048,2006,White,Male,Lethal Injection
+1049,2006,White,Male,Lethal Injection
+1050,2006,White,Male,Lethal Injection
+1051,2006,White,Male,Lethal Injection
+1052,2006,White,Male,Lethal Injection
+1053,2006,Black,Male,Lethal Injection
+1054,2006,Black,Male,Lethal Injection
+1055,2006,White,Male,Lethal Injection
+1056,2006,Latino,Male,Lethal Injection
+1057,2007,Black,Male,Lethal Injection
+1058,2007,Latino,Male,Lethal Injection
+1059,2007,White,Male,Lethal Injection
+1060,2007,White,Male,Lethal Injection
+1061,2007,Black,Male,Lethal Injection
+1062,2007,White,Male,Lethal Injection
+1063,2007,White,Male,Lethal Injection
+1064,2007,Latino,Male,Lethal Injection
+1065,2007,Black,Male,Lethal Injection
+1066,2007,Black,Male,Lethal Injection
+1067,2007,Latino,Male,Lethal Injection
+1068,2007,White,Male,Lethal Injection
+1069,2007,White,Male,Lethal Injection
+1070,2007,White,Male,Lethal Injection
+1071,2007,White,Male,Lethal Injection
+1072,2007,Black,Male,Lethal Injection
+1073,2007,White,Male,Lethal Injection
+1074,2007,White,Male,Lethal Injection
+1075,2007,White,Male,Lethal Injection
+1076,2007,White,Male,Lethal Injection
+1077,2007,White,Male,Lethal Injection
+1078,2007,White,Male,Lethal Injection
+1079,2007,White,Male,Lethal Injection
+1080,2007,Latino,Male,Lethal Injection
+1081,2007,Latino,Male,Lethal Injection
+1082,2007,Black,Male,Lethal Injection
+1083,2007,White,Male,Lethal Injection
+1084,2007,White,Male,Lethal Injection
+1085,2007,Black,Male,Lethal Injection
+1086,2007,White,Male,Lethal Injection
+1087,2007,Black,Male,Lethal Injection
+1088,2007,Black,Male,Lethal Injection
+1089,2007,Black,Male,Lethal Injection
+1090,2007,White,Male,Lethal Injection
+1091,2007,Black,Male,Lethal Injection
+1092,2007,Black,Male,Lethal Injection
+1093,2007,Black,Male,Lethal Injection
+1094,2007,Latino,Male,Lethal Injection
+1095,2007,White,Male,Lethal Injection
+1096,2007,White,Male,Electrocution
+1097,2007,White,Male,Lethal Injection
+1098,2007,Black,Male,Lethal Injection
+1099,2008,White,Male,Lethal Injection
+1100,2008,White,Male,Lethal Injection
+1101,2008,Black,Male,Lethal Injection
+1102,2008,Black,Male,Lethal Injection
+1103,2008,White,Male,Lethal Injection
+1104,2008,White,Male,Lethal Injection
+1105,2008,White,Male,Lethal Injection
+1106,2008,Black,Male,Electrocution
+1107,2008,Black,Male,Lethal Injection
+1108,2008,White,Male,Lethal Injection
+1109,2008,Black,Male,Lethal Injection
+1110,2008,Black,Male,Lethal Injection
+1111,2008,White,Male,Lethal Injection
+1112,2008,Black,Male,Lethal Injection
+1113,2008,White,Male,Lethal Injection
+1114,2008,Black,Male,Lethal Injection
+1115,2008,Latino,Male,Lethal Injection
+1116,2008,Latino,Male,Lethal Injection
+1117,2008,Black,Male,Lethal Injection
+1118,2008,Latino,Male,Lethal Injection
+1119,2008,White,Male,Lethal Injection
+1120,2008,White,Male,Lethal Injection
+1121,2008,Black,Male,Lethal Injection
+1122,2008,White,Male,Lethal Injection
+1123,2008,White,Male,Lethal Injection
+1124,2008,White,Male,Lethal Injection
+1125,2008,Black,Male,Lethal Injection
+1126,2008,White,Male,Lethal Injection
+1127,2008,White,Male,Lethal Injection
+1128,2008,White,Male,Lethal Injection
+1129,2008,Black,Male,Lethal Injection
+1130,2008,Black,Male,Lethal Injection
+1131,2008,Black,Male,Lethal Injection
+1132,2008,Black,Male,Lethal Injection
+1133,2008,Black,Male,Lethal Injection
+1134,2008,White,Male,Lethal Injection
+1135,2008,Black,Male,Lethal Injection
+1136,2009,Black,Male,Lethal Injection
+1137,2009,White,Male,Lethal Injection
+1138,2009,Black,Male,Lethal Injection
+1139,2009,Black,Male,Lethal Injection
+1140,2009,Black,Male,Lethal Injection
+1141,2009,Latino,Male,Lethal Injection
+1142,2009,Latino,Male,Lethal Injection
+1143,2009,White,Male,Lethal Injection
+1144,2009,Latino,Male,Lethal Injection
+1145,2009,Black,Male,Lethal Injection
+1146,2009,White,Male,Lethal Injection
+1147,2009,White,Male,Lethal Injection
+1148,2009,Black,Male,Lethal Injection
+1149,2009,Black,Male,Lethal Injection
+1150,2009,White,Male,Lethal Injection
+1151,2009,Black,Male,Lethal Injection
+1152,2009,Black,Male,Lethal Injection
+1153,2009,Latino,Male,Lethal Injection
+1154,2009,White,Male,Lethal Injection
+1155,2009,Latino,Male,Lethal Injection
+1156,2009,Latino,Male,Lethal Injection
+1157,2009,Black,Male,Lethal Injection
+1158,2009,White,Male,Lethal Injection
+1159,2009,Black,Male,Lethal Injection
+1160,2009,Black,Male,Lethal Injection
+1161,2009,Black,Male,Lethal Injection
+1162,2009,White,Male,Lethal Injection
+1163,2009,Black,Male,Lethal Injection
+1164,2009,White,Male,Lethal Injection
+1165,2009,White,Male,Lethal Injection
+1166,2009,White,Male,Lethal Injection
+1167,2009,White,Male,Lethal Injection
+1168,2009,White,Male,Lethal Injection
+1169,2009,White,Male,Lethal Injection
+1170,2009,Black,Male,Lethal Injection
+1171,2009,White,Male,Lethal Injection
+1172,2009,White,Male,Lethal Injection
+1173,2009,White,Male,Lethal Injection
+1174,2009,Black,Male,Lethal Injection
+1175,2009,White,Male,Lethal Injection
+1176,2009,White,Male,Lethal Injection
+1177,2009,Black,Male,Lethal Injection
+1178,2009,Black,Male,Lethal Injection
+1179,2009,Latino,Male,Lethal Injection
+1180,2009,Black,Male,Lethal Injection
+1181,2009,White,Male,Electrocution
+1182,2009,Black,Male,Lethal Injection
+1183,2009,Black,Male,Lethal Injection
+1184,2009,Black,Male,Lethal Injection
+1185,2009,White,Male,Lethal Injection
+1186,2009,White,Male,Lethal Injection
+1187,2009,White,Male,Lethal Injection
+1188,2010,Black,Male,Lethal Injection
+1189,2010,Black,Male,Lethal Injection
+1190,2010,White,Male,Lethal Injection
+1191,2010,White,Male,Lethal Injection
+1192,2010,Black,Male,Lethal Injection
+1193,2010,Black,Male,Lethal Injection
+1194,2010,White,Male,Lethal Injection
+1195,2010,Latino,Male,Lethal Injection
+1196,2010,White,Male,Lethal Injection
+1197,2010,White,Male,Lethal Injection
+1198,2010,White,Male,Electrocution
+1199,2010,Black,Male,Lethal Injection
+1200,2010,Black,Male,Lethal Injection
+1201,2010,White,Male,Lethal Injection
+1202,2010,Latino,Male,Lethal Injection
+1203,2010,White,Male,Lethal Injection
+1204,2010,White,Male,Lethal Injection
+1205,2010,White,Male,Lethal Injection
+1206,2010,Latino,Male,Lethal Injection
+1207,2010,White,Male,Lethal Injection
+1208,2010,White,Male,Lethal Injection
+1209,2010,Black,Male,Lethal Injection
+1210,2010,Latino,Male,Lethal Injection
+1211,2010,White,Male,Lethal Injection
+1212,2010,Black,Male,Lethal Injection
+1213,2010,White,Male,Lethal Injection
+1214,2010,White,Male,Lethal Injection
+1215,2010,White,Male,Lethal Injection
+1216,2010,White,Male,Firing Squad
+1217,2010,White,Male,Lethal Injection
+1218,2010,Black,Male,Lethal Injection
+1219,2010,Black,Male,Lethal Injection
+1220,2010,White,Male,Lethal Injection
+1221,2010,Black,Male,Lethal Injection
+1222,2010,White,Male,Lethal Injection
+1223,2010,Latino,Male,Lethal Injection
+1224,2010,Black,Male,Lethal Injection
+1225,2010,White,Male,Lethal Injection
+1226,2010,White,Female,Lethal Injection
+1227,2010,White,Male,Lethal Injection
+1228,2010,White,Male,Lethal Injection
+1229,2010,White,Male,Lethal Injection
+1230,2010,Black,Male,Lethal Injection
+1231,2010,Native American,Male,Lethal Injection
+1232,2010,White,Male,Lethal Injection
+1233,2010,White,Male,Lethal Injection
+1234,2011,Black,Male,Lethal Injection
+1235,2011,White,Male,Lethal Injection
+1236,2011,Black,Male,Lethal Injection
+1237,2011,Black,Male,Lethal Injection
+1238,2011,White,Male,Lethal Injection
+1239,2011,White,Male,Lethal Injection
+1240,2011,White,Male,Lethal Injection
+1241,2011,Black,Male,Lethal Injection
+1242,2011,Black,Male,Lethal Injection
+1243,2011,Black,Male,Lethal Injection
+1244,2011,White,Male,Lethal Injection
+1245,2011,Black,Male,Lethal Injection
+1246,2011,White,Male,Lethal Injection
+1247,2011,White,Male,Lethal Injection
+1248,2011,White,Male,Lethal Injection
+1249,2011,White,Male,Lethal Injection
+1250,2011,Black,Male,Lethal Injection
+1251,2011,White,Male,Lethal Injection
+1252,2011,White,Male,Lethal Injection
+1253,2011,Black,Male,Lethal Injection
+1254,2011,White,Male,Lethal Injection
+1255,2011,Black,Male,Lethal Injection
+1256,2011,Black,Male,Lethal Injection
+1257,2011,White,Male,Lethal Injection
+1258,2011,White,Male,Lethal Injection
+1259,2011,Latino,Male,Lethal Injection
+1260,2011,White,Male,Lethal Injection
+1261,2011,White,Male,Lethal Injection
+1262,2011,White,Male,Lethal Injection
+1263,2011,White,Male,Lethal Injection
+1264,2011,Latino,Male,Lethal Injection
+1265,2011,Black,Male,Lethal Injection
+1266,2011,White,Male,Lethal Injection
+1267,2011,White,Male,Lethal Injection
+1268,2011,Black,Male,Lethal Injection
+1269,2011,Black,Male,Lethal Injection
+1270,2011,Latino,Male,Lethal Injection
+1271,2011,White,Male,Lethal Injection
+1272,2011,Latino,Male,Lethal Injection
+1273,2011,Black,Male,Lethal Injection
+1274,2011,White,Male,Lethal Injection
+1275,2011,Latino,Male,Lethal Injection
+1276,2011,White,Male,Lethal Injection
+1277,2012,White,Male,Lethal Injection
+1278,2012,Latino,Male,Lethal Injection
+1279,2012,White,Male,Lethal Injection
+1280,2012,White,Male,Lethal Injection
+1281,2012,White,Male,Lethal Injection
+1282,2012,Latino,Male,Lethal Injection
+1283,2012,White,Male,Lethal Injection
+1284,2012,White,Male,Lethal Injection
+1285,2012,White,Male,Lethal Injection
+1286,2012,White,Male,Lethal Injection
+1287,2012,Black,Male,Lethal Injection
+1288,2012,Latino,Male,Lethal Injection
+1289,2012,White,Male,Lethal Injection
+1290,2012,White,Male,Lethal Injection
+1291,2012,Black,Male,Lethal Injection
+1292,2012,White,Male,Lethal Injection
+1293,2012,Black,Male,Lethal Injection
+1294,2012,White,Male,Lethal Injection
+1295,2012,Black,Male,Lethal Injection
+1296,2012,White,Male,Lethal Injection
+1297,2012,White,Male,Lethal Injection
+1298,2012,White,Male,Lethal Injection
+1299,2012,Latino,Male,Lethal Injection
+1300,2012,Black,Male,Lethal Injection
+1301,2012,Black,Male,Lethal Injection
+1302,2012,White,Male,Lethal Injection
+1303,2012,White,Male,Lethal Injection
+1304,2012,White,Male,Lethal Injection
+1305,2012,Black,Male,Lethal Injection
+1306,2012,White,Male,Lethal Injection
+1307,2012,Black,Male,Lethal Injection
+1308,2012,White,Male,Lethal Injection
+1309,2012,White,Male,Lethal Injection
+1310,2012,White,Male,Lethal Injection
+1311,2012,White,Male,Lethal Injection
+1312,2012,Black,Male,Lethal Injection
+1313,2012,Black,Male,Lethal Injection
+1314,2012,White,Male,Lethal Injection
+1315,2012,Latino,Male,Lethal Injection
+1316,2012,Black,Male,Lethal Injection
+1317,2012,Latino,Male,Lethal Injection
+1318,2012,White,Male,Lethal Injection
+1319,2012,Latino,Male,Lethal Injection
+1320,2013,White,Male,Electrocution
+1321,2013,Black,Male,Lethal Injection
+1322,2013,White,Male,Lethal Injection
+1323,2013,White,Male,Lethal Injection
+1324,2013,White,Male,Lethal Injection
+1325,2013,Black,Male,Lethal Injection
+1326,2013,White,Male,Lethal Injection
+1327,2013,Black,Male,Lethal Injection
+1328,2013,White,Male,Lethal Injection
+1329,2013,White,Male,Lethal Injection
+1330,2013,Black,Male,Lethal Injection
+1331,2013,Black,Male,Lethal Injection
+1332,2013,White,Male,Lethal Injection
+1333,2013,Black,Male,Lethal Injection
+1334,2013,White,Male,Lethal Injection
+1335,2013,White,Male,Lethal Injection
+1336,2013,Black,Male,Lethal Injection
+1337,2013,Black,Female,Lethal Injection
+1338,2013,Latino,Male,Lethal Injection
+1339,2013,Black,Male,Lethal Injection
+1340,2013,White,Male,Lethal Injection
+1341,2013,White,Male,Lethal Injection
+1342,2013,Black,Male,Lethal Injection
+1343,2013,Black,Male,Lethal Injection
+1344,2013,Latino,Male,Lethal Injection
+1345,2013,White,Male,Lethal Injection
+1346,2013,Latino,Male,Lethal Injection
+1347,2013,White,Male,Lethal Injection
+1348,2013,White,Male,Lethal Injection
+1349,2013,White,Male,Lethal Injection
+1350,2013,White,Male,Lethal Injection
+1351,2013,White,Male,Lethal Injection
+1352,2013,Black,Male,Lethal Injection
+1353,2013,White,Male,Lethal Injection
+1354,2013,White,Male,Lethal Injection
+1355,2013,White,Male,Lethal Injection
+1356,2013,Black,Male,Lethal Injection
+1357,2013,White,Male,Lethal Injection
+1358,2013,White,Male,Lethal Injection
+1359,2014,Black,Male,Lethal Injection
+1360,2014,Black,Male,Lethal Injection
+1361,2014,White,Male,Lethal Injection
+1362,2014,Latino,Male,Lethal Injection
+1363,2014,White,Male,Lethal Injection
+1364,2014,Black,Male,Lethal Injection
+1365,2014,White,Female,Lethal Injection
+1366,2014,Latino,Male,Lethal Injection
+1367,2014,Black,Male,Lethal Injection
+1368,2014,Black,Male,Lethal Injection
+1369,2014,Black,Male,Lethal Injection
+1370,2014,Black,Male,Lethal Injection
+1371,2014,White,Male,Lethal Injection
+1372,2014,Black,Male,Lethal Injection
+1373,2014,White,Male,Lethal Injection
+1374,2014,Latino,Male,Lethal Injection
+1375,2014,Latino,Male,Lethal Injection
+1376,2014,White,Male,Lethal Injection
+1377,2014,White,Male,Lethal Injection
+1378,2014,Black,Male,Lethal Injection
+1379,2014,Black,Male,Lethal Injection
+1380,2014,Black,Male,Lethal Injection
+1381,2014,Black,Male,Lethal Injection
+1382,2014,White,Male,Lethal Injection
+1383,2014,White,Male,Lethal Injection
+1384,2014,White,Male,Lethal Injection
+1385,2014,White,Male,Lethal Injection
+1386,2014,Black,Male,Lethal Injection
+1387,2014,Black,Male,Lethal Injection
+1388,2014,Black,Female,Lethal Injection
+1389,2014,Latino,Male,Lethal Injection
+1390,2014,Black,Male,Lethal Injection
+1391,2014,Black,Male,Lethal Injection
+1392,2014,Black,Male,Lethal Injection
+1393,2014,White,Male,Lethal Injection
+1394,2015,White,Male,Lethal Injection
+1395,2015,White,Male,Lethal Injection
+1396,2015,Black,Male,Lethal Injection
+1397,2015,Latino,Male,Lethal Injection
+1398,2015,Black,Male,Lethal Injection
+1399,2015,Black,Male,Lethal Injection
+1400,2015,White,Male,Lethal Injection
+1401,2015,White,Male,Lethal Injection
+1402,2015,Latino,Male,Lethal Injection
+1403,2015,White,Male,Lethal Injection
+1404,2015,White,Male,Lethal Injection
+1405,2015,Black,Male,Lethal Injection
+1406,2015,Latino,Male,Lethal Injection
+1407,2015,Black,Male,Lethal Injection
+1408,2015,White,Male,Lethal Injection
+1409,2015,Black,Male,Lethal Injection
+1410,2015,Black,Male,Lethal Injection
+1411,2015,White,Male,Lethal Injection
+1412,2015,Latino,Male,Lethal Injection
+1413,2015,Black,Male,Lethal Injection
+1414,2015,White,Female,Lethal Injection
+1415,2015,Latino,Male,Lethal Injection
+1416,2015,Latino,Male,Lethal Injection
+1417,2015,Latino,Male,Lethal Injection
+1418,2015,White,Male,Lethal Injection
+1419,2015,Black,Male,Lethal Injection
+1420,2015,White,Male,Lethal Injection
+1421,2015,Black,Male,Lethal Injection
+1422,2016,White,Male,Lethal Injection
+1423,2016,White,Male,Lethal Injection
+1424,2016,White,Male,Lethal Injection
+1425,2016,White,Male,Lethal Injection
+1426,2016,Black,Male,Lethal Injection
+1427,2016,Latino,Male,Lethal Injection
+1428,2016,White,Male,Lethal Injection
+1429,2016,White,Male,Lethal Injection
+1430,2016,White,Male,Lethal Injection
+1431,2016,White,Male,Lethal Injection
+1432,2016,Latino,Male,Lethal Injection
+1433,2016,Black,Male,Lethal Injection
+1434,2016,White,Male,Lethal Injection
+1435,2016,White,Male,Lethal Injection
+1436,2016,White,Male,Lethal Injection
+1437,2016,White,Male,Lethal Injection
+1438,2016,White,Male,Lethal Injection
+1439,2016,White,Male,Lethal Injection
+1440,2016,White,Male,Lethal Injection
+1441,2016,White,Male,Lethal Injection
+1442,2017,White,Male,Lethal Injection
+1443,2017,Black,Male,Lethal Injection
+1444,2017,Black,Male,Lethal Injection
+1445,2017,White,Male,Lethal Injection
+1446,2017,Latino,Male,Lethal Injection
+1447,2017,White,Male,Lethal Injection
+1448,2017,Black,Male,Lethal Injection
+1449,2017,White,Male,Lethal Injection
+1450,2017,Black,Male,Lethal Injection
+1451,2017,Black,Male,Lethal Injection
+1452,2017,White,Male,Lethal Injection
+1453,2017,White,Male,Lethal Injection
+1454,2017,Black,Male,Lethal Injection
+1455,2017,White,Male,Lethal Injection
+1456,2017,White,Male,Lethal Injection
+1457,2017,Black,Male,Lethal Injection
+1458,2017,White,Male,Lethal Injection
+1459,2017,White,Male,Lethal Injection
+1460,2017,White,Male,Lethal Injection
+1461,2017,White,Male,Lethal Injection
+1462,2017,Black,Male,Lethal Injection
+1463,2017,White,Male,Lethal Injection
+1464,2017,Latino,Male,Lethal Injection
+1465,2018,White,Male,Lethal Injection
+1466,2018,Black,Male,Lethal Injection
+1467,2018,White,Male,Lethal Injection
+1468,2018,White,Male,Lethal Injection
+1469,2018,White,Male,Lethal Injection
+1470,2018,Black,Male,Lethal Injection
+1471,2018,Latino,Male,Lethal Injection
+1472,2018,White,Male,Lethal Injection
+1473,2018,Black,Male,Lethal Injection
+1474,2018,Black,Male,Lethal Injection
+1475,2018,Latino,Male,Lethal Injection
+1476,2018,White,Male,Lethal Injection
+1477,2018,Black,Male,Lethal Injection
+1478,2018,White,Male,Lethal Injection
+1479,2018,White,Male,Lethal Injection
+1480,2018,White,Male,Lethal Injection
+1481,2018,White,Male,Lethal Injection
+1482,2018,White,Male,Lethal Injection
+1483,2018,White,Male,Lethal Injection
+1484,2018,White,Male,Electrocution
+1485,2018,Latino,Male,Lethal Injection
+1486,2018,Latino,Male,Lethal Injection
+1487,2018,White,Male,Electrocution
+1488,2018,Black,Male,Lethal Injection
+1489,2018,Latino,Male,Lethal Injection
+1490,2019,Black,Male,Lethal Injection
+1491,2019,Black,Male,Lethal Injection
+1492,2019,White,Male,Lethal Injection
+1493,2019,White,Male,Lethal Injection
+1494,2019,Black,Male,Lethal Injection
+1495,2019,White,Male,Lethal Injection
+1496,2019,White,Male,Lethal Injection
+1497,2019,White,Male,Lethal Injection
+1498,2019,White,Male,Lethal Injection
+1499,2019,Black,Male,Lethal Injection
+1500,2019,White,Male,Electrocution
+1501,2019,White,Male,Lethal Injection
+1502,2019,White,Male,Lethal Injection
+1503,2019,White,Male,Lethal Injection
+1504,2019,Latino,Male,Lethal Injection
+1505,2019,Black,Male,Lethal Injection
